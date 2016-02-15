@@ -8,6 +8,10 @@ Evaluates the accuracy of the EstNLTK morphological disambiguator.
 from __future__ import division, print_function
 
 """
+Usage:
+
+./eval-disambiguate.py gold/*.txt --verbosity=2
+
 TODO:
   - output pivot tabel over analysis if desired
   - make sure alignment is correct
@@ -23,6 +27,11 @@ import sys
 import pandas as pd
 
 DEFAULT_VERBOSITY = 0
+DEFAULT_OUTPUT_TYPES = set(['csv'])
+
+COLS_MATCH = ['forms_match', 'postags_match', 'postags_and_forms_match', 'all_match']
+COLS_GOLD = ['gold_word_texts', 'gold_roots', 'gold_postags', 'gold_forms', 'gold_ambiguity']
+
 
 def print_float(f):
     print("%0.2f" % f)
@@ -65,11 +74,6 @@ def evaluate(args, hyp, gold):
         raw_df['postags_match'].append(score(row, ['postags']))
         raw_df['postags_and_forms_match'].append(score(row, ['postags', 'forms']))
         raw_df['all_match'].append(score(row, ['forms', 'postags', 'roots']))
-
-    if args.verbosity > 0:
-        print_float(sum(raw_df['forms_match']) / len(raw_df['forms_match']))
-        print_float(sum(raw_df['postags_match']) / len(raw_df['postags_match']))
-        print_float(sum(raw_df['postags_and_forms_match']) / len(raw_df['postags_and_forms_match']))
     # TODO: ignore keys
     return pd.concat([c, pd.DataFrame.from_dict(raw_df)], axis=1)
 
@@ -143,12 +147,13 @@ def get_text(fn):
     return Text(data, guess=True, disambiguate=True), pd.DataFrame.from_dict(raw_df)
 
 
-def save_as_excel(args, fn, df):
+def save_as_excel(fn, df):
     writer = pd.ExcelWriter(fn + '.xlsx')
-    df.to_excel(writer,'Sheet1')
+    df.to_excel(writer, 'Sheet1')
     writer.save()
-    if args.verbosity > 0:
-        print('Wrote: {0}'.format(fn), file=sys.stderr)
+
+def save_as_csv(fn, df):
+    df.to_csv(fn + '.csv', sep='\t', encoding='utf-8')
 
 
 def read_files(args):
@@ -156,15 +161,25 @@ def read_files(args):
         try:
             text,gold = get_text(fn)
             df = evaluate(args, text.get.word_texts.roots.postags.forms.as_dataframe, gold)
-            save_as_excel(args, fn, df)
+            if args.verbosity > 0:
+                print(df.describe())
+            for t in args.output_types:
+                if t == 'excel':
+                    save_as_excel(fn, df)
+                else:
+                    save_as_csv(fn, df)
+            if args.verbosity > 0:
+                print('Wrote: {0}'.format(fn), file=sys.stderr)
         except AttributeError as e:
             print('Warning: error: skipped: {0}: {1}'.format(fn, e), file=sys.stderr)
 
 def get_args():
+    css = lambda x: set([el for el in x.split(',')])
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('fns', metavar='N', type=str, nargs='+', help='gold standard')
+    p.add_argument('--output-types', type=css, dest='output_types', default=DEFAULT_OUTPUT_TYPES, help='output types')
     p.add_argument('--verbosity', type=int, default=DEFAULT_VERBOSITY, help='verbosity')
-    p.add_argument('-v', '--version', action='version', version='%(prog)s v0.0.1')
+    p.add_argument('-v', '--version', action='version', version='%(prog)s v0.0.2')
     return p.parse_args()
 
 def main():
