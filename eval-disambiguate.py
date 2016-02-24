@@ -10,7 +10,20 @@ from __future__ import division, print_function
 """
 Usage:
 
-./eval-disambiguate.py gold/*.txt --verbosity=2
+./eval-disambiguate.py --output-types=csv,excel --verbosity=2 gold/*.txt
+
+Input format:
+
+- Mitmesus on esitatud kui tab-separated-values/4 tühikut.
+- Sõnaliik (POSTAG) ja sõnavorm (FORM) on eraldatud kahe püstkriipsuga.
+- Mitmesuse puhul on õige variant tähistatud + märgiga.
+  NT: on    ole+0||V b||    ole+0||V vad||+
+- Kui õige analüüs puudub, siis on korrektne variant lisatud tühiku kaugusele % märgi taha.
+  NT: Noorte    Noor+te||H pl g||    Noorte+0||H sg g|| %noor+te||S pl g||
+- Võõrkeelsed sõnad on saanud märgendiks W.
+  NT: Difference    Difference+0||H sg n|| %difference+0||W||
+- Paaril juhul on analüüside esiletoomiseks lisatud tühiku kaugusel * märk.
+  NT: liku    liku+0||S sg n|| *
 
 TODO:
   - output pivot tabel over analysis if desired
@@ -32,6 +45,9 @@ DEFAULT_OUTPUT_TYPES = set(['csv'])
 COLS_MATCH = ['forms_match', 'postags_match', 'postags_and_forms_match', 'all_match']
 COLS_GOLD = ['gold_word_texts', 'gold_roots', 'gold_postags', 'gold_forms', 'gold_ambiguity']
 
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width', 1000)
+
 
 def print_float(f):
     print("%0.2f" % f)
@@ -39,22 +55,28 @@ def print_float(f):
 def as_utf8(s):
     return s.encode('utf8')
 
-def score_aux(hyp, gold):
+def score_aux(hyp, gold, only_unamb=False):
     """Returns a number between 0 and 1
     0: no match, or
     1/n: where n is the number of |-separated hypotheses
     """
     hyp_analysis = set(hyp.split('|'))
+    if len(hyp_analysis) > 1 and only_unamb:
+        return 0
     if gold in hyp_analysis:
-        return 1/len(hyp_analysis)
+        return 1
+        #return 1/len(hyp_analysis)
     return 0
 
-def score(row, keys):
+def get_analysis(hyp):
+    return set(hyp.split('|'))
+
+def score(row, keys, only_unamb=False):
     """Returns the minumum score
     """
     scores = []
     for key in keys:
-        scores.append(score_aux(row[key], row['gold_' + key]))
+        scores.append(score_aux(row[key], row['gold_' + key], only_unamb))
     return min(scores)
 
 def evaluate(args, hyp, gold):
@@ -62,29 +84,39 @@ def evaluate(args, hyp, gold):
     """
     # TODO: define in the beginning
     raw_df = {
+        'forms_amb' : [],
         'forms_match' : [],
+        'postags_amb' : [],
         'postags_match' : [],
+        'roots_amb' : [],
+        'roots_match' : [],
         'postags_and_forms_match' : [],
-        'all_match': []
+        'all_match': [],
+        'all_match_unamb': []
     }
     # TODO: ignore keys
     c = pd.concat([hyp, gold], axis=1)
     for index, row in c.iterrows():
+        raw_df['forms_amb'].append(len(get_analysis(row['forms'])))
         raw_df['forms_match'].append(score(row, ['forms']))
+        raw_df['postags_amb'].append(len(get_analysis(row['postags'])))
         raw_df['postags_match'].append(score(row, ['postags']))
+        raw_df['roots_amb'].append(len(get_analysis(row['roots'])))
+        raw_df['roots_match'].append(score(row, ['roots']))
         raw_df['postags_and_forms_match'].append(score(row, ['postags', 'forms']))
         raw_df['all_match'].append(score(row, ['forms', 'postags', 'roots']))
+        raw_df['all_match_unamb'].append(score(row, ['forms', 'postags', 'roots'], True))
     # TODO: ignore keys
     return pd.concat([c, pd.DataFrame.from_dict(raw_df)], axis=1)
 
 def parse_analysis(s):
     """Parse the gold standard analysis.
     Input examples:
-        %Oslo+0||H sg n||
+        Oslo+0||H sg n||
         tule+a||V da||
         toime+0||S adt||+
     Output examples:
-        %Oslo+0, H, sg n
+        Oslo+0, H, sg n
         tule+a, V, da
         toime+0, S, adt
     """
@@ -176,10 +208,10 @@ def read_files(args):
 def get_args():
     css = lambda x: set([el for el in x.split(',')])
     p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument('fns', metavar='N', type=str, nargs='+', help='gold standard')
+    p.add_argument('fns', metavar='FILE', type=str, nargs='+', help='gold standard')
     p.add_argument('--output-types', type=css, dest='output_types', default=DEFAULT_OUTPUT_TYPES, help='output types')
     p.add_argument('--verbosity', type=int, default=DEFAULT_VERBOSITY, help='verbosity')
-    p.add_argument('-v', '--version', action='version', version='%(prog)s v0.0.2')
+    p.add_argument('-v', '--version', action='version', version='%(prog)s v0.0.3')
     return p.parse_args()
 
 def main():
