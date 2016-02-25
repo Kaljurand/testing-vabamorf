@@ -36,6 +36,7 @@ import argparse
 from estnltk import Text
 from estnltk.teicorpus import parse_tei_corpus
 import re
+import random
 import sys
 import pandas as pd
 
@@ -55,28 +56,31 @@ def print_float(f):
 def as_utf8(s):
     return s.encode('utf8')
 
-def score_aux(hyp, gold, only_unamb=False):
-    """Returns a number between 0 and 1
-    0: no match, or
-    1/n: where n is the number of |-separated hypotheses
-    """
-    hyp_analysis = set(hyp.split('|'))
-    if len(hyp_analysis) > 1 and only_unamb:
-        return 0
-    if gold in hyp_analysis:
+def b2n(b):
+    if b:
         return 1
-        #return 1/len(hyp_analysis)
     return 0
+
+def score_aux(hyp, gold, match_type=None):
+    hyp_analysis = hyp.split('|')
+    if match_type == 'one':
+        idx = random.randint(0, len(hyp_analysis) - 1)
+        return b2n(gold == hyp_analysis[idx])
+    if match_type == 'unamb':
+        if len(hyp_analysis) > 1:
+            return 0
+        # otherwise continue
+    return b2n(gold in hyp_analysis)
 
 def get_analysis(hyp):
     return set(hyp.split('|'))
 
-def score(row, keys, only_unamb=False):
+def score(row, keys, match_type=None):
     """Returns the minumum score
     """
     scores = []
     for key in keys:
-        scores.append(score_aux(row[key], row['gold_' + key], only_unamb))
+        scores.append(score_aux(row[key], row['gold_' + key], match_type))
     return min(scores)
 
 def evaluate(args, hyp, gold):
@@ -91,8 +95,10 @@ def evaluate(args, hyp, gold):
         'roots_amb' : [],
         'roots_match' : [],
         'postags_and_forms_match' : [],
+        'postags_and_forms_match_one' : [],
         'all_match': [],
-        'all_match_unamb': []
+        'all_match_unamb': [],
+        'all_match_one': []
     }
     # TODO: ignore keys
     c = pd.concat([hyp, gold], axis=1)
@@ -104,8 +110,10 @@ def evaluate(args, hyp, gold):
         raw_df['roots_amb'].append(len(get_analysis(row['roots'])))
         raw_df['roots_match'].append(score(row, ['roots']))
         raw_df['postags_and_forms_match'].append(score(row, ['postags', 'forms']))
+        raw_df['postags_and_forms_match_one'].append(score(row, ['postags', 'forms'], 'one'))
         raw_df['all_match'].append(score(row, ['forms', 'postags', 'roots']))
-        raw_df['all_match_unamb'].append(score(row, ['forms', 'postags', 'roots'], True))
+        raw_df['all_match_unamb'].append(score(row, ['forms', 'postags', 'roots'], 'unamb'))
+        raw_df['all_match_one'].append(score(row, ['forms', 'postags', 'roots'], 'one'))
     # TODO: ignore keys
     return pd.concat([c, pd.DataFrame.from_dict(raw_df)], axis=1)
 
@@ -194,6 +202,7 @@ def read_files(args):
             text,gold = get_text(fn)
             df = evaluate(args, text.get.word_texts.roots.postags.forms.as_dataframe, gold)
             if args.verbosity > 0:
+                print(fn)
                 print(df.describe())
             for t in args.output_types:
                 if t == 'excel':
