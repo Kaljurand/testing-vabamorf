@@ -1,0 +1,1540 @@
+<doc id="462127" length="1k-10k" crawl_date="2013-01-12" url="http://ettk.tooandjad.ee/et/uudised/2006/04/item22567" web_domain="ettk.tooandjad.ee" langdiff="0.45" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Töökäte    Töö_käsi+te||H pl g||    Töökäte+0||H sg g|| %töö_käsi+te||S pl g||
+puudus    puudus+0||S sg n||
+väljendub    väljendu+b||V b||
+juba    juba+0||D||
+ka    ka+0||D||
+rohketes    rohke+tes||A pl in||
+tööõnnetustes    töö_õnnetus+tes||S pl in||
+</p>
+<p heading="0"> 
+24.04.2006    24.04.2006+0||N ?||
+</p>
+<p heading="0"> 
+Selle    see+0||P sg g||
+aasta    aasta+0||S sg g||
+I    I+0||O ?||
+kvartalis    kvartal+s||S sg in||
+registreeriti    registreeri+ti||V ti||
+Tööinspektsioonis    töö_inspektsioon+s||S sg in||
+viiendiku    viiendik+0||N sg g||
+võrra    võrra+0||K||
+rohkem    rohkem+0||D||
+tööõnnetusi    töö_õnnetus+i||S pl p||
+,    ,+||Z||
+kui    kui+0||D||    kui+0||J||+
+eelmisel    eelmine+l||A sg ad||
+aastal    aasta+l||S sg ad||
+,    ,+||Z||
+teatas    teata+s||V s||
+inspektsioon    inspektsioon+0||S sg n||
+.    .+||Z||
+</p>
+</doc>
+<doc id="462249" length="1k-10k" crawl_date="2013-01-12" url="http://ettk.tooandjad.ee/et/uudised/2005/02/item20896" web_domain="ettk.tooandjad.ee" langdiff="0.35" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Parts    parts+0||S sg n|| %Parts+0||H sg n||
+ootab    oota+b||V b||
+teadus-    teadus+0||S sg n|| %teadus+0||S ?||
+ja    ja+0||J||
+arendustegevuse    arendus_tegevus+0||S sg g||
+laienemist    laienemine+t||S sg p||
+</p>
+<p heading="0"> 
+01.02.2005    01.02.2005+0||N ?||
+</p>
+<p heading="0"> 
+Peaminister    pea_minister+0||S sg n||
+Juhan    Juhan+0||H sg n||
+Partsi    Parts+0||H sg g||+    Partsi+0||H sg g||
+hinnangul    hinnang+l||S sg ad||
+peaks    pida+ks||V ks||
+teadus-    teadus+0||S sg n|| %teadus+0||S ?||
+ja    ja+0||J||
+arendustegevus    arendus_tegevus+0||S sg n||
+Eestis    Eesti+s||H sg in||
+arenema    arene+ma||V ma||
+nii    nii+0||D||
+laiuti    laiuti+0||D||
+kui    kui+0||D||    kui+0||J||+
+ka    ka+0||D||
+süvitsi    süvitsi+0||D||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Teadus-    tead+s||S sg in|| %teadus+0||S ?||
+ja    ja+0||J||
+arendustegevuse    arendus_tegevus+0||S sg g||
+nõukogu    nõu_kogu+0||S sg g|| %nõu_kogu+0||S sg p||
+(    (+||Z||
+TAN    TAN+0||Y ?||
+)    )+||Z||
+juhtiv    juhtiv+0||A sg n||
+Parts    parts+0||S sg n|| %Parts+0||H sg n||
+ütles    ütle+s||V s||
+nõukogu    nõu_kogu+0||S sg g||
+uue    uus+0||A sg g||
+koosseisu    koos_seis+0||S sg g||
+esimesel    esimene+l||O sg ad||
+koosolekul    koos_olek+l||S sg ad||
+teisipäeval    teisi_päev+l||S sg ad||
+,    ,+||Z||
+et    et+0||J||
+Eesti    Eesti+0||H sg g||
+teadus-    teadus+0||S sg n|| %teadus+0||S ?||
+ja    ja+0||J||
+arendustegevus    arendus_tegevus+0||S sg n||
+peab    pida+b||V b||
+laienema    laiene+ma||V ma||
+ka    ka+0||D||
+rahvusvaheliselt    rahvus_vaheliselt+0||D||
+,    ,+||Z||
+näiteks    näide+ks||S sg tr||
+Põhjamaade    Põhja_maa+de||H pl g||+    Põhjamaa+de||H pl g||    Põhjamaade+0||H sg g||
+,    ,+||Z||
+sealhulgas    seal_hulgas+0||D||
+Rootsi    Rootsi+0||H sg g||
+ja    ja+0||J||
+Norra    Norra+0||H sg g||
+suunas    suunas+0||K||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Seni    seni+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+vastav    vastav+0||A sg n||
+tegevus    tegevus+0||S sg n||
+olnud    ol=nud+0||A||    ol=nud+0||A sg n||    ol=nud+d||A pl n||    ole+nud||V nud||+
+aktiivne    aktiivne+0||A sg n||
+Soome    Soome+0||H sg g||
+suunal    suund+l||S sg ad||
+,    ,+||Z||
+sealhulgas    seal_hulgas+0||D||
+kahe    kaks+0||N sg g||
+maa    maa+0||S sg g||
+teaduse    teadus+0||S sg g||
+tippkeskuste    tipp_keskus+te||S pl g||
+vahel    vahel+0||K||
+,    ,+||Z||
+ütles    ütle+s||V s||
+valitsuse    valitsus+0||S sg g||
+pressiesindaja    pressi_esindaja+0||S sg g|| %pressi_esindaja+0||S sg n||
+BNS-ile    BNS+ile||Y sg all||
+.    .+||Z||
+Eestis    Eesti+s||H sg in||
+on    ole+0||V b||+    ole+0||V vad||
+kümme    kümme+0||N sg n||
+sellist    selline+t||P sg p||
+keskust    keskus+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Koostööd    koos_töö+d||S sg p||
+innovatsiooni    innovatsioon+0||S sg g||
+rahastamisel    rahastamine+l||S sg ad||
+on    ole+0||V b||    ole+0||V vad||+
+teinud    tege+nud||V nud||+    tei=nud+0||A||    tei=nud+0||A sg n||    tei=nud+d||A pl n||
+ka    ka+0||D||
+Ettevõtluse    ette_võtlus+0||S sg g||
+Arendamise    arendamine+0||S sg g||
+Sihtasutus    siht_asutus+0||S sg n||
+ja    ja+0||J||
+tema    tema+0||P sg g||
+Soome    Soome+0||H sg g||
+partnerorganisatsioon    partner_organisatsioon+0||S sg n||
+Tekes    Tekes+0||H sg n||
+.    .+||Z||
+Suve    suvi+0||S sg g||
+algul    algul+0||K||
+toimub    toimu+b||V b||
+Eesti-Soome    Eesti-Soome+0||H sg g||
+ühiskonverents    ühis_konverents+0||S sg n||
+teadus-    teadus+0||S sg n|| %teadus+0||S ?||
+ja    ja+0||J||
+arendustegevuse    arendus_tegevus+0||S sg g||
+rahastamisest    rahastamine+st||S sg el||
+,    ,+||Z||
+kuhu    kuhu+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+kavas    kava+s||S sg in||
+kaasata    kaasa+ta||V da||
+teised    teine+d||O pl n||    teine+d||P pl n||+
+Balti-    balti+0||G|| %Balti+0||H ?||
+ja    ja+0||J||
+Põhjamaad    Põhja_maa+d||H pl n||+    Põhjamaa+d||H pl n||    Põhjamaad+0||H sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Parts    parts+0||S sg n|| %Parts+0||H sg n||
+kutsus    kutsu+s||V s||
+TAN-i    TAN+i||Y sg g||
+koosolekul    koos_olek+l||S sg ad||
+pöörama    pööra+ma||V ma||
+suuremat    suurem+t||C sg p||
+tähelepanu    tähele_panu+0||S sg p||
+ka    ka+0||D||
+kaitsevaldkonna    kaitse_valdkond+0||S sg g||
+teadus-    teadus+0||S sg n|| %teadus+0||S ?||
+ja    ja+0||J||
+arendusprojektidele    arendus_projekt+dele||S pl all||
+nii    nii+0||D||
+NATO    NATO+0||Y ?||
+kui    kui+0||D||    kui+0||J||+
+ka    ka+0||D||
+EL-i    EL+i||Y sg g||
+kaitsealgatuse    kaitse_algatus+0||S sg g||
+raames    raames+0||K||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Detsembris    detsember+s||S sg in||
+kinnitatud    kinnita+tud||V tud||    kinnita=tud+0||A||+    kinnita=tud+0||A sg n||    kinnita=tud+d||A pl n||
+koosseisus    koos_seis+s||S sg in||
+esimest    esimene+t||O sg p||
+korda    kord+0||S sg p||
+kogunenud    kogune+nud||V nud||    kogune=nud+0||A||+    kogune=nud+0||A sg n||    kogune=nud+d||A pl n||
+nõukogu    nõu_kogu+0||S sg n||
+arutas    aruta+s||V s||
+TAN-i    TAN+i||Y adt|| %TAN+0||Y g||
+tegevust    tegevus+t||S sg p||
+ja    ja+0||J||
+tähtsamaid    tähtsam+id||C pl p||
+ülesandeid    üles_anne+id||S pl p||
+aastani    aasta+ni||S sg ter||
+2007.    2007.+0||O ?||
+Nõukogu    nõu_kogu+0||S sg n||
+tõstis    tõst+is||V s||
+esile    esile+0||D||
+,    ,+||Z||
+et    et+0||J||
+teadust    teadus+t||S sg p||
+,    ,+||Z||
+innovatsiooni    innovatsioon+0||S sg p||
+ja    ja+0||J||
+ettevõtlust    ette_võtlus+t||S sg p||
+tuleb    tule+b||V b||
+vaadelda    vaatle+da||V da||
+tervikuna    tervik+na||S sg es||
+,    ,+||Z||
+arvestades    arvesta+des||V des||
+nii    nii+0||D||
+nende    see+de||P pl g||
+arenguid    areng+id||S pl p||
+kui    kui+0||D||    kui+0||J||+
+ka    ka+0||D||
+ühiskonna    ühiskond+0||S sg g||
+vajadusi    vajadus+i||S pl p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Nõukogu    nõu_kogu+0||S sg n||
+möönis    möön+is||V s||
+sedagi    see+dagi||P sg p||
+,    ,+||Z||
+et    et+0||J||
+tema    tema+0||P sg g||
+roll    roll+0||S sg n||
+teadus-    teadus+0||S sg n|| %teadus+0||S ?||
+ja    ja+0||J||
+arendustegevuse    arendus_tegevus+0||S sg g||
+juhtimisel    juhtimine+l||S sg ad||
+peaks    pida+ks||V ks||
+olema    ole+ma||V ma||
+aktiivsem    aktiivsem+0||C sg n||
+ning    ning+0||J||
+TAN    TAN+0||Y ?||
+ei    ei+0||V neg||
+peaks    pida+ks||V ks||
+tegelema    tegele+ma||V ma||
+vaid    vaid+0||D||
+väljastpoolt    väljast_poolt+0||D||
+tulevate    tulev+te||A pl g||
+ettepanekutega    ette_panek+tega||S pl kom||
+,    ,+||Z||
+vaid    vaid+0||J||
+ka    ka+0||D||
+ise    ise+0||D||
+erinevaid    erinev+id||A pl p||
+algatusi    algatus+i||S pl p||
+välja    välja+0||D||
+pakkuma    pakku+ma||V ma||
+.    .+||Z||
+</p>
+<p heading="0"> 
+TAN-i    TAN+i||Y sg p|| %TAN+i||Y adt||
+kuuluvad    kuuluv+d||A pl n||
+ettevõtjate    ette_võtja+te||S pl g||
+esindajad    esindaja+d||S pl n||
+rõhutasid    rõhuta+sid||V sid||
+,    ,+||Z||
+et    et+0||J||
+nõukogu    nõu_kogu+0||S sg n|| %nõu_kogu+0||S sg g||
+üks    üks+0||N sg n||
+eesmärke    ees_märk+e||S pl p||
+järgmise    järgmine+0||A sg g||
+kolme    kolm+0||N sg g||
+aasta    aasta+0||S sg g||
+jooksul    jooksul+0||K||
+peab    pida+b||V b||
+olema    ole+ma||V ma||
+erasektori    era_sektor+0||S sg g||
+kaasamine    kaasamine+0||S sg n||
+teadus-    teadus+0||S sg n|| %teadus+0||S ?||
+ja    ja+0||J||
+arendustegevuse    arendus_tegevus+0||S sg g||
+rahastamisse    rahastamine+se||S adt||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Nõukogu    nõu_kogu+0||S sg n||
+võttis    võt+is||V s||
+vastu    vastu+0||D||
+otsuse    otsus+0||S sg g||
+teadus-    teadus+0||S sg n|| %teadus+0||S ?||
+ja    ja+0||J||
+arendustegevuse    arendus_tegevus+0||S sg g||
+baasrahastamise    baas_rahastamine+0||S sg g||
+tingimuste    tingimus+te||S pl g||
+ja    ja+0||J||
+korra    kord+0||S sg g||
+kohta    kohta+0||K||
+,    ,+||Z||
+selle    see+0||P sg g||
+peab    pida+b||V b||
+heaks    heaks+0||D||
+kiitma    kiit+ma||V ma||
+ka    ka+0||D||
+valitsus    valitsus+0||S sg n||
+.    .+||Z||
+</p>
+</doc>
+<doc id="462593" length="1k-10k" crawl_date="2013-01-12" url="http://ettk.tooandjad.ee/et/uudised/2006/12/item23486" web_domain="ettk.tooandjad.ee" langdiff="0.29" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Seni    seni+0||D||
+loeti    luge+ti||V ti||
+täiendavad    täienda+vad||V vad||
+24    24+0||N ?||
+000    000+0||N ?||
+krooni    kroon+0||S sg p||
+maksuvabaks    maksu_vaba+ks||A sg tr||
+vaid    vaid+0||J||
+kolmanda    kolmas+0||O sg g||
+lapse    laps+0||S sg g||
+pealt    pealt+0||K||
+.    .+||Z||
+Tallinnas    Tallinn+s||H sg in||
+elava    elav+0||A sg g||
+kolme    kolm+0||N sg g||
+lapse    laps+0||S sg g||
+ema    ema+0||S sg g||
+Jaanika    Jaanika+0||H sg n||
+Grünbergi    Grünberg+0||H sg g||+    Grünbergi+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+täiendav    täiendav+0||A sg n||
+maksuvabastus    maksu_vabastus+0||S sg n||
+väga    väga+0||D||
+hea    hea+0||A sg n||
+.    .+||Z||
+«    «+||Z||
+Meie    mina+0||P pl g||
+perele    pere+le||S sg all||
+on    ole+0||V b||+    ole+0||V vad||
+see    see+0||P sg n||
+majanduslikult    majanduslikult+0||D||
+kindlasti    kindlasti+0||D||
+oluline    oluline+0||A sg n||
+,    ,+||Z||
+sest    sest+0||J||
+mina    mina+0||P sg n||
+ju    ju+0||D||
+praegu    praegu+0||D||
+ei    ei+0||V neg||
+tööta    tööta+0||V o||
+,»    ,»+||Z||
+rääkis    rääki+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Toasoe    toa_soe+0||S sg n||
+läheb    mine+b||V b||
+kallimaks    kallim+ks||C sg tr||
+</p>
+<p heading="0"> 
+Muid    muu+id||P pl p||
+suuri    suur+i||A pl p||
+maksumuudatusi    maksu_muudatus+i||S pl p||
+ei    ei+0||V neg||
+tule    tule+0||V o||
+.    .+||Z||
+Veidi    veidi+0||D||
+muudetakse    muut+takse||V takse||
+käibemaksuseadust    käibe_maksu_seadus+t||S sg p||
+,    ,+||Z||
+kust    kust+0||D||
+kaotatakse    kaota+takse||V takse||
+mitu    mitu+0||P sg n||
+eritingimust    eri_tingimus+t||S sg p||
+.    .+||Z||
+Näiteks    näide+ks||S sg tr||
+kasvab    kasva+b||V b||
+lõviosale    lõvi_osa+le||S sg all||
+meditsiiniseadmetele    meditsiini_seade+tele||S pl all||
+kehtestatud    kehtesta+tud||V tud||    kehtesta=tud+0||A||+    kehtesta=tud+0||A sg n||    kehtesta=tud+d||A pl n||
+käibemaks    käibe_maks+0||S sg n||
+18    18+0||N ?||
+protsendini    protsent+ni||S sg ter||
+,    ,+||Z||
+kuid    kuid+0||J||
+rahas    raha+s||S sg in||
+tähendab    tähenda+b||V b||
+see    see+0||P sg n||
+riigile    riik+le||S sg all||
+marginaalset    marginaalne+t||A sg p||
+lisateenistust    lisa_teenistus+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Tavainimesele    tava_inimene+le||S sg all||
+annab    and+b||V b||
+tunda    tund+a||V da||
+toasooja    toa_soe+0||S sg g||
+kallinemine    kallinemine+0||S sg n||
+,    ,+||Z||
+sest    sest+0||J||
+sellele    see+le||P sg all||
+kehtestatud    kehtesta+tud||V tud||    kehtesta=tud+0||A||+    kehtesta=tud+0||A sg n||    kehtesta=tud+d||A pl n||
+käibemaks    käibe_maks+0||S sg n||
+kerkib    kerki+b||V b||
+aasta    aasta+0||S sg g||
+keskel    keskel+0||K||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Aktsiisimäärad    aktsiisi_määr+d||S pl n||
+jäävad    jää+vad||V vad||
+tuleval    tulev+l||A sg ad||
+aastal    aasta+l||S sg ad||
+puutumata    puutu+mata||V mata||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Paindlikumaks    paindliku=m+ks||C sg tr||
+muutub    muutu+b||V b||
+aga    aga+0||J||
+dividendipoliitika    dividendi_poliitika+0||S sg n||
+,    ,+||Z||
+ja    ja+0||J||
+rahandusministeeriumi    rahandus_ministeerium+0||S sg g||
+arvestuste    arvestus+te||S pl g||
+järgi    järgi+0||K||
+kaotab    kaota+b||V b||
+riik    riik+0||S sg n||
+seetõttu    see_tõttu+0||D||
+ligi    ligi+0||D||
+13    13+0||N ?||
+miljonit    miljon+t||N sg p||
+krooni    kroon+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Võrreldes    võrdle+des||V des||
+varasemate    varasem+te||C pl g||
+aastatega    aasta+tega||S pl kom||
+on    ole+0||V b||+    ole+0||V vad||
+maksumuudatusi    maksu_muudatus+i||S pl p||
+tuleval    tulev+l||A sg ad||
+aastal    aasta+l||S sg ad||
+väga    väga+0||D||
+napilt    napilt+0||D||
+.    .+||Z||
+Maksuspetsialistide    maksu_spetsialist+de||S pl g||
+hinnangul    hinnang+l||S sg ad||
+on    ole+0||V b||+    ole+0||V vad||
+sellel    see+l||P sg ad||
+kaks    kaks+0||N sg n||
+suurt    suur+t||A sg p||
+põhjust    põhjus+t||S sg p||
+–    -+||Z||
+ühest    üks+st||P sg el||
+küljest    külg+st||S sg el||
+hakkab    hakka+b||V b||
+Eesti    Eesti+0||H sg g||
+maksupoliitika    maksu_poliitika+0||S sg n||
+paika    paik+0||S adt||
+loksuma    loksu+ma||V ma||
+,    ,+||Z||
+teisest    teine+st||O sg el||    teine+st||P sg el||+
+küljest    külg+st||S sg el||
+seisavad    seis+vad||V vad||
+ees    ees+0||D||
+aga    aga+0||J||
+riigikogu    riigi_kogu+0||S sg g||
+valimised    valimine+d||S pl n||
+,    ,+||Z||
+mille    mis+0||P pl g||+    mis+0||P sg g||
+eel    eel+0||K||
+ei    ei+0||V neg||
+julge    julge+0||V o||
+poliitikud    poliitik+d||S pl n||
+ebapopulaarsust    eba_populaarsus+t||S sg p||
+kartes    kart+es||V des||
+maksudega    maks+dega||S pl kom||
+väga    väga+0||D||
+mängida    mängi+da||V da||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Maksud    maks+d||S pl n||
+langevad    lange+vad||V vad||
+edasi    edasi+0||D||
+</p>
+<p heading="0"> 
+Rahandusminister    rahandus_minister+0||S sg n||
+Aivar    Aivar+0||H sg n||
+Sõerdi    Sõerd+0||H sg g||+    Sõerdi+0||H sg g||    Sõert+0||H sg g||
+hinnangul    hinnang+l||S sg ad||
+tingib    tingi+b||V b||
+muutuste    muutus+te||S pl g||
+vähesuse    vähesus+0||S sg g||
+just    just+0||D||+    just+0||I||
+siinse    siinne+0||A sg g||
+maksusüsteemi    maksu_süsteem+0||S sg p|| %maksu_süsteem+0||S sg g||
+korrastatus    korrastatus+0||S sg n||
+.    .+||Z||
+«    «+||Z||
+Meie    mina+0||P pl g||
+maksusüsteem    maksu_süsteem+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+muutunud    muutu+nud||V nud||+    muutu=nud+0||A||    muutu=nud+0||A sg n||    muutu=nud+d||A pl n||
+stabiilsemaks    stabiilsem+ks||C sg tr||
+,»    ,»+||Z||
+rääkis    rääki+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+«    «+||Z||
+Seda    see+da||P sg p||
+näitab    näita+b||V b||
+ka    ka+0||D||
+järjest    järjest+0||D||
+suurenev    suurenev+0||A sg n||
+maksude    maks+de||S pl g||
+laekumine    laekumine+0||S sg n||
+.»    .»+||Z||
+</p>
+<p heading="0"> 
+Sõerdi    Sõerd+0||H sg g||+    Sõerdi+0||H sg g||    Sõert+0||H sg g||
+arvates    arva+tes||V des||
+peaks    pida+ks||V ks||
+riik    riik+0||S sg n||
+kinni    kinni+0||D||
+pidama    pida+ma||V ma||
+senistest    senine+test||A pl el||
+tavadest    tava+dest||S pl el||
+ja    ja+0||J||
+püüdma    püüd+ma||V ma||
+maksusüsteemi    maksu_süsteem+0||S sg p||
+veel    veel+0||D||
+lihtsamaks    lihtsam+ks||C sg tr||
+muuta    muut+a||V da||
+.    .+||Z||
+See    see+0||P sg n||
+tähendab    tähenda+b||V b||
+maksuerisuste    maksu_erisus+te||S pl g||
+vähendamist    vähendamine+t||S sg p||
+ning    ning+0||J||
+üksikisiku    üksik_isik+0||S sg g||
+tulumaksu    tulu_maks+0||S sg g||
+alanemist    alanemine+t||S sg p||
+.    .+||Z||
+«    «+||Z||
+Ma    mina+0||P sg n||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+kunagi    kunagi+0||D||
+saladust    saladus+t||S sg p||
+teinud    tege+nud||V nud||+    tei=nud+0||A||    tei=nud+0||A sg n||    tei=nud+d||A pl n||
+,    ,+||Z||
+et    et+0||J||
+ei    ei+0||V neg||
+toeta    toeta+0||V o||
+astmelist    astmeline+t||A sg p||
+tulumaksu    tulu_maks+0||S sg p||
+ning    ning+0||J||
+arvan    arva+n||V n||
+,    ,+||Z||
+et    et+0||J||
+senine    senine+0||A sg n||
+alanemistrend    alanemis_trend+0||S sg n||
+peaks    pida+ks||V ks||
+jätkuma    jätku+ma||V ma||
+,»    ,»+||Z||
+lausus    lausu+s||V s||
+Sõerd    Sõerd+0||H sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Rahandusminister    rahandus_minister+0||S sg n||
+loodab    loot+b||V b||
+,    ,+||Z||
+et    et+0||J||
+tuleval    tulev+l||A sg ad||
+aastal    aasta+l||S sg ad||
+laheneb    lahene+b||V b||
+ka    ka+0||D||
+ettevõtete    ette_võte+te||S pl g||
+tulumaksu    tulu_maks+0||S sg g||
+küsimus    küsimus+0||S sg n||
+.    .+||Z||
+Korda    kord+0||S sg p||
+,    ,+||Z||
+mille    mis+0||P pl g||    mis+0||P sg g||+
+järgi    järgi+0||K||
+firmast    firma+st||S sg el||
+välja    välja+0||D||
+võtmata    võt+mata||V mata||
+tulu    tulu+0||S sg p||
+ei    ei+0||V neg||
+maksustata    maksusta+ta||V ta||
+,    ,+||Z||
+sunnib    sundi+b||V b||
+muutma    muut+ma||V ma||
+Euroopa    Euroopa+0||H sg g||
+Liidu    Liit+0||H sg g||    Liidu+0||H sg g||    Liidud+0||H sg g|| %liit+0||S sg g||
+seadusandlus    seadus_andlus+0||S sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Maksumuudatused    maksu_muudatus+d||S pl n||
+uuel    uus+l||A sg ad||
+aastal    aasta+l||S sg ad||
+</p>
+<p heading="0"> 
+Tulumaks    tulu_maks+0||S sg n||
+:    :+||Z||
+</p>
+<p heading="0"> 
+•    •+0||Y ?||
+maksumäär    maksu_määr+0||S sg n||
+väheneb    vähene+b||V b||
+23    23+0||N ?||
+protsendilt    protsent+lt||S sg abl||
+22    22+0||N ?||
+protsendile    protsent+le||S sg all||
+</p>
+<p heading="0"> 
+•    •+0||Y ?||
+äriühingud    äri_ühing+d||S pl n||
+peavad    pida+vad||V vad||
+hakkama    hakka+ma||V ma||
+dokumenteerima    dokumenteeri+ma||V ma||
+ja    ja+0||J||
+maksuhalduri    maksu_haldur+0||S sg g||
+nõudel    nõu+del||S pl ad||    nõue+l||S sg ad||+
+esitama    esita+ma||V ma||
+seotud    seotud+0||A||+    seotud+0||A sg n||    seotud+d||A pl n||    sidu+tud||V tud||
+isikutega    isik+tega||S pl kom||
+tehtud    tehtud+0||A||+    tehtud+0||A sg n||    tehtud+d||A pl n||    tege+tud||V tud||
+tehingute    tehing+te||S pl g||
+andmeid    andmed+id||S pl p||
+</p>
+<p heading="0"> 
+•    •+0||Y ?||
+dividendide    dividend+de||S pl g||
+maksmisel    maksmine+l||S sg ad||
+vabastusmeetodi    vabastus_meetod+0||S sg g||
+kasutamiseks    kasutamine+ks||S sg tr||
+nõutavad    nõutav+d||A pl n||
+tingimused    tingimus+d||S pl n||
+muutuvad    muutu+vad||V vad||
+paindlikumaks    paindliku=m+ks||C sg tr||
+ja    ja+0||J||
+vabastusmeetodi    vabastus_meetod+0||S sg g||
+kasutamiseks    kasutamine+ks||S sg tr||
+vajalik    vajalik+0||A sg n||
+äriühingute    äri_ühing+te||S pl g||
+osaluse    osalus+0||S sg g||
+määr    määr+0||S sg n||
+väheneb    vähene+b||V b||
+20    20+0||N ?||
+protsendilt    protsent+lt||S sg abl||
+15    15+0||N ?||
+protsendile    protsent+le||S sg all||
+</p>
+<p heading="0"> 
+Käibemaksuseaduses    käibe_maksu_seadus+s||S sg in||
+jõustub    jõustu+b||V b||
+kaks    kaks+0||N sg n||
+muudatust    muudatus+t||S sg p||
+:    :+||Z||
+</p>
+</doc>
+<doc id="627698" length="1k-10k" crawl_date="2013-01-11" url="http://ettk.tooandjad.ee/et/uudised/2006/12/item23438" web_domain="ettk.tooandjad.ee" langdiff="0.29" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Haigekassa    haige_kassa+0||S sg g||
+tuleva    tulev+0||A sg g||
+aasta    aasta+0||S sg g||
+eelarve    eel_arve+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+9,8    9,8+0||N ?||
+miljardit    miljard+t||N sg p||
+krooni    kroon+0||S sg p||
+</p>
+<gap/>
+<p heading="0"> 
+Eesti    Eesti+0||H sg g||
+Haigekassa    haige_kassa+0||S sg g||
+nõukogu    nõu_kogu+0||S sg n||
+otsustas    otsusta+s||V s||
+reedel    reede+l||S sg ad||
+esitada    esita+da||V da||
+valitsusele    valitsus+le||S sg all||
+kinnitamiseks    kinnitamine+ks||S sg tr||
+uue    uus+0||A sg g||
+tervishoiuteenuste    tervis_hoiu_teenus+te||S pl g||
+hinnakirja    hinna_kiri+0||S sg g||
+ning    ning+0||J||
+arutas    aruta+s||V s||
+haigekassa    haige_kassa+0||S sg g||
+tuleva    tulev+0||A sg g||
+aasta    aasta+0||S sg g||
+9,8    9,8+0||N ?||
+miljardi    miljard+0||N sg g||
+krooni    kroon+0||S sg g||
+suurust    suurune+t||A sg p||
+eelarvet    eel_arve+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Nõukogu    nõu_kogu+0||S sg n||
+kinnitab    kinnita+b||V b||
+haigekassa    haige_kassa+0||S sg g||
+eelarve    eel_arve+0||S sg g||
+tõenäoliselt    tõe_näoliselt+0||D||
+jaanuaris    jaanuar+s||S sg in||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Valitsusele    valitsus+le||S sg all||
+kinnitamiseks    kinnitamine+ks||S sg tr||
+esitatud    esita+tud||V tud||    esitatud+0||A||+    esitatud+0||A sg n||    esitatud+d||A pl n||
+uus    uus+0||A sg n||
+tervishoiuteenuste    tervis_hoiu_teenus+te||S pl g||
+hinnakiri    hinna_kiri+0||S sg n||
+arvestab    arvesta+b||V b||
+17-protsendilise    17_protsendiline+0||A sg g||
+ehk    ehk+0||J||
+253    253+0||N ?||
+miljoni    miljon+0||N sg g||
+kroonise    kroonine+0||S sg g||
+palgatõusuga    palga_tõus+ga||S sg kom||
+.    .+||Z||
+Arsti    arst+0||S sg g||
+keskmine    keskmine+0||A sg n||
+palk    palk+0||S sg n||+    palk+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+selle    see+0||P sg g||
+järgi    järgi+0||K||
+114    114+0||N ?||
+krooni    kroon+0||S sg p||
+tunnis    tund+s||S sg in||
+ehk    ehk+0||J||
+19.200    19.200+0||N ?||
+krooni    kroon+0||S sg p||
+ning    ning+0||J||
+hooldustöötaja    hooldus_töötaja+0||S sg g||
+ja    ja+0||J||
+õe    õde+0||S sg g||
+keskmine    keskmine+0||A sg n||
+palk    palk+0||S sg n||+    palk+0||S sg n||
+55    55+0||N ?||
+krooni    kroon+0||S sg p||
+tunnis    tund+s||S sg in||
+ehk    ehk+0||J||
+9200    9200+0||N ?||
+krooni    kroon+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Uue    uus+0||A sg g||
+hinnakirja    hinna_kiri+0||S sg g||
+poolt    poolt+0||K||
+hääletas    hääleta+s||V s||
+üheksa    üheksa+0||N sg n||
+ja    ja+0||J||
+vastu    vastu+0||D||
+kolm    kolm+0||N sg n||
+nõukogu    nõu_kogu+0||S sg g||
+liiget    liige+t||S sg p||
+.    .+||Z||
+Eesti    Eesti+0||H sg g||
+Ametiühingute    ameti_ühing+te||S pl g||
+Keskliidu    kesk_liit+0||S sg g||
+(    (+||Z||
+EAKL    EAKL+0||Y ?||
+)    )+||Z||
+esindajad    esindaja+d||S pl n||
+olid    ole+id||V sid||
+liidu    liit+0||S sg g||
+esimehe    esi_mees+0||S sg g||
+Harri    Harri+0||H sg n||
+Taliga    Tali+ga||H sg kom|| %Taliga+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+vastu    vastu+0||D||
+,    ,+||Z||
+kuna    kuna+0||J||
+see    see+0||P sg n||
+võimaldaks    võimalda+ks||V ks||
+arstide    arst+de||S pl g||
+miinimumtunnipalgaks    miinimum_tunni_palk+ks||S sg tr||
+kehtestada    kehtesta+da||V da||
+80    80+0||N ?||
+protsenti    protsent+0||S sg p||
+taotletud    taotle+tud||V tud||    taotle=tud+0||A||+    taotle=tud+0||A sg n||    taotle=tud+d||A pl n||
+110    110+0||N ?||
+kroonist    kroon+st||S sg el||
+ning    ning+0||J||
+õdede    õde+de||S pl g||
+tunnipalgaks    tunni_palk+ks||S sg tr||
+76    76+0||N ?||
+protsenti    protsent+0||S sg p||
+taotletud    taotle+tud||V tud||    taotle=tud+0||A||+    taotle=tud+0||A sg n||    taotle=tud+d||A pl n||
+60    60+0||N ?||
+kroonist    kroon+st||S sg el||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Ka    ka+0||D||
+lisas    lisa+s||V s||
+ametiühingujuht    ameti_ühingu_juht+0||S sg n||
+,    ,+||Z||
+et    et+0||J||
+arstide    arst+de||S pl g||
+keskmine    keskmine+0||A sg n||
+palk    palk+0||S sg n||+    palk+0||S sg n||
+kujuneb    kujune+b||V b||
+koefitsiendiga    koefitsient+ga||S sg kom||
+1,3    1,3+0||N ?||
+ja    ja+0||J||
+õdedel    õde+del||S pl ad||
+1,2    1,2+0||N ?||
+,    ,+||Z||
+kusjuures    kus_juures+0||D||
+koefitsient    koefitsient+0||S sg n||
+tähendab    tähenda+b||V b||
+suhet    suhe+t||S sg p||
+,    ,+||Z||
+millega    mis+ga||P pl kom||    mis+ga||P sg kom||+
+haigekassa    haige_kassa+0||S sg n||
+arvestab    arvesta+b||V b||
+hinnakirjas    hinna_kiri+s||S sg in||
+miinimumtunnitasu    miinimum_tunni_tasu+0||S sg n|| %miinimum_tunni_tasu+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Samas    samas+0||D||
+soovivad    soovi+vad||V vad||
+arstid    arst+d||S pl n||
+palka    palk+0||S sg p||
+saada    saa+da||V da||
+kahe    kaks+0||N sg g||
+Eesti    Eesti+0||H sg g||
+keskmise    keskmine+0||A sg g||
+ja    ja+0||J||
+õed    õde+d||S pl n||
+ühe    ühe+0||S sg n|| %üks+0||N sg g||
+Eesti    Eesti+0||H sg g||
+keskmise    keskmine+0||A sg g||
+palga    palk+0||S sg g||
+suuruses    suurus+s||S sg in||
+.    .+||Z||
+Tuleva    tulev+0||A sg g||
+aasta    aasta+0||S sg g||
+keskmiseks    keskmine+ks||A sg tr||
+palgaks    palk+ks||S sg tr||
+on    ole+0||V b||+    ole+0||V vad||
+rahandusministeerium    rahandus_ministeerium+0||S sg n||
+Taliga    tali+ga||S sg kom|| %Taliga+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+prognoosinud    prognoosi+nud||V nud||+    prognoosi=nud+0||A||    prognoosi=nud+0||A sg n||    prognoosi=nud+d||A pl n||
+10.261    10.261+0||N ?||
+krooni    kroon+0||S sg p||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Sotsiaalminister    sotsiaal_minister+0||S sg n||
+Jaak    Jaak+0||H sg n||
+Aab    Aab+0||H sg n||
+ütles    ütle+s||V s||
+,    ,+||Z||
+et    et+0||J||
+tervishoiutöötajate    tervis_hoiu_töötaja+te||S pl g||
+keskmine    keskmine+0||A sg n||
+palk    palk+0||S sg n||+    palk+0||S sg n||
+peaks    pida+ks||V ks||
+kasvama    kasva+ma||V ma||
+rohkem    rohkem+0||D||
+kui    kui+0||D||    kui+0||J||+
+Eesti    Eesti+0||H sg g||
+keskmine    keskmine+0||A sg n||
+palk    palk+0||S sg n||+    palk+0||S sg n||
+ja    ja+0||J||
+nii    nii+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+see    see+0||P sg n||
+viimasel    viimane+l||A sg ad||
+paaril    paar+l||N sg ad||
+aastal    aasta+l||S sg ad||
+ka    ka+0||D||
+olnud    ol=nud+0||A||    ol=nud+0||A sg n||    ol=nud+d||A pl n||    ole+nud||V nud||+
+.    .+||Z||
+Tema    tema+0||P sg g||
+arvates    arva+tes||V des||
+sõltub    sõltu+b||V b||
+tervishoiutöötajate    tervis_hoiu_töötaja+te||S pl g||
+palkasid    palk+sid||S pl p||
+puudutava    puudutav+0||A sg g||
+töötüli    töö_tüli+0||S sg g||
+lahendamine    lahendamine+0||S sg n||
+kompromissivalmidusest    kompromissi_valmidus+st||S sg el||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Haigekassa    haige_kassa+0||S sg g||
+tuleva    tulev+0||A sg g||
+aasta    aasta+0||S sg g||
+eelarve    eel_arve+0||S sg g||
+kogusumma    kogu_summa+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+Aabi    Aab+0||H sg g||+    Aabi+0||H sg g||    Aap+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+9,8    9,8+0||N ?||
+miljardit    miljard+t||N sg p||
+krooni    kroon+0||S sg p||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+on    ole+0||V b||+    ole+0||V vad||
+kolmandik    kolmandik+0||N sg n||
+sotsiaalministeeriumi    sotsiaal_ministeerium+0||S sg p|| %sotsiaal_ministeerium+0||S sg g||
+ja    ja+0||J||
+14    14+0||N ?||
+protsenti    protsent+0||S sg p||
+riigi    riik+0||S sg g||
+eelarvest    eel_arve+st||S sg el||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Tervishoiuteenustele    tervis_hoiu_teenus+tele||S pl all||
+kulub    kulu+b||V b||
+tuleval    tulev+l||A sg ad||
+aastal    aasta+l||S sg ad||
+6,4    6,4+0||N ?||
+miljardit    miljard+t||N sg p||
+krooni    kroon+0||S sg p||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+on    ole+0||V b||+    ole+0||V vad||
+20    20+0||N ?||
+protsenti    protsent+0||S sg p||
+enam    enam+0||D||
+kui    kui+0||D||    kui+0||J||+
+tänavu    tänavu+0||D||
+.    .+||Z||
+Sellest    see+st||P sg el||
+kulub    kulu+b||V b||
+üldarstiabile    üld_arsti_abi+le||S sg all||
+809    809+0||N ?||
+miljonit    miljon+t||N sg p||
+ja    ja+0||J||
+eriarstiabile    eri_arsti_abi+le||S sg all||
+5,1    5,1+0||N ?||
+miljardit    miljard+t||N sg p||
+krooni    kroon+0||S sg p||
+,    ,+||Z||
+seega    seega+0||D||
+saab    saa+b||V b||
+üldarstiabi    üld_arsti_abi+0||S sg g|| %üld_arsti_abi+0||S sg n||
+juurde    juurde+0||K||
+140    140+0||N ?||
+ja    ja+0||J||
+eriarstiabi    eri_arsti_abi+0||S sg n||
+940    940+0||N ?||
+miljonit    miljon+t||N sg p||
+krooni    kroon+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Tuleval    tulev+l||A sg ad||
+aastal    aasta+l||S sg ad||
+on    ole+0||V b||+    ole+0||V vad||
+Aabi    Aab+0||H sg g||+    Aabi+0||H sg g||    Aap+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+plaanis    plaan+s||S sg in||
+suurendada    suurenda+da||V da||
+kolme    kolm+0||N sg g||
+protsendi    protsent+0||S sg g||
+võrra    võrra+0||K||
+eriarstiabi    eri_arsti_abi+0||S sg g||
+kättesaadavust    kätte_saadavus+t||S sg p||
+ning    ning+0||J||
+uute    uus+te||A pl g||
+tervishoiuteenuste    tervis_hoiu_teenus+te||S pl g||
+ja    ja+0||J||
+ravimite    ravim+te||S pl g||
+kasutuselevõttu    kasutusele_võtt+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Arstide    arst+de||S pl g||
+ja    ja+0||J||
+haigete    haige+te||S pl g||
+uute    uus+te||A pl g||
+ravimeetodite    ravi_meetod+te||S pl g||
+juurutamise    juurutamine+0||S sg g||
+ja    ja+0||J||
+uute    uus+te||A pl g||
+seadmete    seade+te||S pl g||
+kasutuselevõtu    kasutusele_võtt+0||S sg g||
+tõttu    tõttu+0||K||
+muutub    muutu+b||V b||
+üks    üks+0||P sg n||
+ravijuhtum    ravi_juhtum+0||S sg n||
+struktuurselt    struktuurse=lt+0||D||
+neli    neli+0||N sg n||
+protsenti    protsent+0||S sg p||
+kallimaks    kallim+ks||C sg tr||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Hooldusravi    hooldus_ravi+0||S sg g||
+jaoks    jaoks+0||K||
+antakse    and+takse||V takse||
+tänavusega    tänavune+ga||A sg kom||
+võrreldes    võrdle+des||V des||
+36    36+0||N ?||
+ja    ja+0||J||
+ravimite    ravim+te||S pl g||
+hankimiseks    hankimine+ks||S sg tr||
+12    12+0||N ?||
+protsenti    protsent+0||S sg p||
+enam    enam+0||D||
+raha    raha+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Eriarstiabi    eri_arsti_abi+0||S sg g||
+järjekordade    järje_kord+de||S pl g||
+pikkuse    pikkus+0||S sg g||
+ühtlustamiseks    ühtlustamine+ks||S sg tr||
+plaanib    plaani+b||V b||
+haigekassa    haige_kassa+0||S sg n||
+aidata    aita+ta||V da||
+raviasutustel    ravi_asutus+tel||S pl ad||
+lühendada    lühenda+da||V da||
+ravijärjekordi    ravi_järje_kord+i||S pl p||
+endoproteeside    endo_protees+de||S pl g||
+paigaldamise    paigaldamine+0||S sg g||
+ja    ja+0||J||
+katarakti    katarakt+0||S sg g||+    katarakti+0||S sg g||
+operatsioonide    operatsioon+de||S pl g||
+osas    osas+0||K||
+vähemalt    vähemalt+0||D||
+poole    pool+0||N sg g||
+aasta    aasta+0||S sg g||
+võrra    võrra+0||K||
+.    .+||Z||
+Praegu    praegu+0||D||
+on    ole+0||V b||    ole+0||V vad||+
+järjekorrad    järje_kord+d||S pl n||
+keskmiselt    keskmiselt+0||D||
+vastavalt    vastavalt+0||K||
+3,5    3,5+0||N ?||
+ja    ja+0||J||
+2,5    2,5+0||N ?||
+aastat    aasta+t||S sg p||
+.    .+||Z||
+</p>
+</doc>
+<doc id="627779" length="1k-10k" crawl_date="2013-01-11" url="http://ettk.tooandjad.ee/et/uudised/2005/09/item21642" web_domain="ettk.tooandjad.ee" langdiff="0.31" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Viljandimaalt    Viljandi_maa+lt||H sg abl||
+:    :+||Z||
+vabad    vaba+d||A pl n||
+töökohad    töö_koht+d||S pl n||
+ei    ei+0||V neg||
+mahu    mahtu+0||V o||
+pakkumiste    pakkumine+te||S pl g||
+stendile    stend+le||S sg all||
+ära    ära+0||D||
+</p>
+<gap/>
+<p heading="0"> 
+Kaadripuudus    kaadri_puudus+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+Viljandimaa    Viljandi_maa+0||H sg g||
+ettevõtetele    ette_võte+tele||S pl all||
+üha    üha+0||D||
+süvenevaks    süvenev+ks||A sg tr||
+probleemiks    probleem+ks||S sg tr||
+muutunud    muutu+nud||V nud||+    muutu=nud+0||A||    muutu=nud+0||A sg n||    muutu=nud+d||A pl n||
+ning    ning+0||J||
+septembris    september+s||S sg in||
+otsiti    otsi+ti||V ti||
+ainuüksi    ainu_üksi+0||D||
+tööhõiveameti    töö_hõive_amet+0||S sg g||
+vahendusel    vahendus+l||S sg ad||
+töötajaid    töötaja+id||S pl p||
+140    140+0||N ?||
+vabale    vaba+le||A sg all||
+ametikohale    ameti_koht+le||S sg all||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Viljandimaa    Viljandi_maa+0||H sg g||
+Tööhõiveameti    töö_hõive_amet+0||S sg g||
+juhataja    juhataja+0||S sg n|| %juhataja+0||S sg g||
+Peep    Peep+0||H sg n||
+Raju    Raju+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+pole    ole+0||V neg o||
+neil    tema+l||P pl ad||
+nii    nii+0||D||
+palju    palju+0||D||
+töökohti    töö_koht+i||S pl p||
+kunagi    kunagi+0||D||
+pakkuda    pakku+da||V da||
+olnud    ol=nud+0||A||    ol=nud+0||A sg n||    ol=nud+d||A pl n||    ole+nud||V nud||+
+ning    ning+0||J||
+nende    see+de||P pl g||
+täitmiseks    täitmine+ks||S sg tr||
+tuleb    tule+b||V b||
+tublisti    tublisti+0||D||
+vaeva    vaev+0||S sg p||
+näha    näge+a||V da||
+.    .+||Z||
+</p>
+<p heading="0"> 
+«    «+||Z||
+Alles    alles+0||D||
+juuli    juuli+0||S sg g||
+algul    algul+0||K||
+oli    ole+i||V s||
+meie    mina+0||P pl n|| %mina+0||P pl g||
+kahel    kaks+l||N sg ad||
+stendil    stend+l||S sg ad||
+väljas    väljas+0||D||
+vaid    vaid+0||D||
+kümmekond    kümmekond+0||N sg n||
+tööpakkumist    töö_pakkumine+t||S sg p||
+,    ,+||Z||
+aga    aga+0||J||
+nüüd    nüüd+0||D||
+on    ole+0||V b||    ole+0||V vad||+
+mõlemad    mõlema+d||P pl n||
+täis    täis+0||A||
+,»    ,»+||Z||
+rääkis    rääki+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+«    «+||Z||
+Peame    pida+me||V me||
+vist    vist+0||D||
+teksti    tekst+0||S sg g||
+suurust    suurus+t||S sg p||
+muutma    muut+ma||V ma||
+,    ,+||Z||
+et    et+0||J||
+kõik    kõik+0||P pl n||+    kõik+0||P sg n||
+seinale    sein+le||S sg all||
+mahuksid    mahtu+ksid||V ksid||
+.»    .»+||Z||
+</p>
+<p heading="0"> 
+Raju    Raju+0||H sg g||
+andmetel    andmed+tel||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+töötajate    töötaja+te||S pl g||
+leidmine    leidmine+0||S sg n||
+ettevõtetele    ette_võte+tele||S pl all||
+tõsine    tõsine+0||A sg n||
+probleem    probleem+0||S sg n||
+ja    ja+0||J||
+paljudel    palju+del||P pl ad||
+firmadel    firma+del||S pl ad||
+pole    ole+0||V neg o||
+seetõttu    see_tõttu+0||D||
+võimalik    võimalik+0||A sg n||
+oma    oma+0||P sg g||
+tegevust    tegevus+t||S sg p||
+laiendada    laienda+da||V da||
+.    .+||Z||
+Kõige    kõige+0||D||
+suurem    suurem+0||C sg n||
+kaadripuudus    kaadri_puudus+0||S sg n||
+vaevab    vaeva+b||V b||
+maakonna    maakond+0||S sg g||
+õmblusettevõtteid    õmblus_ette_võte+id||S pl p||
+,    ,+||Z||
+puidu-    puit+0||S sg g|| %puit+0||S ?||
+ja    ja+0||J||
+metallitöötlejaid    metalli_töötleja+id||S pl p||
+,    ,+||Z||
+ehitajaid    ehitaja+id||S pl p||
+ning    ning+0||J||
+põllumajandusühistuid    põllu_majandus_ühistu+id||S pl p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+«    «+||Z||
+Paljud    palju+d||P pl n||
+ettevõtted    ette_võte+d||S pl n||
+meid    mina+d||P pl p||
+kaadrivajadusest    kaadri_vajadus+st||S sg el||
+ei    ei+0||V neg||
+teavitagi    teavita+0gi||V o||
+,    ,+||Z||
+vaid    vaid+0||J||
+otsivad    otsi+vad||V vad||
+töötajaid    töötaja+id||S pl p||
+omal    oma+l||A sg ad|| %oma+l||P sg ad||
+käel    käsi+l||S sg ad||
+,»    ,»+||Z||
+toonitas    toonita+s||V s||
+Raju    Raju+0||H sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+40    40+0||N ?||
+töötajat    töötaja+t||S sg p||
+korraga    korraga+0||D||
+</p>
+<p heading="0"> 
+Enamik    enamik+0||S sg n||
+60-st    60+st||N sg el||
+tööandjast    töö_andja+st||S sg el||
+,    ,+||Z||
+kelle    kes+0||P pl g||    kes+0||P sg g||+
+pakkumised    pakkumine+d||S pl n||
+tööhõiveameti    töö_hõive_amet+0||S sg g||
+seina    sein+0||S sg p||
+ehivad    ehti+vad||V vad||
+,    ,+||Z||
+soovib    soovi+b||V b||
+leida    leid+a||V da||
+üksikuid    üksik+id||A pl p||
+töötajaid    töötaja+id||S pl p||
+,    ,+||Z||
+kuid    kuid+0||J||
+mõni    mõni+0||P sg n||
+otsib    otsi+b||V b||
+neid    tema+d||P pl p||
+lausa    lausa+0||D||
+kümnete    kümme+te||N pl g||
+kaupa    kaupa+0||K||
+.    .+||Z||
+Nii    nii+0||D||
+näiteks    näide+ks||S sg tr||
+läheb    mine+b||V b||
+aktsiaseltsil    aktsia_selts+l||S sg ad||
+Viljandi    Viljandi+0||H sg g||
+Aken    aken+0||S sg n||
+ja    ja+0||J||
+Uks    uks+0||S sg n||
+tarvis    tarvis+0||D||
+20    20+0||N ?||
+ja    ja+0||J||
+Dold    Dold+0||H sg n||
+Puidutööstusel    puidu_tööstus+l||S sg ad||
+isegi    isegi+0||D||
+40    40+0||N ?||
+inimest    inimene+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+300    300+0||N ?||
+inimesele    inimene+le||S sg all||
+leiba    leib+0||S sg p||
+pakkuva    pakkuv+0||A sg g||
+Dold    Dold+0||H sg n||
+Puidutööstuse    Puidu_tööstus+0||H sg g|| %puidu_tööstus+0||S sg g||
+personalitöötaja    personali_töötaja+0||S sg n||
+Tiiu    Tiiu+0||H sg n||
+Särg    Särg+0||H sg n||+    Särg+0||H sg n||
+ütles    ütle+s||V s||
+,    ,+||Z||
+et    et+0||J||
+uusi    uus+i||A pl p||
+inimesi    inimene+i||S pl p||
+on    ole+0||V b||+    ole+0||V vad||
+vaja    vaja+0||D||
+nii    nii+0||D||
+tootmise    tootmine+0||S sg g||
+laiendamise    laiendamine+0||S sg g||
+tõttu    tõttu+0||K||
+kui    kui+0||D||    kui+0||J||+
+piiri    piir+0||S sg g||
+taha    taha+0||K||
+paremat    parem+t||C sg p||
+elu    elu+0||S sg p||
+otsima    otsi+ma||V ma||
+läinute    läinu+te||S pl g||
+asendamiseks    asendamine+ks||S sg tr||
+.    .+||Z||
+</p>
+<p heading="0"> 
+«    «+||Z||
+Personalipuudus    personali_puudus+0||S sg n||
+segab    sega+b||V b||
+juba    juba+0||D||
+tootmist    tootmine+t||S sg p||
+,»    ,»+||Z||
+tunnistas    tunnista+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Viljandimaa    Viljandi_maa+0||H sg g||
+Tööhõiveametis    töö_hõive_amet+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+arvel    arvel+0||K|| %arve+l||S sg ad||
+1180    1180+0||N ?||
+töötut    töötu+t||S sg p||
+ning    ning+0||J||
+teoreetiliselt    teoreetiliselt+0||D||
+ei    ei+0||V neg||
+tohiks    tohti+ks||V ks||
+nende    tema+de||P pl g||
+seast    seast+0||K||
+neljakümne    neli_kümmend+0||N sg g||
+inimese    inimene+0||S sg g||
+leidmine    leidmine+0||S sg n||
+raskusi    raskus+i||S pl p||
+tekitada    tekita+da||V da||
+,    ,+||Z||
+kuid    kuid+0||J||
+tegelikkus    tegelikkus+0||S sg n||
+näitab    näita+b||V b||
+teist    teine+t||O sg p||    teine+t||P sg p||+
+pilti    pilt+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+«    «+||Z||
+Osa    osa+0||S sg n||
+mehi    mees+0||S pl p||
+ei    ei+0||V neg||
+tahagi    taht+0gi||V o||
+tööd    töö+d||S sg p||
+teha    tege+a||V da||
+,    ,+||Z||
+teised    teine+d||O pl n||    teine+d||P pl n||+
+tulevad    tule+vad||V vad||
+kohale    kohale+0||D||
+ainult    ainult+0||D||
+esimese    esimene+0||O sg g||
+palgapäevani    palga_päev+ni||S sg ter||
+,    ,+||Z||
+paljud    palju+d||P pl n||
+naised    naine+d||S pl n||
+ei    ei+0||V neg||
+saa    saa+0||V o||
+laste    laps+te||S pl g||
+kõrvalt    kõrvalt+0||K||
+maalt    maa+lt||S sg abl||
+linna    linn+0||S sg p|| %linn+0||S adt||
+käia    käi+a||V da||
+,»    ,»+||Z||
+loetles    loetle+s||V s||
+Särg    särg+0||S sg n|| %Särg+0||H sg n||
+vaid    vaid+0||D||
+mõningaid    mõningas+id||P pl p||
+põhjuseid    põhjus+id||S pl p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Tema    tema+0||P sg g||
+hinnangul    hinnang+l||S sg ad||
+ei    ei+0||V neg||
+tohiks    tohti+ks||V ks||
+Doldi    Dold+0||H sg g||+    Doldi+0||H sg g||    Dolt+0||H sg g||
+puhul    puhul+0||K||
+olla    ole+a||V da||
+probleem    probleem+0||S sg n||
+palgas    palk+s||S sg in||
+,    ,+||Z||
+sest    sest+0||J||
+väljaõppinud    välja_õppinud+0||A||+    välja_õppinud+0||A sg n||    välja_õppinud+d||A pl n||
+töötajad    töötaja+d||S pl n||
+saavad    saa+vad||V vad||
+kuus    kuu+s||S sg in||
+kätte    käsi+tte||S adt||
+5000    5000+0||N ?||
+—    -+||Z||
+6000    6000+0||N ?||
+krooni    kroon+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Esmaspäeval    esmas_päev+l||S sg ad||
+lähevad    mine+vad||V vad||
+firma    firma+0||S sg g||
+esindajad    esindaja+d||S pl n||
+inimestega    inimene+tega||S pl kom||
+kohtuma    kohtu+ma||V ma||
+Tarvastu    Tarvastu+0||H sg g||
+valda    vald+0||S adt||
+,    ,+||Z||
+kus    kus+0||D||
+tööpuudus    töö_puudus+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+kõige    kõige+0||D||
+suurem    suurem+0||C sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+«    «+||Z||
+Et    et+0||J||
+töötame    tööta+me||V me||
+kolmes    kolm+s||N sg in||
+vahetuses    vahetus+s||S sg in||
+,    ,+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+kaugelt    kaugelt+0||D||
+käimine    käimine+0||S sg n||
+paljudele    palju+dele||P pl all||
+muidugi    muidugi+0||D||
+probleem    probleem+0||S sg n||
+,»    ,»+||Z||
+nentis    nenti+s||V s||
+Särg    särg+0||S sg n|| %Särg+0||H sg n||
+.    .+||Z||
+«    «+||Z||
+Võib-olla    võib-olla+0||D||
+tuleb    tule+b||V b||
+kaaluda    kaalu+da||V da||
+võimalusi    võimalus+i||S pl p||
+tööd    töö+d||S sg p||
+ümber    ümber+0||D||
+korraldada    korralda+da||V da||
+või    või+0||J||
+paneme    pane+me||V me||
+inimeste    inimene+te||S pl g||
+vedamiseks    vedamine+ks||S sg tr||
+bussi    buss+0||S sg p|| %buss+0||S sg g||
+käima    käi+ma||V ma||
+.»    .»+||Z||
+</p>
+<p heading="0"> 
+Suur    suur+0||A sg n||
+pakkumine    pakkumine+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+ajutine    ajutine+0||A sg n||
+</p>
+<p heading="0"> 
+Peep    Peep+0||H sg n||
+Raju    Raju+0||H sg g||
+arvates    arva+tes||V des||
+on    ole+0||V b||+    ole+0||V vad||
+vabade    vaba+de||A pl g||
+töökohtade    töö_koht+de||S pl g||
+suur    suur+0||A sg n||
+arv    arv+0||S sg n||
+siiski    siiski+0||D||
+ajutine    ajutine+0||A sg n||
+ja    ja+0||J||
+kasvada    kasva+da||V da||
+see    see+0||P sg n||
+enam    enam+0||D||
+ei    ei+0||V neg||
+tohiks    tohti+ks||V ks||
+.    .+||Z||
+</p>
+</doc>
+<doc id="219983" length="1k-10k" crawl_date="2013-01-12" url="http://juura.ee/gw.php/news/aggregate/source/id/8/page/179" web_domain="juura.ee" langdiff="0.37" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Guatemala    Guatemala+0||H sg g||
+vennad    vend+d||S pl n||
+,    ,+||Z||
+kes    kes+0||P pl n||+    kes+0||P sg n||
+väidetavalt    väidetavalt+0||D||
+aitasid    aita+sid||V sid||
+tuntud    tund+tud||V tud||    tuntud+0||A||+    tuntud+0||A sg n||    tuntud+d||A pl n||
+advokaadil    advokaat+l||S sg ad||
+iseenda    ise_enese+0||P sg g||
+mõrva    mõrv+0||S sg p||
+organiseerida    organiseeri+da||V da||
+ja    ja+0||J||
+süüdistasid    süüdista+sid||V sid||
+hiljem    hiljem+0||D||
+selles    see+s||P sg in||
+Guatemala    Guatemala+0||H sg g||
+presidenti    president+0||S sg p||
+,    ,+||Z||
+andsid    and+sid||V sid||
+end    ise+0||P sg p||
+võimudele    võim+dele||S pl all||
+üles.Loe    üles._lood+0||S sg g||
+edasi    edasi+0||D||
+
+>    >+||Z||
+</    /+||Z||
+p    p+0||Y ?||
+ERR Uudised,avaldatud43aastat tagasi
+>    >+||Z||
+<    <+||Z||
+gap    gap+0||S sg n||
+
+/>    />+||Z||
+<    <+||Z||
+p    p+0||Y ?||
+heading    heading+0||S sg n||
+="    ="+||Z||
+0    0+0||N ?||
+
+">    ">+||Z||
+Uue põhikooli-ja gümnaasiumiseadusega loodetakse parandada dialoogi kooli ja kodu vahel ning vähendada koolist väljalangevust,sest põhihariduseta inimeste toimetulek on raske kogu elu ja probleem kogu ühiskonnale,ütles sotsioloog Ivi Proos.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+<gap/>
+<p heading="0"> 
+Kui inimene põhjustab liiklusõnnetuse,sõites üle40kilomeetri tunnis lubatust kiiremini,peab ta uue kohustusliku liikluskindlustuse seaduseelnõu kohaselt kogu tekitatud kahju ise kinni maksma.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+<gap/>
+<p heading="0"> 
+Advokatuuri juhatus otsustas muuta riigi õigusabi tasumäärasid ning rakendada alates juulist ajatasu süsteemi,mis motiveerivat advokaate võtma käsile keerukamaid menetlusi.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+<gap/>
+<p heading="0"> 
+Riigikohtu põhiseaduslikkuse järelevalve kolleegiumi neli nõunikku märkisid oma vastuses riigikogu põhiseaduskomisjonile,et kuna põhiseadus väärtustab juba praegu Eesti kultuuripärandit,siis ei vaja see osa täpsustamist.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+</doc>
+<doc id="220101" length="1k-10k" crawl_date="2013-01-12" url="http://juura.ee/gw.php/news/aggregate/source/id/8/page/181" web_domain="juura.ee" langdiff="0.36" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Valitsus otsustas tänasel istungil koostada ülevaate nendest kohalikest omavalitsustest,mis taotlevad riigi ja Euroopa Liidu fondidest erinevaid toetusi,kuid kelle võlakoormus ületab seadusega lubatud piirmäära.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+<gap/>
+<p heading="0"> 
+Presidendi õigusnõuniku Ülle Madise sõnul ei saanud president Toomas Hendrik Ilves monopolide ohjamise seadust õigusloomelise praagi tõttu välja kuulutada.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+<gap/>
+<p heading="0"> 
+Riigikohus leidis,et poliitilist välireklaami keelustavad ning keelu rikkumise eest vastutuse kehtestavad sätted on põhiseadusega kooskõlas ja jättis õiguskantsleri taotluse need tühistada rahuldamata.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+<gap/>
+<p heading="0"> 
+Riigikohtu põhiseaduslikkuse järelevalve kolleegium jättis rahuldamata kriminaalkuriteos süüdimõistetud ärimehe Aivo Pärna kaebuse vabariigi valimiskomisjoni otsusele,millega jäeti jõusse tema saadikuvolituste lõpetamine Otepää vallavolikogus.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+<gap/>
+<p heading="0"> 
+Tänasest kehtib uus perekonnaseadus,mis täpsustab muuhulgas abikaasade vahelisi suhteid ning uuendab laste ja vanemate hooldusõigust,kuid uus seadus on juba tekitanud segadust näiteks eestkoste osas.Loe edasi>
+ERR Uudised,avaldatud43aastat tagasi</p>
+</doc>

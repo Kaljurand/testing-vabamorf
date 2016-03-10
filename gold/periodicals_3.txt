@@ -1,0 +1,865 @@
+tykk/40/arhiiv_koolielu_ee.tykk:
+
+<doc id="86311" length="1k-10k" crawl_date="2013-01-12" url="http://arhiiv.koolielu.ee/pages.php/0320,24148?aj=1101" web_domain="arhiiv.koolielu.ee" langdiff="0.31" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Riigi    riik+0||S sg g||
+Kinnisvara    kinnis_vara+0||S sg g||
+AS    AS+0||Y ?||
+(    (+||Z||
+RKAS    RKAS+0||Y ?||
+)    )+||Z||
+juhatuse    juhatus+0||S sg g||
+esimees    esi_mees+0||S sg n||
+Jaak    Jaak+0||H sg n||
+Saarniit    Saar_niit+0||H sg n||+    Saarniit+0||H sg n||
+,    ,+||Z||
+Haridus-    Haridus+0||H sg n|| %haridus+0||S ?||
+ja    ja+0||J||
+Teadusministeeriumi    Teadus_ministeerium+0||H sg g||    Teadus_ministeerium+0||H sg g|| %teadus_ministeerium+0||S sg g||
+kantsler    kantsler+0||S sg n||
+Janar    Janar+0||H sg n||
+Holm    Holm+0||H sg n||
+ning    ning+0||J||
+Facio    Facio+0||H sg g||
+Ehituse    ehitus+0||S sg g||
+ASi    AS+i||Y sg g||
+tegevdirektor    tegev_direktor+0||S sg n||
+Riho    Riho+0||H sg n||
+Kalve    Kalve+0||H sg n||
+asetasid    aseta+sid||V sid||
+12.    12.+0||O ?||
+oktoobril    oktoober+l||S sg ad||
+pidulikult    pidulikult+0||D||
+nurgakivi    nurga_kivi+0||S sg n|| %nurga_kivi+0||S sg g||
+Saaremaal    Saare_maa+l||H sg ad||
+asuvale    asuv+le||A sg all||
+Kallemäe    kalle_mägi+0||S sg g|| %Kalle_mäe+0||H sg g||
+kooli    kool+0||S adt|| %kool+0||S sg g||
+uuele    uus+le||A sg all||
+,    ,+||Z||
+1500    1500+0||N ?||
+m²    m²+0||Y ?||
+suurusele    suurus+le||S sg all||
+juurdeehitusele    juurde_ehitus+le||S sg all||
+.    .+||Z||
+</p>
+<p heading="0"> 
+"    "+||Z||
+Algav    algav+0||A sg n||
+ehitus    ehitus+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+Kallemäe    kalle_mägi+0||S sg g|| %Kalle_mäe+0||H sg g||
+kooli    kool+0||S sg g||
+ajaloos    aja_lugu+s||S sg in||
+üks    üks+0||N sg n||
+tähtsamaid    tähtsam+id||C pl p||
+sündmusi    sündmus+i||S pl p||
+.    .+||Z||
+Tuleval    tulev+l||A sg ad||
+aastal    aasta+l||S sg ad||
+on    ole+0||V b||+    ole+0||V vad||
+kooli    kool+0||S sg g||
+70.    70.+0||O ?||
+juubel    juubel+0||S sg n||
+ning    ning+0||J||
+selleks    see+ks||P sg tr||
+teeb    tege+b||V b||
+riik    riik+0||S sg n||
+tõelise    tõeline+0||A sg g||
+kingituse    kingitus+0||S sg g||
+–    -+||Z||
+saame    saa+me||V me||
+lõpuks    lõpuks+0||D||
+kooli    kool+0||S adt|| %kool+0||S sg g||
+,    ,+||Z||
+kus    kus+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+suurepärane    suure_pärane+0||A sg n||
+õppida    õppi+da||V da||
+ja    ja+0||J||
+areneda    arene+da||V da||
+,"    ,"+||Z||
+märkis    märki+s||V s||
+nurgakivi    nurga_kivi+0||S sg n|| %nurga_kivi+0||S sg g||
+panekul    panek+l||S sg ad||
+enam    enam+0||D||
+kui    kui+0||D||    kui+0||J||+
+40    40+0||N ?||
+aastat    aasta+t||S sg p||
+Kallemäe    kalle_mägi+0||S sg g|| %Kalle_mäe+0||H sg g||
+kooli    kool+0||S adt|| %kool+0||S sg p||
+juhtinud    juhti+nud||V nud||    juhti=nud+0||A||+    juhti=nud+0||A sg n||    juhti=nud+d||A pl n||
+Arvi    Arvi+0||H sg n||
+Liik    Liik+0||H sg n||+    Liik+0||H sg n||
+.    .+||Z||
+"    "+||Z||
+Kallemäe    kalle_mägi+0||S sg g|| %Kalle_mäe+0||H sg g||
+kooli    kool+0||S sg g||
+filiaal    filiaal+0||S sg n||
+oli    ole+i||V s||
+üks    üks+0||P sg n||
+meie    mina+0||P pl g||
+esimesi    esimene+i||O pl p||
+koole    kool+e||S pl p||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+me    mina+0||P pl n||
+oleme    ole+me||V me||
+korda    kord+0||S sg p||
+teinud    tege+nud||V nud||+    tei=nud+0||A||    tei=nud+0||A sg n||    tei=nud+d||A pl n||
+ja    ja+0||J||
+on    ole+0||V b||+    ole+0||V vad||
+väga    väga+0||D||
+hea    hea+0||A sg n||
+,    ,+||Z||
+et    et+0||J||
+jõudsime    jõud+sime||V sime||
+lõpuks    lõpuks+0||D||
+ka    ka+0||D||
+Kallemäe    kalle_mägi+0||S sg g|| %Kalle_mäe+0||H sg g||
+kooli    kool+0||S sg g||
+peamajani    pea_maja+ni||S sg ter||
+.    .+||Z||
+Eelmisel    eelmine+l||A sg ad||
+nädalal    nädal+l||S sg ad||
+panime    pane+ime||V sime||
+nurgakivi    nurga_kivi+0||S sg n|| %nurga_kivi+0||S sg g||
+Kammeri    Kammer+0||H sg g||    Kammeri+0||H sg g||+
+koolile    kool+le||S sg all||
+.    .+||Z||
+Seega    seega+0||D||
+saab    saa+b||V b||
+öelda    ütle+da||V da||
+,    ,+||Z||
+et    et+0||J||
+riigikoolide    riigi_kool+de||S pl g||
+korda    kord+0||S sg p||
+tegemine    tegemine+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+hoo    hoog+0||S sg g||
+sisse    sisse+0||D||
+saanud    saa+nud||V nud||+    saa=nud+0||A||    saa=nud+0||A sg n||    saa=nud+d||A pl n||
+,"    ,"+||Z||
+lisas    lisa+s||V s||
+RKAS-i    RKAS+i||Y sg g||
+juhatuse    juhatus+0||S sg g||
+esimees    esi_mees+0||S sg n||
+Jaak    Jaak+0||H sg n||
+Saarniit    Saar_niit+0||H sg n||+    Saarniit+0||H sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Haridus-    haridus+0||S sg n|| %haridus+0||S ?||
+ja    ja+0||J||
+teadusminister    teadus_minister+0||S sg n||
+Tõnis    Tõnis+0||H sg n||
+Lukase    Lukas+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+sai    saa+i||V s||
+ministeeriumi    ministeerium+0||S sg g||
+ulatuslik    ulatuslik+0||A sg n||
+koostöö    koos_töö+0||S sg n||
+RKASiga    RKAS+iga||Y sg kom||
+erivajadustega    eri_vajadus+tega||S pl kom||
+laste    laps+te||S pl g||
+riigikoolide    riigi_kool+de||S pl g||
+õppetingimuste    õppe_tingimus+te||S pl g||
+kaasajastamisel    kaas_ajastamine+l||S sg ad||
+alguse    algus+0||S sg g||
+Kallemäe    kalle_mägi+0||S sg g|| %Kalle_mäe+0||H sg g||
+kooli    kool+0||S sg g||
+Kuressaare    Kures_saare+0||H sg g||
+filiaali    filiaal+0||S sg g||
+ehitamisest    ehitamine+st||S sg el||
+.    .+||Z||
+"    "+||Z||
+Teeb    tege+b||V b||
+rõõmu    rõõm+0||S sg p||
+,    ,+||Z||
+et    et+0||J||
+oleme    ole+me||V me||
+üheskoos    ühes_koos+0||D||
+jõudnud    jõud+nud||V nud||+    jõud=nud+0||A||    jõud=nud+0||A sg n||    jõud=nud+d||A pl n||
+ka    ka+0||D||
+Kallemäe    Kalle_mägi+0||H sg g||    Kallemäe+0||H sg g|| %Kalle_mäe+0||H sg g||
+kooli    kool+0||S sg g||
+põhikompleksi    põhi_kompleks+0||S sg g||
+renoveerimiseni    renoveerimine+ni||S sg ter||
+.    .+||Z||
+Selle    see+0||P sg g||
+valmimisel    valmimine+l||S sg ad||
+võime    või+me||V me||
+öelda    ütle+da||V da||
+,    ,+||Z||
+et    et+0||J||
+Saaremaa    Saare_maa+0||H sg g||
+hariduslike    hariduslik+e||A pl g||
+erivajadustega    eri_vajadus+tega||S pl kom||
+lapsed    laps+d||S pl n||
+saavad    saa+vad||V vad||
+parimad    parim+d||U pl n||
+võimalikud    võimalik+d||A pl n||
+õppe    õpe+0||S sg g||
+-,    -+||Z||
+ravi-    ravi+0||S sg g|| %ravi+0||S ?||
+ja    ja+0||J||
+elutingimused    elu_tingimus+d||S pl n||
+,"    ,"+||Z||
+ütles    ütle+s||V s||
+Lukas    Lukas+0||H sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Ehitustööde    ehitus_töö+de||S pl g||
+käigus    käigus+0||K||
+rekonstrueerib    re_konstrueeri+b||V b||
+peatöövõtja    pea_töö_võtja+0||S sg n||
+Facio    Facio+0||H sg g||
+Ehituse    ehitus+0||S sg g||
+AS    AS+0||Y ?||
+täies    täis+s||A sg in||
+ulatuses    ulatus+s||S sg in||
+ka    ka+0||D||
+olemasoleva    olemas_olev+0||A sg g||
+koolihoone    kooli_hoone+0||S sg g||
+,    ,+||Z||
+mille    mis+0||P pl g||    mis+0||P sg g||+
+tulemusena    tulemus+na||S sg es||
+luuakse    loo+akse||V takse||
+Kallemäe    kalle_mägi+0||S sg g|| %Kalle_mäe+0||H sg g||
+kooli    kool+0||S sg g||
+õpilastele    õpilane+tele||S pl all||
+kaasaegsed    kaas_aegne+d||A pl n||
+ning    ning+0||J||
+nende    see+de||P pl g||
+erivajadustele    eri_vajadus+tele||S pl all||
+vastavad    vastav+d||A pl n||
+õppetingimused    õppe_tingimus+d||S pl n||
+.    .+||Z||
+Uuendatavas    uuenda=tav+s||A sg in||
+koolihoones    kooli_hoone+s||S sg in||
+on    ole+0||V b||    ole+0||V vad||+
+erivajadustega    eri_vajadus+tega||S pl kom||
+lastele    laps+tele||S pl all||
+sobilikud    sobilik+d||A pl n||
+klassiruumid    klassi_ruum+d||S pl n||
+,    ,+||Z||
+teraapiakompleks    teraapia_kompleks+0||S sg n||
+veeprotseduuride    vee_protseduur+de||S pl g||
+ja    ja+0||J||
+massaa    massaa+0||S sg g||
+?    ?+0||Y ?||
+iruumiga    iruum+ga||S sg kom||
+ning    ning+0||J||
+võimla    võimla+0||S sg n||
+.    .+||Z||
+Lisaks    lisa+ks||S sg tr||
+kasutatakse    kasuta+takse||V takse||
+laste    laps+te||S pl g||
+arengu    areng+0||S sg g||
+toetamiseks    toetamine+ks||S sg tr||
+muusikateraapiat    muusika_teraapia+t||S sg p||
+,    ,+||Z||
+eluõpetust    elu_õpetus+t||S sg p||
+,    ,+||Z||
+käsitööd    käsi_töö+d||S sg p||
+ning    ning+0||J||
+ravivõimlemist    ravi_võimlemine+t||S sg p||
+.    .+||Z||
+Juurdeehitusega    juurde_ehitus+ga||S sg kom||
+luuakse    loo+akse||V takse||
+võimalused    võimalus+d||S pl n||
+kolmele    kolm+le||N sg all||
+toimetulekuklassile    toime_tuleku_klass+le||S sg all||
+.    .+||Z||
+Uude    uus+de||A adt||
+ossa    osa+0||S adt||
+on    ole+0||V b||+    ole+0||V vad||
+planeeritud    planeeri+tud||V tud||+    planeeritud+0||A||    planeeritud+0||A sg n||    planeeritud+d||A pl n||
+lisaks    lisa+ks||S sg tr||
+invanõuetele    inva_nõue+tele||S pl all||
+vastav    vastav+0||A sg n||
+lift    lift+0||S sg n||
+.    .+||Z||
+Samuti    samuti+0||D||
+rajatakse    raja+takse||V takse||
+uus    uus+0||A sg n||
+puurkaev    puur_kaev+0||S sg n||
+,    ,+||Z||
+reoveepuhasti    reo_vee_puhasti+0||S sg n||
+,    ,+||Z||
+uuendatakse    uuenda+takse||V takse||
+kõik    kõik+0||P pl n||+    kõik+0||P sg n||
+välistrassid    välis_trass+d||S pl n||
+,    ,+||Z||
+mänguväljakud    mängu_väljak+d||S pl n||
+ning    ning+0||J||
+rajatakse    raja+takse||V takse||
+staadion    staadion+0||S sg n||
+ja    ja+0||J||
+väliklassid    väli_klass+d||S pl n||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Kallemäe    Kalle_mägi+0||H sg g||    Kallemäe+0||H sg g|| %Kalle_mäe+0||H sg g||
+kool    kool+0||S sg n||+    kool+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+Saaremaal    Saare_maa+l||H sg ad||
+asuv    asuv+0||A sg n||
+Haridus-    haridus+0||S sg n|| %haridus+0||S ?||
+ja    ja+0||J||
+Teadusministeeriumi    teadus_ministeerium+0||S sg g||
+hallatav    halla=tav+0||A sg n||+    hallata=v+0||A sg n||
+põhikool    põhi_kool+0||S sg n||
+hariduslike    hariduslik+e||A pl g||
+erivajadustega    eri_vajadus+tega||S pl kom||
+õpilastele    õpilane+tele||S pl all||
+võimaldamaks    võimalda+maks||V maks||
+neil    tema+l||P pl ad||
+täita    täit+a||V da||
+koolikohustust    kooli_kohustus+t||S sg p||
+ja    ja+0||J||
+omandada    omanda+da||V da||
+põhiharidust    põhi_haridus+t||S sg p||
+,    ,+||Z||
+korrigeerida    korrigeeri+da||V da||
+õpilase    õpilane+0||S sg g||
+arengut    areng+t||S sg p||
+ning    ning+0||J||
+kujundada    kujunda+da||V da||
+õpilastes    õpilane+tes||S pl in||
+igapäevase    iga_päevane+0||A sg g||
+eluga    elu+ga||S sg kom||
+toimetulekuks    toime_tulek+ks||S sg tr||
+vajalikke    vajalik+e||A pl p||
+oskusi    oskus+i||S pl p||
+.    .+||Z||
+</p>
+</doc>
+<doc id="86478" length="1k-10k" crawl_date="2013-01-12" url="http://arhiiv.koolielu.ee/pages.php/0315,13342?aj=1101" web_domain="arhiiv.koolielu.ee" langdiff="0.40" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Infotehnoloogia    info_tehnoloogia+0||S sg g||
+SA    sina+0||P sg n|| %SA+0||Y ?||
+jagab    jaga+b||V b||
+6    6+0||N ?||
+Tiigriülikooli    tiigri_üli_kool+0||S sg p|| %Tiigri_üli_kool+0||H sg g||
+programmi    programm+0||S sg g||
+konkursi    konkurss+0||S sg g||
+raames    raames+0||K||
+2,5    2,5+0||N ?||
+miljonit    miljon+t||N sg p||
+krooni    kroon+0||S sg p||
+</p>
+<p heading="0"> 
+Eesti    Eesti+0||H sg g||
+Infotehnoloogia    info_tehnoloogia+0||S sg g||
+Sihtasutus    siht_asutus+0||S sg n||
+(    (+||Z||
+EITSA    Eitsa+0||H sg n|| %EITSA+0||Y ?||
+)    )+||Z||
+kuulutas    kuuluta+s||V s||
+IKT-alase    IKT-alane+0||A sg g||
+kõrghariduse    kõrg_haridus+0||S sg g||
+toetusprogrammi    toetus_programm+0||S sg g||
+Tiigriülikool    tiigri_üli_kool+0||S sg n|| %Tiigri_üli_kool+0||H sg n||
+raames    raames+0||K||
+välja    välja+0||D||
+uued    uus+d||A pl n||
+konkursid    konkurss+d||S pl n||
+info-    info+0||S sg g|| %info+0||S ?||
+ja    ja+0||J||
+kommunikatsioonitehnoloogia    kommunikatsiooni_tehnoloogia+0||S sg g||
+(    (+||Z||
+IKT    IKT+0||Y ?||
+)    )+||Z||
+rakendamiseks    rakendamine+ks||S sg tr||
+ning    ning+0||J||
+IKT    IKT+0||Y ?||
+alase    alane+0||A sg g||
+hariduse    haridus+0||S sg g||
+toetamiseks    toetamine+ks||S sg tr||
+avalik-õiguslik    avalik-õiguslik+0||A sg n||
+ülikoolides    üli_kool+des||S pl in||
+.    .+||Z||
+Konkursside    konkurss+de||S pl g||
+toetusfond    toetus_fond+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+kokku    kokku+0||D||
+2,5    2,5+0||N ?||
+miljonit    miljon+t||N sg p||
+krooni    kroon+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Tiigriülikooli    Tiigri_üli_kool+0||H sg g||
+programmi    programm+0||S sg g||
+toel    toel+0||K||
+on    ole+0||V b||    ole+0||V vad||+
+avalik-õiguslikud    avalik-õiguslik+d||A pl n||
+ülikoolid    üli_kool+d||S pl n||
+nelja    neli+0||N sg g||
+aasta    aasta+0||S sg g||
+jooksul    jooksul+0||K||
+investeerinud    investeeri+nud||V nud||+    investeeri=nud+0||A||    investeeri=nud+0||A sg n||    investeeri=nud+d||A pl n||
+programmi    programm+0||S sg g||
+poolt    poolt+0||K||
+toetavatesse    toetav+tesse||A pl ill||
+valdkondadesse    valdkond+desse||S pl ill||
+ligi    ligi+0||D||
+100    100+0||N ?||
+miljonit    miljon+t||N sg p||
+krooni    kroon+0||S sg p||
+.    .+||Z||
+Muuhulgas    muu_hulgas+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+avalik-õiguslikesse    avalik-õiguslik+esse||A pl ill||
+ülikoolidesse    üli_kool+desse||S pl ill||
+lisandunud    lisandu+nud||V nud||+    lisandu=nud+0||A||    lisandu=nud+0||A sg n||    lisandu=nud+d||A pl n||
+üle    üle+0||K||
+870    870+0||N ?||
+arvuti    arvuti+0||S sg g||
+.    .+||Z||
+100    100+0||N ?||
+õppejõudu    õppe_jõud+0||S sg p||
+ja    ja+0||J||
+doktoranti    doktorant+0||S sg p||
+Eestist    Eesti+st||H sg el||
+on    ole+0||V b||    ole+0||V vad||+
+programmi    programm+0||S sg g||
+toel    toel+0||K||
+osalenud    osale+nud||V nud||+    osale=nud+0||A||    osale=nud+0||A sg n||    osale=nud+d||A pl n||
+rahvusvahelistel    rahvus_vaheline+tel||A pl ad||
+konverentsidel    konverents+del||S pl ad||
+,    ,+||Z||
+53    53+0||N ?||
+külalisõppejõudu    külalis_õppe_jõud+0||S sg p||
+on    ole+0||V b||+    ole+0||V vad||
+pidanud    pida+nud||V nud||+    pida=nud+0||A||    pida=nud+0||A sg n||    pida=nud+d||A pl n||
+loenguid    loeng+id||S pl p||
+Eestis    Eesti+s||H sg in||
+ja    ja+0||J||
+93    93+0||N ?||
+doktoranti    doktorant+0||S sg p||
+on    ole+0||V b||+    ole+0||V vad||
+saanud    saa+nud||V nud||+    saa=nud+0||A||    saa=nud+0||A sg n||    saa=nud+d||A pl n||
+tuge    tugi+0||S sg p||
+oma    oma+0||P sg g||
+kraadiõpingutes    kraadi_õping+tes||S pl in||
+.    .+||Z||
+</p>
+<p heading="0"> 
+"    "+||Z||
+Seekordsete    see_kordne+te||S pl g|| %see_kordne+te||A pl g||
+konkursivoorude    konkursi_voor+de||S pl g||
+raames    raames+0||K||
+toetame    toeta+me||V me||
+muuhulgas    muu_hulgas+0||D||
+IKT    IKT+0||Y ?||
+erialade    eri_ala+de||S pl g||
+õppejõudude    õppe_jõud+de||S pl g||
+ja    ja+0||J||
+doktorantide    doktorant+de||S pl g||
+mobiilsust    mobiilsus+t||S sg p||
+ehk    ehk+0||J||
+sta    sta+0||S sg g||
+?    ?+0||Y ?||
+eerimist    eeri=mine+t||S sg p||
+välisülikoolides    välis_üli_kool+des||S pl in||
+ja    ja+0||J||
+konverentsidest    konverents+dest||S pl el||
+osavõttu    osa_võtt+0||S sg p||
+kokku    kokku+0||D||
+450    450+0||N ?||
+000    000+0||N ?||
+krooniga    kroon+ga||S sg kom||
+ning    ning+0||J||
+IKT    IKT+0||Y ?||
+erialade    eri_ala+de||S pl g||
+eriotstarbeliste    eri_ots_tarbe=line+te||A pl g||
+laborite    labor+te||S pl g||
+komplekteerimist    komplekteerimine+t||S sg p||
+700    700+0||N ?||
+000    000+0||N ?||
+krooniga    kroon+ga||S sg kom||
+."    ."+||Z||
+EITSA    Eitsa+0||H sg g|| %EITSA+0||Y ?||
+juhatuse    juhatus+0||S sg g||
+esimehe    esi_mees+0||S sg g||
+Toomas    Toomas+0||H sg n||
+Sõmera    Sõmer+0||H sg g||    Sõmera+0||H sg g||+
+sõnul    sõna+ul||S pl ad||
+jagab    jaga+b||V b||
+EITSA    Eitsa+0||H sg n|| %EITSA+0||Y ?||
+samaaegselt    sama_aegselt+0||D||
+250    250+0||N ?||
+000    000+0||N ?||
+krooni    kroon+0||S sg p||
+välisõppejõudude    välis_õppe_jõud+de||S pl g||
+kutsumiseks    kutsumine+ks||S sg tr||
+Eestisse    Eesti+sse||H sg ill||
+ja    ja+0||J||
+150    150+0||N ?||
+000    000+0||N ?||
+õppematerjalide    õppe_materjal+de||S pl g||
+väljatöötamiseks    välja_töötamine+ks||S sg tr||
+.    .+||Z||
+"    "+||Z||
+Eraldi    eraldi+0||D||
+oleme    ole+me||V me||
+ette    ette+0||D||
+näinud    näi+nud||V nud||+    näge+nud||V nud||    näi=nud+0||A||    näi=nud+0||A sg n||    näi=nud+d||A pl n||
+1    1+0||N ?||
+miljon    miljon+0||N sg n||
+krooni    kroon+0||S sg p||
+ülikoolidele    üli_kool+dele||S pl all||
+selleks    see+ks||P sg tr||
+,    ,+||Z||
+et    et+0||J||
+nad    tema+d||P pl n||
+kaasajastaksid    kaas_ajasta+ksid||V ksid||
+oma    oma+0||P sg g||
+õppetööd    õppe_töö+d||S sg p||
+info-    info+0||S sg g|| %info+0||S ?||
+ja    ja+0||J||
+kommunikatsioonitehnoloogia    kommunikatsiooni_tehnoloogia+0||S sg g||
+abil    abil+0||K||
+."    ."+||Z||
+Täpsem    täpsem+0||C sg n||
+info    info+0||S sg n||
+Tiigriülikooli    tiigri_üli_kool+0||S sg g|| %Tiigri_üli_kool+0||H sg g||
+konkursside    konkurss+de||S pl g||
+kohta    kohta+0||K||
+on    ole+0||V b||+    ole+0||V vad||
+kättesaadav    kätte_saadav+0||A sg n||
+EITSA    Eitsa+0||H sg g|| %EITSA+0||Y ?||
+veebilehel    veebi_leht+l||S sg ad||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Riikliku    Riiklik+0||H sg g|| %riiklik+0||A sg g||
+IKT    IKT+0||Y ?||
+kõrghariduse    kõrg_haridus+0||S sg g||
+toetusprogrammi    toetus_programm+0||S sg g||
+"    "+||Z||
+Tiigriülikool    tiigri_üli_kool+0||S sg n|| %Tiigri_üli_kool+0||H sg n||
++    ++||Z||
+(    (+||Z||
+2005    2005+0||N ?||
+-    -+||Z||
+2008    2008+0||N ?||
+a    a+0||Y ?||
+.)"    .)"+||Z||
+eesmärgiks    ees_märk+ks||S sg tr||
+on    ole+0||V b||+    ole+0||V vad||
+toetada    toeta+da||V da||
+nii    nii+0||D||
+IKT    IKT+0||Y ?||
+infrastruktuuri    infra_struktuur+0||S sg g||
+väljaarendamist    välja_arendamine+t||S sg p||
+kõrgkoolides    kõrg_kool+des||S pl in||
+kui    kui+0||D||    kui+0||J||+
+ka    ka+0||D||
+IKT    IKT+0||Y ?||
+valdkonna    valdkond+0||S sg g||
+õppejõudkonna    õppe_jõud_konn+0||S sg g|| %õppe_jõud_kond+0||S sg g||
+ja    ja+0||J||
+kraadiõppe    kraadi_õpe+0||S sg g||
+infrastruktuuri    infra_struktuur+0||S sg g||
+arengut    areng+t||S sg p||
+.    .+||Z||
+Tiigriülikooli    tiigri_üli_kool+0||S sg g|| %Tiigri_üli_kool+0||H sg g||
+programmi    programm+0||S sg p||
+rahastatakse    rahasta+takse||V takse||
+sel    see+l||P sg ad||
+aastal    aasta+l||S sg ad||
+riigieelarvest    riigi_eel_arve+st||S sg el||
+15,4    15,4+0||N ?||
+miljoni    miljon+0||N sg g||
+krooni    kroon+0||S sg g||
+ulatuses    ulatus+s||S sg in||
+.    .+||Z||
+Programm    programm+0||S sg n||
+jaotab    jaota+b||V b||
+toetusi    toetus+i||S pl p||
+nii    nii+0||D||
+sihtfinantseerimise    siht_finantseeri=mine+0||S sg g||
+kui    kui+0||D||    kui+0||J||+
+avalike    avalik+e||A pl g||
+konkursside    konkurss+de||S pl g||
+kaudu    kaudu+0||K||
+,    ,+||Z||
+programmi    programm+0||S sg g|| %programm+0||S sg p||
+administreerib    administreeri+b||V b||
+Eesti    Eesti+0||H sg g||
+Infotehnoloogia    info_tehnoloogia+0||S sg g||
+Sihtasutus    siht_asutus+0||S sg n||
+.    .+||Z||
+</p>
+</doc>
+<doc id="86665" length="1k-10k" crawl_date="2013-01-12" url="http://arhiiv.koolielu.ee/pages.php/0302,21473?aj=1101" web_domain="arhiiv.koolielu.ee" langdiff="0.29" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Kuigi    kuigi+0||D||    kuigi+0||J||+
+hariduspoliitikas    haridus_poliitika+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+viimastel    viimane+tel||A pl ad||
+aastatel    aasta+tel||S pl ad||
+palju    palju+0||D||
+räägitud    rääki+tud||V tud||+    räägi=tud+0||A||    räägi=tud+0||A sg n||    räägi=tud+d||A pl n||
+tungivast    tungiv+st||A sg el||
+vajadusest    vajadus+st||S sg el||
+suurendada    suurenda+da||V da||
+Eesti    Eesti+0||H sg g||
+majanduse    majandus+0||S sg g||
+konkurentsivõime    konkurentsi_võime+0||S sg g||
+edendamiseks    edendamine+ks||S sg tr||
+täppisteaduste    täppis_teadus+te||S pl g||
+õppijate    õppija+te||S pl g||
+arvu    arv+0||S sg p||
+,    ,+||Z||
+ei    ei+0||V neg||
+näita    näita+0||V o||
+ka    ka+0||D||
+tänavune    tänavune+0||A sg n||
+ülikoolide    üli_kool+de||S pl g||
+vastuvõtustatistika    vastu_võtu_statistika+0||S sg g|| %vastu_võtu_statistika+0||S sg n||
+erilist    eriline+t||A sg p||
+huvi    huvi+0||S sg p|| %huvi+0||S sg g||
+tõusu    tõus+0||S sg p||
+.    .+||Z||
+Tallinna    Tallinn+0||H sg g||
+tehnikaülikooli    tehnika_üli_kool+0||S sg g||
+hinnangul    hinnang+l||S sg ad||
+päästaks    pääst+ks||V ks||
+olukorda    olu_kord+0||S sg p||
+kohustuslik    kohustuslik+0||A sg n||
+riigieksam    riigi_eksam+0||S sg n||
+ühes    üks+s||P sg in||
+reaalaines    reaal_aine+s||S sg in||
+,    ,+||Z||
+kirjutab    kirjuta+b||V b||
+Kadri    Kadri+0||H sg n||
+Ibrus    Ibrus+0||H sg n||
+ajalehes    aja_leht+s||S sg in||
+Eesti    Eesti+0||H sg n|| %Eesti+0||H sg g||
+Päevaleht    Päeva_leht+0||H sg n||+    Päevaleht+0||H sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+“    “+||Z||
+Tehnikaülikooli    tehnika_üli_kool+0||S sg g|| %tehnika_üli_kool+0||S sg p||
+teeb    tege+b||V b||
+jätkuvalt    jätkuvalt+0||D||
+murelikuks    murelik+ks||A sg tr||
+tendents    tendents+0||S sg n||
+,    ,+||Z||
+et    et+0||J||
+reaalainete    reaal_aine+te||S pl g||
+eksameid    eksam+id||S pl p||
+valib    vali+b||V b||
+järjest    järjest+0||D||
+vähem    vähem+0||D||
+gümnaasiumilõpetajaid    gümnaasiumi_lõpetaja+id||S pl p||
+,”    ,”+||Z||
+kahetses    kahetse+s||V s||
+TTÜ    TTÜ+0||Y ?||
+vastuvõtu-    vastu_võtt+0||S sg g|| %vastu_võtt+0||S ?||
+ja    ja+0||J||
+nõustamistalituse    nõusta=mis_talitus+0||S sg g||
+juhataja    juhataja+0||S sg n||
+Anne    Anne+0||H sg n||
+Urbla    Urbla+0||H sg n||
+.    .+||Z||
+Kui    kui+0||D||    kui+0||J||+
+veel    veel+0||D||
+aastal    aasta+l||S sg ad||
+2004    2004+0||N ?||
+sooritas    soorita+s||V s||
+matemaatika    matemaatika+0||S sg g||
+riigieksami    riigi_eksam+0||S sg g||
+peaaegu    pea_aegu+0||D||
+55    55+0||N ?||
+protsenti    protsent+0||S sg p||
+lõpetajatest    lõpetaja+test||S pl el||
+,    ,+||Z||
+siis    siis+0||J||
+aastal    aasta+l||S sg ad||
+2008    2008+0||N ?||
+oli    ole+i||V s||
+see    see+0||P sg n||
+protsent    protsent+0||S sg n||
+vaid    vaid+0||D||
+35.    35.+0||O ?||
+Seega    seega+0||D||
+oli    ole+i||V s||
+sel    see+l||P sg ad||
+aastal    aasta+l||S sg ad||
+matemaatikaeksami    matemaatika_eksam+0||S sg g||
+sooritajaid    sooritaja+id||S pl p||
+tunduvalt    tunduvalt+0||D||
+alla    alla+0||K||
+5000    5000+0||N ?||
+,    ,+||Z||
+kolm-neli    kolm-neli+0||N sg n||
+aastat    aasta+t||S sg p||
+tagasi    tagasi+0||K||
+oli    ole+i||V s||
+see    see+0||P sg n||
+arv    arv+0||S sg n||
+veel    veel+0||D||
+7000    7000+0||N ?||
+piirimail    piiri_maa+il||S pl ad||
+.    .+||Z||
+“    “+||Z||
+Reaalainete    reaal_aine+te||S pl g||
+nõrk    nõrk+0||A sg n||
+tase    tase+0||S sg n||
+tekitab    tekita+b||V b||
+probleeme    probleem+e||S pl p||
+heade    hea+de||A pl g||
+kandidaatide    kandidaat+de||S pl g||
+leidmisega    leidmine+ga||S sg kom||
+erialadele    eri_ala+dele||S pl all||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+nõuavad    nõud+vad||V vad||
+tugevaid    tugev+id||A pl p||
+teadmisi    teadmine+i||S pl p||
+reaalainetes    reaal_aine+tes||S pl in||
+.    .+||Z||
+Oleme    ole+me||V me||
+endiselt    endiselt+0||D||
+seisukohal    seisu_koht+l||S sg ad||
+,    ,+||Z||
+et    et+0||J||
+riigieksam    riigi_eksam+0||S sg n||
+ühes    üks+s||P sg in|| %üks+s||N sg in||
+reaalaines    reaal_aine+s||S sg in||
+peaks    pida+ks||V ks||
+igale    iga+le||P sg all||
+gümnaasiumilõpetajale    gümnaasiumi_lõpetaja+le||S sg all||
+kohustuslik    kohustuslik+0||A sg n||
+olema    ole+ma||V ma||
+,”    ,”+||Z||
+ütles    ütle+s||V s||
+Urbla    Urbla+0||H sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+“    “+||Z||
+Minul    mina+l||P sg ad||
+tekkis    tekki+s||V s||
+kindel    kindel+0||A sg n||
+plaan    plaan+0||S sg n||
+TTÜ-sse    TTÜ+sse||Y sg ill||
+tulla    tule+a||V da||
+juba    juba+0||D||
+neli    neli+0||N sg n||
+aastat    aasta+t||S sg p||
+tagasi    tagasi+0||K||
+,”    ,”+||Z||
+ütles    ütle+s||V s||
+tänavu    tänavu+0||D||
+kooli    kool+0||S adt||
+astunud    astu+nud||V nud||    astu=nud+0||A||+    astu=nud+0||A sg n||    astu=nud+d||A pl n||
+18-aastane    18_aastane+0||A sg n||
+Ester    ester+0||S sg n|| %Ester+0||H sg n||
+Uibopuu    Uibopuu+0||H sg n||
+,    ,+||Z||
+kes    kes+0||P pl n||    kes+0||P sg n||+
+on    ole+0||V b||+    ole+0||V vad||
+koos    koos+0||K||
+ühe    üks+0||N sg g||
+teise    teine+0||O sg g||    teine+0||P sg g||+
+sookaaslasega    soo_kaaslane+ga||S sg kom||
+ainukesed    ainuke+d||A pl n||+    ainukene+d||A pl n||
+tüdrukud    tüdruk+d||S pl n||
+mehhatroonika    mehhatroonika+0||S sg g||+    mehhatroonikas+0||S sg g||
+eriala    eri_ala+0||S sg g||
+esimesel    esimene+l||O sg ad||
+kursusel    kursus+l||S sg ad||
+.    .+||Z||
+“    “+||Z||
+Tekkis    tekki+s||V s||
+huvi    huvi+0||S sg p|| %huvi+0||S sg n||
+teada    tead+a||V da||
+saada    saa+da||V da||
+,    ,+||Z||
+kuidas    kuidas+0||D||
+mehaanilised    mehaaniline+d||A pl n||
+ja    ja+0||J||
+elektroonilised    elektrooniline+d||A pl n||
+asjad    asi+d||S pl n||
+töötavad    tööta+vad||V vad||
+.    .+||Z||
+Mind    mina+d||P sg p||
+on    ole+0||V b||+    ole+0||V vad||
+alati    alati+0||D||
+huvitanud    huvita+nud||V nud||+    huvita=nud+0||A||    huvita=nud+0||A sg n||    huvita=nud+d||A pl n||
+teadusega    teadus+ga||S sg kom||
+tegelemine    tegelemine+0||S sg n||
+,”    ,”+||Z||
+rääkis    rääki+s||V s||
+Uibopuu    Uibopuu+0||H sg n||
+,    ,+||Z||
+kes    kes+0||P pl n||    kes+0||P sg n||+
+on    ole+0||V b||+    ole+0||V vad||
+kindel    kindel+0||A sg n||
+,    ,+||Z||
+et    et+0||J||
+pärast    pärast+0||K||
+lõpetamist    lõpetamine+t||S sg p||
+leiab    leid+b||V b||
+ta    tema+0||P sg n||
+töö    töö+0||S sg g||
+kerge    kerge+0||A sg g||
+vaevaga    vaev+ga||S sg kom||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Tehnikaülikool    tehnika_üli_kool+0||S sg n||
+üritab    ürita+b||V b||
+omalt    oma+lt||P sg abl||
+poolt    poolt+0||K||
+Urbla    Urbla+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+noori    noor+i||S pl p||
+julgustada    julgusta+da||V da||
+astuma    astu+ma||V ma||
+õppima    õppi+ma||V ma||
+neile    see+le||P pl all||
+erialadele    eri_ala+dele||S pl all||
+riigieelarvelistel    riigi_eel_arveline+tel||A pl ad||
+õppekohtadel    õppe_koht+del||S pl ad||
+.    .+||Z||
+“    “+||Z||
+See    see+0||P sg n||
+on    ole+0||V b||+    ole+0||V vad||
+näitajaks    näitaja+ks||S sg tr||
+,    ,+||Z||
+et    et+0||J||
+töökoht    töö_koht+0||S sg n||
+peaks    pida+ks||V ks||
+olema    ole+ma||V ma||
+pärast    pärast+0||K||
+lõpetamist    lõpetamine+t||S sg p||
+kergesti    kergesti+0||D||
+leitav    lei=tav+0||A sg n||
+,”    ,”+||Z||
+rääkis    rääki+s||V s||
+Urbla    Urbla+0||H sg n||
+.    .+||Z||
+Sellised    selline+d||P pl n||
+on    ole+0||V b||    ole+0||V vad||+
+näiteks    näide+ks||S sg tr||
+energeetika    energeetika+0||S sg g|| %energeetika+0||S sg n||
+,    ,+||Z||
+mehaanika    mehaanika+0||S sg g|| %mehaanika+0||S sg n||
+ja    ja+0||J||
+IT-ala    IT-ala+0||S sg n||
+.    .+||Z||
+</p>
+</doc>

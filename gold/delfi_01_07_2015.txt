@@ -1,0 +1,1599 @@
+Norra    Norra+0||H sg g||
+peaminister    pea_minister+0||S sg n||
+:    :+||Z||
+alliansi    allianss+0||S sg g||
+2    2+0||N ?||
+%    %+0||Y ?||
+nõue    nõue+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+nonsenss    nonsenss+0||S sg n||
+(    (+||Z||
+62    62+0||N ?||
+)    )+||Z||
+Norra    Norra+0||H sg g||
+peaminister    pea_minister+0||S sg n||
+Erna    Erna+0||H sg n||
+Solberg    Solberg+0||H sg n||
+ütles    ütle+s||V s||
+,    ,+||Z||
+et    et+0||J||
+NATO    NATO+0||Y ?||
+soovitus    soovitus+0||S sg n||
+tõsta    tõst+a||V da||
+kaitsekulutusi    kaitse_kulutus+i||S pl p||
+kahe    kaks+0||N sg g||
+protsendini    protsent+ni||S sg ter||
+SKP-st    SKP+st||Y sg el||
+on    ole+0||V b||+    ole+0||V vad||
+nonsenss    nonsenss+0||S sg n||
+.    .+||Z||
+Võimul    võim+l||S sg ad||
+oleva    olev+0||A sg g||
+konservatiivse    konservatiivne+0||A sg g||
+partei    partei+0||S sg g||
+Høyre    Høyre+0||H sg g||
+esimees    esi_mees+0||S sg n||
+Erna    Erna+0||H sg n||
+Solberg    Solberg+0||H sg n||
+selgitas    selgita+s||V s||
+,    ,+||Z||
+et    et+0||J||
+alliansi    allianss+0||S sg g||
+eesmärk    ees_märk+0||S sg n||
+saab    saa+b||V b||
+lähtuda    lähtu+da||V da||
+ainult    ainult+0||D||
+riikide    riik+de||S pl g||
+tegelikust    tegelik+st||A sg el||
+kaitsevõimest    kaitse_võime+st||S sg el||
+.    .+||Z||
+„    „+||Z||
+NATO    NATO+0||Y ?||
+riikide    riik+de||S pl g||
+eesmärk    ees_märk+0||S sg n||
+ei    ei+0||V neg||
+peaks    pida+ks||V ks||
+väljenduma    väljendu+ma||V ma||
+ainuüksi    ainu_üksi+0||D||
+protsentides    protsent+des||S pl in||
+;“    ;“+||Z||
+rääkis    rääki+s||V s||
+Solberg    Solberg+0||H sg n||
+usutluses    usutlus+s||S sg in||
+relvajõudude    relva_jõud+de||S pl g||
+ajakirjale    aja_kiri+le||S sg all||
+Forum    Forum+0||H sg n||
+Magazine    Magazine+0||H sg n||
+.    .+||Z||
+Norra    Norra+0||H sg g||
+kaitseminister    kaitse_minister+0||S sg n||
+Ine    Ine+0||H sg n||
+Eriksen    Eriksen+0||H sg n||
+Søreide    Søreide+0||H sg n||
+väitis    väit+is||V s||
+juba    juba+0||D||
+tänavu    tänavu+0||D||
+aprillis    aprill+s||S sg in||
+,    ,+||Z||
+et    et+0||J||
+kahe    kaks+0||N sg g||
+protsendi    protsent+0||S sg g||
+eesmärki    ees_märk+0||S sg p||
+on    ole+0||V b||+    ole+0||V vad||
+Norral    Norra+l||H sg ad||
+lähiajal    lähi_aeg+l||S sg ad||
+väga    väga+0||D||
+raske    raske+0||A sg n||
+täita    täit+a||V da||
+.    .+||Z||
+Peaministri    pea_minister+0||S sg g||
+sõnul    sõna+ul||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+mullu    mullu+0||D||
+Walesi    Wales+0||H sg g||
+tippkohtumisel    tipp_kohtumine+l||S sg ad||
+kokku    kokku+0||D||
+lepitud    leppi+tud||V tud||    lepi=tud+0||A||+    lepi=tud+0||A sg n||    lepi=tud+d||A pl n||
+nõuet    nõue+t||S sg p||
+veelgi    veelgi+0||D||
+raskem    raskem+0||C sg n||
+täita    täit+a||V da||
+tugeva    tugev+0||A sg g||
+majanduskasvuga    majandus_kasv+ga||S sg kom||
+riikides    riik+des||S pl in||
+.    .+||Z||
+Norra    Norra+0||H sg n||
+kulutab    kuluta+b||V b||
+sel    see+l||P sg ad||
+aastal    aasta+l||S sg ad||
+riigikaitsele    riigi_kaitse+le||S sg all||
+1,6    1,6+0||N ?||
+protsenti    protsent+0||S sg p||
+SKP-st    SKP+st||Y sg el||
+,    ,+||Z||
+kuid    kuid+0||J||
+Norra    Norra+0||H sg g||
+endise    endine+0||A sg g||
+peaministri    pea_minister+0||S sg g||
+ja    ja+0||J||
+praeguse    praegune+0||A sg g||
+alliansi    allianss+0||S sg g||
+peasekretäri    pea_sekretär+0||S sg g||
+Jens    Jens+0||H sg n||
+Stoltenbergi    Stoltenberg+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+suudaks    suut+ks||V ks||
+Oslo    Oslo+0||H sg g|| %Oslo+0||H sg n||
+tulla    tule+a||V da||
+toime    toim+0||S adt||    toime+0||S adt||+
+ka    ka+0||D||
+kahe    kaks+0||N sg g||
+protsendi    protsent+0||S sg g||
+eesmärgiga    ees_märk+ga||S sg kom||
+.    .+||Z||
+„    „+||Z||
+Kaks    kaks+0||N sg n||
+protsenti    protsent+0||S sg p||
+on    ole+0||V b||+    ole+0||V vad||
+täiesti    täiesti+0||D||
+võimalik    võimalik+0||A sg n||
+,    ,+||Z||
+see    see+0||P sg n||
+tuleb    tule+b||V b||
+lihtsalt    lihtsalt+0||D||
+prioriteediks    prioriteet+ks||S sg tr||
+teha    tege+a||V da||
+,“    ,“+||Z||
+toonitas    toonita+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+Must    must+0||A sg n||
+stsenaarium    stsenaarium+0||S sg n||
+:    :+||Z||
+Kuidas    kuidas+0||D||
+Narva    Narva+0||H sg g||
+protestidest    protest+dest||S pl el||
+võiks    või+ks||V ks||
+kasvada    kasva+da||V da||
+kogu    kogu+0||A||
+planeeti    planeet+0||S sg p||
+hävitav    hävitav+0||A sg n||
+tuumasõda    tuuma_sõda+0||S sg n||
+(    (+||Z||
+24    24+0||N ?||
+)    )+||Z||
+Kadunud    kadu+nud||V nud||    kadunud+0||A||+    kadunud+0||A sg n||    kadunud+d||A pl n||
+Juri    Juri+0||H sg n||
+Mišin    Mišin+0||H sg n||
+poleks    ole+ks||V neg ks||
+ilmselt    ilmselt+0||D||
+uljamates    ulja=m+tes||C pl in||
+unenägudeski    une_nägu+deski||S pl in||
+näinud    näi+nud||V nud||    näge+nud||V nud||+    näi=nud+0||A||    näi=nud+0||A sg n||    näi=nud+d||A pl n||
+võimalust    võimalus+t||S sg p||
+,    ,+||Z||
+millega    mis+ga||P pl kom||    mis+ga||P sg kom||+
+mängivad    mängi+vad||V vad||
+praegu    praegu+0||D||
+USA    USA+0||Y ?||
+ajutrustid    aju_trust+d||S pl n||
+.    .+||Z||
+Väikelinn    Väike_linn+0||H sg n||    Väikelinn+0||H sg n|| %väike_linn+0||S sg n||
+Narva    Narva+0||H sg n||
+võiks    või+ks||V ks||
+saada    saa+da||V da||
+globaalse    globaalne+0||A sg g||
+kokkupõrke    kokku_põrge+0||S sg g||
+kohaks    koht+ks||S sg tr||+    koha+ks||S sg tr||
+,    ,+||Z||
+mistõttu    mis_tõttu+0||D||
+paljude    palju+de||P pl g||
+ekspertide    ekspert+de||S pl g||
+pilgud    pilk+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+hetkel    hetk+l||S sg ad||
+just    just+0||D||+    just+0||I||
+suunatud    suuna+tud||V tud||+    suuna=tud+0||A||    suuna=tud+0||A sg n||    suuna=tud+d||A pl n||
+sinna    sinna+0||D||
+.    .+||Z||
+Narva    Narva+0||H adt|| %Narva+0||H sg n||
+oli    ole+i||V s||
+linn    linn+0||S sg n||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+võinuks    või+nuks||V nuks||
+pretendeerida    pretendeeri+da||V da||
+kunagi    kunagi+0||D||
+Rootsi    Rootsi+0||H sg g||
+suurriigi    suur_riik+0||S sg g||
+pealinnaks    pea_linn+ks||S sg tr||
+,    ,+||Z||
+meie    mina+0||P pl g||
+riigi    riik+0||S sg g||
+külge    külge+0||K||
+suutis    suut+is||V s||
+linna    linn+0||S sg p|| %linn+0||S sg g||
+välja    välja+0||D||
+kaubelda    kauple+da||V da||
+1917.    1917.+0||O ?||
+aasta    aasta+0||S sg g||
+veebruarirevolutsiooni    veebruari_revolutsioon+0||S adt|| %veebruari_revolutsioon+0||S sg g||
+järgne    järgne+0||A sg n||
+Eesti    Eesti+0||H sg g||
+omavalitsus    oma_valitsus+0||S sg n||
+.    .+||Z||
+Narva-tagused    Narva-tagune+d||A pl n||
+alad    ala+d||S pl n||
+võeti    võt+ti||V ti||
+küll    küll+0||D||
+Moskva    Moskva+0||H sg g||
+otsusel    otsus+l||S sg ad||
+1944.    1944.+0||O ?||
+aastal    aasta+l||S sg ad||
+jõuga    jõud+ga||S sg kom||
+jälle    jälle+0||D||
+Eestilt    Eesti+lt||H sg abl||
+ära    ära+0||D||
+.    .+||Z||
+Ja    ja+0||J||
+varemetest    vare+test||S pl el||
+kerkinud    kerki+nud||V nud||    kerki=nud+0||A||+    kerki=nud+0||A sg n||    kerki=nud+d||A pl n||
+uus    uus+0||A sg n||
+linn    linn+0||S sg n||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+enam    enam+0||D||
+eestlaste    eestlane+te||S pl g||
+linn    linn+0||S sg n||
+,    ,+||Z||
+2011.    2011.+0||O ?||
+aasta    aasta+0||S sg g||
+rahvaloenduse    rahva_loendus+0||S sg g||
+andmetel    andmed+tel||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+sealsetest    sealne+test||A pl el||
+elanikest    elanik+est||S pl el||
+venelasi    venelane+i||S pl p||
+87,6    87,6+0||N ?||
+protsenti    protsent+0||S sg p||
+,    ,+||Z||
+eestlasi    eestlane+i||S pl p||
+5,1    5,1+0||N ?||
+protsenti    protsent+0||S sg p||
+,    ,+||Z||
+ukrainlasi    ukrainlane+i||S pl p||
+2,0    2,0+0||N ?||
+protsenti    protsent+0||S sg p||
+,    ,+||Z||
+valgevenelasi    valge_venelane+i||S pl p||
+1,7    1,7+0||N ?||
+protsenti    protsent+0||S sg p||
+,    ,+||Z||
+soomlasi    soomlane+i||S pl p||
+0,7    0,7+0||N ?||
+protsenti    protsent+0||S sg p||
+.    .+||Z||
+Rahvaloendus    rahva_loendus+0||S sg n||
+küll    küll+0||D||
+unustas    unusta+s||V s||
+nähtavasti    nähtavasti+0||D||
+ära    ära+0||D||
+oma    oma+0||D||
+seitse    seitse+0||N sg n||
+tuhat    tuhat+0||N sg p||
+narvakat    narvakas+t||S sg p||
+,    ,+||Z||
+eks    eks+0||D||
+nende    tema+de||P pl g||
+seas    seas+0||K||
+võivad    või+vad||V vad||
+suhtarvud    suht_arv+d||S pl n||
+sarnased    sarnane+d||A pl n||
+olla    ole+a||V da||
+.    .+||Z||
+IGOR    Igor+0||H sg n||
+MANG    MANG+0||Y ?|| %Mang+0||H sg n||
+ennustab    ennusta+b||V b||
+,    ,+||Z||
+mida    mis+da||P pl p||    mis+da||P sg p||+
+toob    too+b||V b||
+juuli    juuli+0||S sg g|| %juuli+0||S sg n||
+tosinale    tosin+le||S sg all||
+tähemärgile    tähe_märk+le||S sg all||
+(    (+||Z||
+6    6+0||N ?||
+)    )+||Z||
+Kuni    kuni+0||K||
+12.    12.+0||O ?||
+kuupäevani    kuu_päev+ni||S sg ter||
+peaks    pida+ks||V ks||
+olema    ole+ma||V ma||
+sobiv    sobiv+0||A sg n||
+aeg    aeg+0||S sg n||
+puhkuseks    puhkus+ks||S sg tr||
+ja    ja+0||J||
+tervise    tervis+0||S sg g||
+kosutamiseks    kosuta=mine+ks||S sg tr||
+,    ,+||Z||
+midagi    miski+dagi||P sg p||
+rasket    raske+t||A sg p||
+ei    ei+0||V neg||
+tohiks    tohti+ks||V ks||
+siis    siis+0||D||
+juhtuda    juhtu+da||V da||
+.    .+||Z||
+13    13+0||N ?||
+.–    .-+||Z||
+20.    20.+0||O ?||
+juulini    juuli+ni||S sg ter||
+on    ole+0||V b||+    ole+0||V vad||
+oodata    oota+ta||V da||
+suuri    suur+i||A pl p||
+ebameeldivusi    eba_meeldivus+i||S pl p||
+,    ,+||Z||
+vargusi    vargus+i||S pl p||
+,    ,+||Z||
+peksmisi    peksmine+i||S pl p||
+ja    ja+0||J||
+muud    muu+d||P sg p||
+agressiivsust    agressiivsus+t||S sg p||
+.    .+||Z||
+Sellele    see+le||P sg all||
+viitavad    viita+vad||V vad||
+nii    nii+0||D||
+Marsi    Mars+0||H sg g||
+kui    kui+0||D||    kui+0||J||+
+ka    ka+0||D||
+Merkuuri    Merkuur+0||H sg g||
+opositsioon    opositsioon+0||S sg n||
+Pluutoga    Pluuto+ga||H sg kom||
+.    .+||Z||
+Konfliktid    konflikt+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+kerged    kerge+d||A pl n||
+tekkima    tekki+ma||V ma||
+nii    nii+0||D||
+avalikes    avalik+es||A pl in||
+kohtades    koht+des||S pl in||
+kui    kui+0||D||    kui+0||J||+
+kodus    kodu+s||S sg in||
+.    .+||Z||
+Jäär    Jäär+0||H sg n||+    Jäär+0||H sg n||
+21.03    21.03+0||N ?||
+.–    .-+||Z||
+20.04.    20.04.+0||N ?||
+Juulis    juuli+s||S sg in||
+nõuavad    nõud+vad||V vad||
+tähelepanu    tähele_panu+0||S sg p||
+kodused    kodune+d||A pl n||
+asjad    asi+d||S pl n||
+–    -+||Z||
+põhjuseks    põhjus+ks||S sg tr||
+mees-Jäära    mees-Jäär+0||H sg g||+    mees-Jääras+0||H sg g||
+elukaaslane    elu_kaaslane+0||S sg n||
+,    ,+||Z||
+kes    kes+0||P pl n||    kes+0||P sg n||+
+eelmise    eelmine+0||A sg g||
+kuu    kuu+0||S sg g||
+lõpul    lõpp+l||S sg ad||
+rasedaks    rase+ks||A sg tr||
+on    ole+0||V b||+    ole+0||V vad||
+jäänud    jää+nud||V nud||+    jäänud+0||A||    jäänud+0||A sg n||    jäänud+d||A pl n||
+.    .+||Z||
+Veel    veel+0||D||
+tõenäolisemalt    tõe_näolisemalt+0||D||
+jääb    jää+b||V b||
+rasedaks    rase+ks||A sg tr||
+nais-Jäär    nai+s-Jäär+0||H sg n||
+.    .+||Z||
+7    7+0||N ?||
+.–    .-+||Z||
+8.    8.+0||O ?||
+ning    ning+0||J||
+14    14+0||N ?||
+.–    .-+||Z||
+15.    15.+0||O ?||
+juuli    juuli+0||S sg n||
+toovad    too+vad||V vad||
+suhetesse    suhe+tesse||S pl ill||
+ülemääraseid    üle_määrane+id||A pl p||
+pingeid    pinge+id||S pl p||
+,    ,+||Z||
+eriti    eriti+0||D||
+siis    siis+0||D||
+,    ,+||Z||
+kui    kui+0||D||    kui+0||J||+
+läheb    mine+b||V b||
+avameelitsemiseks    ava_meelitse=mine+ks||S sg tr||
+.    .+||Z||
+Kuu    Kuu+0||H sg g||    Kuu+0||H sg g|| %kuu+0||S sg g||
+teine    teine+0||O sg n||+    teine+0||P sg n||
+pool    pool+0||S sg n||+    pool+0||S sg n||
+lubab    luba+b||V b||
+tundeelus    tunde_elu+s||S sg in||
+rohkem    rohkem+0||D||
+harmooniat    harmoonia+t||S sg p||
+.    .+||Z||
+Sõnn    Sõnn+0||H sg n||+    Sõnn+0||H sg n||
+21.04    21.04+0||N ?||
+.–    .-+||Z||
+21.05.    21.05.+0||N ?||
+Juuli    juuli+0||S sg g|| %juuli+0||S sg n||
+toob    too+b||V b||
+lühikesi    lühike+i||A pl p||
+ja    ja+0||J||
+pikki    pikk+i||A pl p||
+sõite    sõit+e||S pl p||
+.    .+||Z||
+Lühemad    Lühem+d||H pl n|| %lühem+d||C pl n||
+viivad    vii+vad||V vad||
+sugulastele    sugulane+tele||S pl all||
+ja    ja+0||J||
+sõpradele    sõber+dele||S pl all||
+külla    küll+0||S adt||    küla+0||S adt||+
+.    .+||Z||
+Ilmub    ilmu+b||V b||
+välja    välja+0||D||
+üks    üks+0||P sg n||
+vana    vana+0||A sg n||
+armastus    armastus+0||S sg n||
+,    ,+||Z||
+kes    kes+0||P pl n||    kes+0||P sg n||+
+soovib    soovi+b||V b||
+suhteid    suhe+id||S pl p||
+taas    taas+0||D||
+üles    üles+0||D||
+soojendada    soojenda+da||V da||
+.    .+||Z||
+Kaksikud    Kaksik+d||H pl n||    Kaksiku+d||H pl n||    Kaksikud+0||H sg n||+
+22.05    22.05+0||N ?||
+–    -+||Z||
+21.06.    21.06.+0||N ?||
+Juulis    juuli+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+tema    tema+0||P sg g||
+põhihuvi    põhi_huvi+0||S sg n||
+omaenda    oma_enese+0||P sg g||
+heaolul    hea_olu+l||S sg ad||
+,    ,+||Z||
+puhkusel    puhkus+l||S sg ad||
+ja    ja+0||J||
+kaunite    kaunis+te||A pl g||
+paikade    paik+de||S pl g||
+külastamisel    külastamine+l||S sg ad||
+.    .+||Z||
+Kaugele    kaugele+0||D||
+sõita    sõit+a||V da||
+veel    veel+0||D||
+ei    ei+0||V neg||
+saa    saa+0||V o||
+,    ,+||Z||
+sest    sest+0||J||
+on    ole+0||V b||+    ole+0||V vad||
+tööalaseid    töö_alane+id||A pl p||
+kohustusi    kohustus+i||S pl p||
+ja    ja+0||J||
+rahateenimise    raha_teenimine+0||S sg g||
+võimalusi    võimalus+i||S pl p||
+,    ,+||Z||
+mistõttu    mis_tõttu+0||D||
+puhkus    puhkus+0||S sg n||
+lükkub    lükku+b||V b||
+kuu    kuu+0||S sg g||
+lõppu    lõpp+0||S adt||
+või    või+0||J||
+augustisse    august+sse||S sg ill||
+.    .+||Z||
+Juuli    juuli+0||S sg g|| %juuli+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+hea    hea+0||A sg g|| %hea+0||A sg n||
+kuu    kuu+0||S sg g|| %kuu+0||S sg n||
+äriks    äri+ks||S sg tr||
+,    ,+||Z||
+kuid    kuid+0||J||
+samas    samas+0||D||
+võib    või+b||V b||
+näha    näge+a||V da||
+ka    ka+0||D||
+varguste    vargus+te||S pl g||
+tekitatud    tekita+tud||V tud||    tekita=tud+0||A||+    tekita=tud+0||A sg n||    tekita=tud+d||A pl n||
+kahju    kahju+0||S sg n|| %kahju+0||S sg p||
+.    .+||Z||
+Tuleb    tule+b||V b||
+olla    ole+a||V da||
+tähelepanelik    tähele_panelik+0||A sg n||
+rahvarohketes    rahva_rohke+tes||A pl in||
+kohtades    koht+des||S pl in||
+,    ,+||Z||
+ka    ka+0||D||
+rannas    rand+s||S sg in||
+viibides    viibi+des||V des||
+.    .+||Z||
+Vähk    Vähk+0||H sg n||+    Vähk+0||H sg n||
+22.06    22.06+0||N ?||
+.–    .-+||Z||
+22.07.    22.07.+0||N ?||
+Juulis    juuli+s||S sg in||
+tahab    taht+b||V b||
+Vähk    Vähk+0||H sg n||+    Vähk+0||H sg n||
+elada    ela+da||V da||
+iseendale    ise_enese+le||P sg all||
+–    -+||Z||
+saadab    saat+b||V b||
+lapsed    laps+d||S pl n||
+suvelaagrisse    suve_laager+sse||S sg ill||
+,    ,+||Z||
+sõidab    sõit+b||V b||
+ka    ka+0||D||
+ise    ise+0||P pl n||    ise+0||P sg n||+
+ära    ära+0||D||
+,    ,+||Z||
+kas    kas+0||D||
+üksi    üksi+0||D||
+või    või+0||J||
+abikaasaga    abi_kaasa+ga||S sg kom||
+,    ,+||Z||
+sööb-joob    söö+b-joo+b||V b||
+parimat    parim+t||U sg p||
+ja    ja+0||J||
+üldse    üldse+0||D||
+naudib    nauti+b||V b||
+elu    elu+0||S sg n|| %elu+0||S sg p||
+.    .+||Z||
+Lõvi    Lõvi+0||H sg n||
+23.07    23.07+0||N ?||
+.–    .-+||Z||
+22.08.    22.08.+0||N ?||
+Juulis    juuli+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+õige    õige+0||A sg n||
+aeg    aeg+0||S sg n||
+puhata    puhka+ta||V da||
+koos    koos+0||K||
+armsamaga    armsam+ga||S sg kom||
+või    või+0||J||
+sõita    sõit+a||V da||
+kogu    kogu+0||A||
+perega    pere+ga||S sg kom||
+looduse    loodus+0||S sg g||
+rüppe    rüpp+0||S adt||
+.    .+||Z||
+Esimesel    esimene+l||O sg ad||
+nädalal    nädal+l||S sg ad||
+võivad    või+vad||V vad||
+tööasjad    töö_asi+d||S pl n||
+teda    tema+da||P sg p||
+veel    veel+0||D||
+kinni    kinni+0||D||
+hoida    hoid+a||V da||
+.    .+||Z||
+Teatud    tead+tud||V tud||    teatud+0||A||+    teatud+0||A sg n||    teatud+d||A pl n||
+kavatsus    kavatsus+0||S sg n||
+,    ,+||Z||
+mille    mis+0||P pl g||    mis+0||P sg g||+
+ta    tema+0||P sg g|| %tema+0||P sg n||
+sügise    sügis+0||S sg g||
+peale    peale+0||K||
+lükkas    lükka+s||V s||
+,    ,+||Z||
+muutub    muutu+b||V b||
+nüüd    nüüd+0||D||
+kahtlaseks    kahtlane+ks||A sg tr||
+.    .+||Z||
+1    1+0||N ?||
+.–    .-+||Z||
+3.    3.+0||O ?||
+ja    ja+0||J||
+ka    ka+0||D||
+14    14+0||N ?||
+.–    .-+||Z||
+15.    15.+0||O ?||
+juuli    juuli+0||S sg n||
+võivad    või+vad||V vad||
+tuua    too+a||V da||
+uusi    uus+i||A pl p||
+pöördeid    pööre+id||S pl p||
+.    .+||Z||
+Nendel    see+del||P pl ad||
+päevadel    päev+del||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+Lõvil    lõvi+l||S sg ad|| %Lõvi+l||H sg ad||
+põhjust    põhjus+t||S sg p||
+vihastada    vihasta+da||V da||
+ja    ja+0||J||
+terviski    tervis+0ki||S sg n||
+võib    või+b||V b||
+halveneda    halvene+da||V da||
+.    .+||Z||
+Lõvitaril    Lõvitar+l||H sg ad||+    Lõvitari+l||H sg ad||
+,    ,+||Z||
+kes    kes+0||P pl n||    kes+0||P sg n||+
+eelmisel    eelmine+l||A sg ad||
+kuul    kuu+l||S sg ad||
+lapseootele    lapse_oode+le||S sg all||
+jäi    jää+i||V s||
+,    ,+||Z||
+on    ole+0||V b||    ole+0||V vad||+
+terviseprobleemid    tervise_probleem+d||S pl n||
+sellelt    see+lt||P sg abl||
+pinnalt    pind+lt||S sg abl||
+.    .+||Z||
+Neitsi    Neitsi+0||H sg n||+    Neitsi+0||H sg n||
+23.08    23.08+0||N ?||
+.–    .-+||Z||
+23.09.    23.09.+0||N ?||
+Juulis    juuli+s||S sg in||
+saab    saa+b||V b||
+ta    tema+0||P sg n||
+pühenduda    pühendu+da||V da||
+omaenda    oma_enese+0||P sg g||
+huvidele    huvi+dele||S pl all||
+,    ,+||Z||
+ent    ent+0||J||
+need    see+d||P pl n||
+on    ole+0||V b||    ole+0||V vad||+
+paljuski    palju+ski||P sg in||
+ka    ka+0||D||
+kollektiivi    kollektiiv+0||S sg g||
+huvid    huvi+d||S pl n||
+.    .+||Z||
+Palju    palju+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+suhtlemist    suhtlemine+t||S sg p||
+sõpradega    sõber+dega||S pl kom||
+,    ,+||Z||
+ka    ka+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+põhjust    põhjus+t||S sg p||
+välja    välja+0||D||
+astuda    astu+da||V da||
+ühe    üks+0||P sg g||
+sõbra    sõber+0||S sg g||
+kaitseks    kaitse+ks||S sg tr||
+,    ,+||Z||
+kuid    kuid+0||J||
+mõnega    mõni+ga||P sg kom||
+läheb    mine+b||V b||
+ta    tema+0||P sg n||
+riidu    riid+0||S adt||
+.    .+||Z||
+Neitsi    Neitsi+0||H sg g||+    Neits+0||H sg g||    Neitsi+0||H sg g||
+eesmärk    ees_märk+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+hoida    hoid+a||V da||
+kollektiiv    kollektiiv+0||S sg n||
+koos    koos+0||D||
+kui    kui+0||D||    kui+0||J||+
+üks    üks+0||P sg n||
+organism    organism+0||S sg n||
+.    .+||Z||
+Selleks    see+ks||P sg tr||
+on    ole+0||V b||+    ole+0||V vad||
+vaja    vaja+0||D||
+otsida    otsi+da||V da||
+ühist    ühine+t||A sg p||
+nimetajat    nimetaja+t||S sg p||
+,    ,+||Z||
+mille    mis+0||P pl g||    mis+0||P sg g||+
+tark    tark+0||A sg n||
+Neitsi    Neitsi+0||H sg n||+    Neitsi+0||H sg n||
+ka    ka+0||D||
+leiab    leid+b||V b||
+.    .+||Z||
+Kaalud    Kaal+d||H pl n||    Kaalu+d||H pl n||    Kaalud+0||H sg n||+
+24.09    24.09+0||N ?||
+.–    .-+||Z||
+23.10.    23.10.+0||N ?||
+Juulis    juuli+s||S sg in||
+kuulevad    kuul+vad||V vad||
+Kaalud    Kaal+d||H pl n||    Kaalu+d||H pl n||    Kaalud+0||H sg n||+
+,    ,+||Z||
+mida    mis+da||P pl p||    mis+da||P sg p||+
+teised    teine+d||O pl n||    teine+d||P pl n||+
+temast    tema+st||P sg el||
+arvavad    arva+vad||V vad||
+.    .+||Z||
+Kui    kui+0||D||    kui+0||J||+
+ta    tema+0||P sg n||
+on    ole+0||V b||+    ole+0||V vad||
+poliitik    poliitik+0||S sg n||
+,    ,+||Z||
+saab    saa+b||V b||
+ta    tema+0||P sg n||
+kuulda    kuul+da||V da||
+üldsuse    üldsus+0||S sg g||
+arvamust    arvamus+t||S sg p||
+.    .+||Z||
+Ta    tema+0||P sg n||
+ise    ise+0||P pl n||    ise+0||P sg n||+
+püüab    püüd+b||V b||
+oma    oma+0||P sg g||
+autoriteeti    autoriteet+0||S sg p||
+kõrgel    kõrgel+0||D||
+hoida    hoid+a||V da||
+,    ,+||Z||
+kuid    kuid+0||J||
+avalikkus    avalikkus+0||S sg n||
+võtab    võt+b||V b||
+peale    peale+0||D||
+tema    tema+0||P sg g||
+kunagiste    kunagine+te||A pl g||
+õigete    õige+te||A pl g||
+otsuste    otsus+te||S pl g||
+luubi    luup+0||S sg g||
+alla    alla+0||K||
+ka    ka+0||D||
+minevikus    minevik+s||S sg in||
+tehtud    tehtud+0||A||+    tehtud+0||A sg n||    tehtud+d||A pl n||    tege+tud||V tud||
+vead    viga+d||S pl n||
+.    .+||Z||
+Võimalik    võimalik+0||A sg n||
+,    ,+||Z||
+et    et+0||J||
+juuli    juuli+0||S sg g||
+lõpus    lõpp+s||S sg in||
+jääb    jää+b||V b||
+ta    tema+0||P sg n||
+puhkusele    puhkus+le||S sg all||
+,    ,+||Z||
+sest    sest+0||J||
+august    august+0||S sg n||
+näitab    näita+b||V b||
+pingelangust    pinge_langus+t||S sg p||
+,    ,+||Z||
+nii    nii+0||D||
+lühemaid    lühem+id||C pl p||
+kui    kui+0||D||    kui+0||J||+
+pikki    pikk+i||A pl p||
+reise    reis+e||S pl p||
+,    ,+||Z||
+meeldivaid    meeldiv+id||A pl p||
+seltskondlikke    seltskondlik+e||A pl p||
+koosviibimisi    koos_viibimine+i||S pl p||
+.    .+||Z||
+Skorpion    Skorpion+0||H sg n||+    Skorpion+0||H sg n||
+24.10    24.10+0||N ?||
+.–    .-+||Z||
+22.11.    22.11.+0||N ?||
+Juulis    juuli+s||S sg in||
+tahab    taht+b||V b||
+Skorpion    Skorpion+0||H sg n||+    Skorpion+0||H sg n||
+sõita    sõit+a||V da||
+välismaale    välis_maa+le||S sg all||
+–    -+||Z||
+võimalikult    võimalikult+0||D||
+kaugele    kaugele+0||D||
+.    .+||Z||
+Ilmselt    ilmselt+0||D||
+teeb    tege+b||V b||
+ta    tema+0||P sg n||
+seda    see+da||P sg p||
+koos    koos+0||K||
+lähedase    lähedane+0||A sg g||
+inimesega    inimene+ga||S sg kom||
+.    .+||Z||
+Tundub    tundu+b||V b||
+,    ,+||Z||
+et    et+0||J||
+see    see+0||P sg n||
+pole    ole+0||V neg o||
+mitte    mitte+0||D||
+ainult    ainult+0||D||
+puhkusereis    puhkuse_reis+0||S sg n||
+,    ,+||Z||
+vaid    vaid+0||J||
+on    ole+0||V b||+    ole+0||V vad||
+niivõrd    nii_võrd+0||D||
+seotud    seotud+0||A||    seotud+0||A sg n||    seotud+d||A pl n||    sidu+tud||V tud||+
+ka    ka+0||D||
+tööga    töö+ga||S sg kom||
+,    ,+||Z||
+et    et+0||J||
+sellest    see+st||P sg el||
+sõltub    sõltu+b||V b||
+lausa    lausa+0||D||
+tulevik    tulevik+0||S sg n||
+.    .+||Z||
+Reisil    reis+l||S sg ad||
+on    ole+0||V b||+    ole+0||V vad||
+oht    oht+0||S sg n||
+sattuda    sattu+da||V da||
+ekstreemsetesse    ekstreemne+tesse||A pl ill||
+oludesse    olu+desse||S pl ill||
+,    ,+||Z||
+eriti    eriti+0||D||
+1    1+0||N ?||
+.–    .-+||Z||
+3.    3.+0||O ?||
+ja    ja+0||J||
+7    7+0||N ?||
+.–    .-+||Z||
+8.    8.+0||O ?||
+ning    ning+0||J||
+15    15+0||N ?||
+.–    .-+||Z||
+16.    16.+0||O ?||
+juulil    juuli+l||S sg ad||
+.    .+||Z||
+Kuu    Kuu+0||H sg g||    Kuu+0||H sg g|| %kuu+0||S sg g||
+lõpus    lõpp+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+ta    tema+0||P sg g|| %tema+0||P sg n||
+töötuhinas    töö_tuhin+s||S sg in||
+ja    ja+0||J||
+tunneb    tund+b||V b||
+end    ise+0||P sg p||
+nii    nii+0||D||
+füüsiliselt    füüsiliselt+0||D||
+kui    kui+0||D||    kui+0||J||+
+hingeliselt    hingeliselt+0||D||
+heas    hea+s||A sg in||
+vormis    vorm+s||S sg in||
+olevat    ole+vat||V vat||
+.    .+||Z||
+Ambur    Ambur+0||H sg n||+    Ambur+0||H sg n||
+23.11    23.11+0||N ?||
+.–    .-+||Z||
+21.12.    21.12.+0||N ?||
+Juuli    juuli+0||S sg g|| %juuli+0||S sg n||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+lihtne    lihtne+0||A sg n||
+aeg    aeg+0||S sg n||
+,    ,+||Z||
+sest    sest+0||J||
+proovile    proov+le||S sg all||
+pannakse    pane+akse||V takse||
+kõik    kõik+0||P pl n||    kõik+0||P sg n||+
+–    -+||Z||
+nii    nii+0||D||
+suhted    suhe+d||S pl n||
+elukaaslase    elu_kaaslane+0||S sg g||
+kui    kui+0||D||    kui+0||J||+
+ka    ka+0||D||
+töökollektiiviga    töö_kollektiiv+ga||S sg kom||
+.    .+||Z||
+Parem    parem+0||C sg n||
+,    ,+||Z||
+kui    kui+0||D||    kui+0||J||+
+Ambur    Ambur+0||H sg n||+    Ambur+0||H sg n||
+elukaaslasega    elu_kaaslane+ga||S sg kom||
+pikale    pikk+le||A sg all||
+reisile    reis+le||S sg all||
+ei    ei+0||V neg||
+läheks    mine+ks||V ks||
+,    ,+||Z||
+sest    sest+0||J||
+see    see+0||P sg n||
+rikuks    rikku+ks||V ks||
+vaid    vaid+0||D||
+tuju    tuju+0||S sg n|| %tuju+0||S sg p||
+.    .+||Z||
+Kuu    Kuu+0||H sg g||    Kuu+0||H sg g|| %kuu+0||S sg g||
+esipoolel    esi_pool+l||S sg ad||
+tuleks    tule+ks||V ks||
+vanad    vana+d||A pl n||
+tööasjad    töö_asi+d||S pl n||
+lõpetada    lõpeta+da||V da||
+,    ,+||Z||
+sest    sest+0||J||
+teine    teine+0||O sg n||+    teine+0||P sg n||
+pool    pool+0||S sg n||+    pool+0||S sg n||
+toob    too+b||V b||
+palju    palju+0||D||
+uut    uus+t||A sg p||
+peale    peale+0||K||
+.    .+||Z||
+Juulis    juuli+s||S sg in||
+võib    või+b||V b||
+tulla    tule+a||V da||
+ebameeldivusi    eba_meeldivus+i||S pl p||
+liikluses    liiklus+s||S sg in||
+,    ,+||Z||
+eriti    eriti+0||D||
+autoga    auto+ga||S sg kom||
+sõites    sõit+es||V des||
+,    ,+||Z||
+olgu    ole+gu||V gu||
+reis    reis+0||S sg n||
+lühike    lühike+0||A sg n||
+või    või+0||J||
+pikk    pikk+0||A sg n||
+.    .+||Z||
+Kaljukits    Kalju_kits+0||H sg n||+    Kaljukits+0||H sg n||
+22.12    22.12+0||N ?||
+.–    .-+||Z||
+20.01.    20.01.+0||N ?||
+Juuli    juuli+0||S sg g|| %juuli+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+sündmuste    sündmus+te||S pl g||
+poolest    poolest+0||K||
+selle    see+0||P sg g||
+aasta    aasta+0||S sg g||
+kõige    kõige+0||D||
+kirjum    kirju=m+0||C sg n||
+ja    ja+0||J||
+mitmekesisem    mitme_kesisem+0||C sg n||
+.    .+||Z||
+Õnneks    Õnneks+0||H sg n|| %õnneks+0||D||
+on    ole+0||V b||    ole+0||V vad||+
+positiivsed    positiivne+d||A pl n||
+sündmused    sündmus+d||S pl n||
+ülekaalus    üle_kaal+s||S sg in||
+.    .+||Z||
+Kuu    Kuu+0||H sg g||    Kuu+0||H sg g|| %kuu+0||S sg g||
+esimesed    esimene+d||O pl n||
+kolm    kolm+0||N sg n||
+päeva    päev+0||S sg p||
+toovad    too+vad||V vad||
+küll    küll+0||D||
+negatiivseid    negatiivne+id||A pl p||
+teateid    teade+id||S pl p||
+–    -+||Z||
+jääb    jää+b||V b||
+ära    ära+0||D||
+lennureis    lennu_reis+0||S sg n||
+või    või+0||J||
+esineb    esine+b||V b||
+mõni    mõni+0||P sg n||
+muu    muu+0||P sg n||
+sõidukirike    sõiduki_rike+0||S sg n||
+.    .+||Z||
+Veevalaja    Vee_vala=ja+0||H sg n||
+21.01    21.01+0||N ?||
+.–    .-+||Z||
+19.02.    19.02.+0||N ?||
+Juulis    juuli+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+Veevalaja    Vee_vala=ja+0||H sg n||
+emotsionaalne    emotsionaalne+0||A sg n||
+ja    ja+0||J||
+tujukas    tujukas+0||A sg n||
+,    ,+||Z||
+sest    sest+0||J||
+on    ole+0||V b||+    ole+0||V vad||
+sunnitud    sundi+tud||V tud||+    sunnitud+0||A||    sunnitud+0||A sg n||    sunnitud+d||A pl n||
+loobuma    loobu+ma||V ma||
+veel    veel+0||D||
+ühest    ühest+0||D|| %üks+st||P sg el||
+ettevõtmisest    ette_võtmine+st||S sg el||
+.    .+||Z||
+Ka    ka+0||D||
+partner    partner+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+sel    see+l||P sg ad||
+kuul    kuu+l||S sg ad||
+temaga    tema+ga||P sg kom||
+eriarvamusel    eri_arvamus+l||S sg ad||
+.    .+||Z||
+1    1+0||N ?||
+.–    .-+||Z||
+3.    3.+0||O ?||
+juulini    juuli+ni||S sg ter||
+on    ole+0||V b||    ole+0||V vad||+
+halvad    halb+d||A pl n||
+päevad    päev+d||S pl n||
+reisimiseks    reisimine+ks||S sg tr||
+–    -+||Z||
+lennujaamas    lennu_jaam+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+streik    streik+0||S sg n||
+või    või+0||J||
+autol    auto+l||S sg ad||
+tehniline    tehniline+0||A sg n||
+rike    rike+0||S sg n||
+.    .+||Z||
+Igatahes    iga_tahes+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+oht    oht+0||S sg n||
+jääda    jää+da||V da||
+tee    tee+0||S sg g||
+peal    peal+0||K||
+toppama    toppa+ma||V ma||
+.    .+||Z||
+12    12+0||N ?||
+.–    .-+||Z||
+14.    14.+0||O ?||
+juulini    juuli+ni||S sg ter||
+olgu    ole+gu||V gu||
+ta    tema+0||P sg g|| %tema+0||P sg n||
+ettevaatlik    ette_vaatlik+0||A sg n||
+varguste    vargus+te||S pl g||
+tõttu    tõttu+0||K||
+.    .+||Z||
+Kuu    Kuu+0||H sg g||    Kuu+0||H sg g|| %kuu+0||S sg g||
+viimasel    viimane+l||A sg ad||
+päeval    päev+l||S sg ad||
+on    ole+0||V b||    ole+0||V vad||+
+mõtted    mõte+d||S pl n||
+seotud    seotud+0||A||    seotud+0||A sg n||    seotud+d||A pl n||    sidu+tud||V tud||+
+tööga    töö+ga||S sg kom||
+.    .+||Z||
+Kalad    Kala+d||H pl n||    Kalad+0||H sg n||+
+20.02    20.02+0||N ?||
+.–    .-+||Z||
+20.03.    20.03.+0||N ?||
+Juuli    juuli+0||S sg g|| %juuli+0||S sg n||
+näitab    näita+b||V b||
+,    ,+||Z||
+et    et+0||J||
+eelmisel    eelmine+l||A sg ad||
+kuul    kuu+l||S sg ad||
+võetud    võetud+0||A||+    võetud+0||A sg n||    võetud+d||A pl n||    võt+tud||V tud||
+puhkus    puhkus+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+kosutanud    kosuta+nud||V nud||+    kosuta=nud+0||A||    kosuta=nud+0||A sg n||    kosuta=nud+d||A pl n||
+ja    ja+0||J||
+ta    tema+0||P sg n||
+on    ole+0||V b||+    ole+0||V vad||
+nüüd    nüüd+0||D||
+nii    nii+0||D||
+füüsiliselt    füüsiliselt+0||D||
+kui    kui+0||D||    kui+0||J||+
+vaimselt    vaimselt+0||D||
+paremas    parem+s||C sg in||
+vormis    vorm+s||S sg in||
+ning    ning+0||J||
+teadlik    teadlik+0||A sg n||
+oma    oma+0||P sg g||
+eesmärkidest    ees_märk+dest||S pl el||
+.    .+||Z||
+Kuid    kuid+0||J||
+1    1+0||N ?||
+.–    .-+||Z||
+3.    3.+0||O ?||
+kuupäev    kuu_päev+0||S sg n||
+on    ole+0||V b||    ole+0||V vad||+
+täis    täis+0||D||
+raginaid    ragin+id||S pl p||
+ja    ja+0||J||
+pahandamisi    pahandamine+i||S pl p||
+.    .+||Z||
+Samal    sama+l||P sg ad||
+ajal    aeg+l||S sg ad||
+tehakse    tege+akse||V takse||
+tööl    töö+l||S sg ad||
+suuri    suur+i||A pl p||
+personalimuudatusi    personali_muudatus+i||S pl p||
+.    .+||Z||
+Kuna    kuna+0||J||
+Kalade    kala+de||S pl g|| %Kalad+0||H sg g||
+loomejõud    loome_jõud+0||S sg n||+    loome_jõud+d||S pl n||
+on    ole+0||V b||+    ole+0||V vad||
+suur    suur+0||A sg n||
+ja    ja+0||J||
+tulevikupilk    tuleviku_pilk+0||S sg n||
+selge    selge+0||A sg n||
+,    ,+||Z||
+õnnestub    õnnestu+b||V b||
+enamik    enamik+0||S sg n||
+tema    tema+0||P sg g||
+ettevõtmisi    ette_võtmine+i||S pl p||
+.    .+||Z||
+Kuu    Kuu+0||H sg g||    Kuu+0||H sg g|| %kuu+0||S sg g||
+lõpus    lõpp+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+ta    tema+0||P sg n||
+ümbritsetud    ümbritse+tud||V tud||+    ümbritse=tud+0||A||    ümbritse=tud+0||A sg n||    ümbritse=tud+d||A pl n||
+paljudest    palju+dest||P pl el||
+uutest    uus+test||A pl el||
+inimestest    inimene+test||S pl el||
+.    .+||Z||
+Ivo    Ivo+0||H sg n||
+Linna    Linna+0||H sg n||
+näeb    näge+b||V b||
+nii    nii+0||D||
+hea    hea+0||A sg n||
+välja    välja+0||D||
+!    !+||Z||
+Mis    mis+0||P pl n||    mis+0||P sg n||+
+on    ole+0||V b||+    ole+0||V vad||
+tema    tema+0||P sg g||
+salenemise    salene=mine+0||S sg g||
+saladus    saladus+0||S sg n||
+?    ?+||Z||
+(    (+||Z||
+22    22+0||N ?||
+)    )+||Z||
+Möödunud    möödu+nud||V nud||    möödunud+0||A||+    möödunud+0||A sg n||    möödunud+d||A pl n||
+nädalavahetusel    nädala_vahetus+l||S sg ad||
+märkas    märka+s||V s||
+Tartu    Tartu+0||H sg g||
+Popkooripeo    pop_koori_peo+0||S sg g||    pop_koori_pidu+0||S sg g|| %Pop_koori_pidu+0||H sg g||
+publik    publik+0||S sg n||
+,    ,+||Z||
+et    et+0||J||
+vanameister    vana_meister+0||S sg n||
+Ivo    Ivo+0||H sg n||
+Linna    Linna+0||H sg n||
+oleks    ole+ks||V ks||
+justkui    just_kui+0||D||+    just_kui+0||J||
+salenemiskuuri    salene=mis_kuur+0||S adt|| %salene=mis_kuur+0||S sg g||
+läbinud    läbi+nud||V nud||+    läbi=nud+0||A||    läbi=nud+0||A sg n||    läbi=nud+d||A pl n||
+.    .+||Z||
+"    "+||Z||
+Hiljuti    hiljuti+0||D||
+on    ole+0||V b||    ole+0||V vad||+
+tõesti    tõesti+0||D||
+päris    päris+0||D||
+paljud    palju+d||P pl n||
+mulle    mina+lle||P sg all||
+selle    see+0||P sg g||
+komplimendi    kompliment+0||S sg g||
+teinud    tege+nud||V nud||+    tei=nud+0||A||    tei=nud+0||A sg n||    tei=nud+d||A pl n||
+,"    ,"+||Z||
+tunnistab    tunnista+b||V b||
+laulja    laulja+0||S sg g|| %laulja+0||S sg n||
+Õhtulehele    õhtu_leht+le||S sg all|| %Õhtu_leht+le||H sg all||
+.    .+||Z||
+Kümne    kümme+0||N sg g||
+aasta    aasta+0||S sg g||
+tagusest    tagune+st||A sg el||
+tippkaalust    tipp_kaal+st||S sg el||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+jäi    jää+i||V s||
+umbes    umbes+0||D||
+125    125+0||N ?||
+kilo    kilo+0||S sg p|| %kilo+0||S sg g||
+kanti    kant+0||S adt|| %kanti+0||K||
+,    ,+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+Ivo    Ivo+0||H sg n||
+linna    linn+0||S sg p||
+kaotanud    kaota+nud||V nud||+    kaota=nud+0||A||    kaota=nud+0||A sg n||    kaota=nud+d||A pl n||
+ligi    ligi+0||K||
+15    15+0||N ?||
+kilogrammi    kilo_gramm+0||S sg p||
+ning    ning+0||J||
+seda    see+da||P sg p||
+enda    ise+0||P sg g||
+sõnul    sõna+ul||S pl ad||
+täiesti    täiesti+0||D||
+märkamatult    märkamatult+0||D||
+.    .+||Z||
+Mees    mees+0||S sg n||
+peab    pida+b||V b||
+enda    ise+0||P sg g||
+salenemisretseptiks    salene=mis_retsept+ks||S sg tr||
+kartuli    kartul+0||S sg g||
+ja    ja+0||J||
+saia    sai+0||S sg p|| %sai+0||S sg g||
+vähendamist    vähendamine+t||S sg p||
+enda    ise+0||P sg g||
+menüüs    menüü+s||S sg in||
+.    .+||Z||
+OTSI    ots+i||S pl p|| %otsi+0||V o||
+:    :+||Z||
+OTSI    Ots+0||H sg g||    Otsi+0||H sg g|| %otsi+0||V o||
+VAJALIKUD    vajalik+d||A pl n||
+NIPID    nipp+d||S pl n||
+:    :+||Z||
+9    9+0||N ?||
+soovitust    soovitus+t||S sg p||
+,    ,+||Z||
+kuidas    kuidas+0||D||
+valida    vali+da||V da||
+eriala    eri_ala+0||S sg g|| %eri_ala+0||S sg p||
+Sisseastumised    sisse_astumine+d||S pl n||
+koolidesse    kool+desse||S pl ill||
+on    ole+0||V b||    ole+0||V vad||+
+alanud    alga+nud||V nud||+    ala=nud+0||A||    ala=nud+0||A sg n||    ala=nud+d||A pl n||
+ning    ning+0||J||
+neil    tema+l||P pl ad||
+,    ,+||Z||
+kel    kes+l||P sg ad|| %kes+l||P pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+erialavalikuga    eri_ala_valik+ga||S sg kom||
+raskuseid    raskus+id||S pl p||
+,    ,+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+kindlasti    kindlasti+0||D||
+palju    palju+0||D||
+.    .+||Z||
+Karjääriplaneerimise    karjääri_planeerimine+0||S sg g||
+esimeseks    esimene+ks||O sg tr||
+sammuks    samm+ks||S sg tr||
+on    ole+0||V b||+    ole+0||V vad||
+eriala    eri_ala+0||S sg g||
+valik    valik+0||S sg n||
+.    .+||Z||
+Kuidas    kuidas+0||D||
+seda    see+da||P sg p||
+teha    tege+a||V da||
+,    ,+||Z||
+soovitab    soovita+b||V b||
+TTÜ    TTÜ+0||Y ?||
+karjääri-    karjäär+0||S sg g|| %karjäär+0||S ?||
+ja    ja+0||J||
+nõustamistalituse    nõusta=mis_talitus+0||S sg g||
+karjäärinõustaja    karjääri_nõustaja+0||S sg n||
+Monika    Monika+0||H sg n||
+Sutrop    Sutrop+0||H sg n||
+.    .+||Z||
+1.    1.+0||O ?||
+Mida    mis+da||P pl p||    mis+da||P sg p||+
+meeldib    meeldi+b||V b||
+teha    tege+a||V da||
+?    ?+||Z||
+Millistes    milline+tes||P pl in||
+trennid    trenn+d||S pl n||
+või    või+0||J||
+huvialaringides    huvi_ala_ring+des||S pl in||
+olete    ole+te||V te||
+käinud    käi+nud||V nud||+    käi=nud+0||A||    käi=nud+0||A sg n||    käi=nud+d||A pl n||
+,    ,+||Z||
+millised    milline+d||P pl n||
+ained    aine+d||S pl n||
+koolis    kool+s||S sg in||
+meeldisid    meeldi+sid||V sid||
+,    ,+||Z||
+milliseid    milline+id||P pl p||
+uudiseid    uudis+id||S pl p||
+jälgite    jälgi+te||V te||
+,    ,+||Z||
+milliseid    milline+id||P pl p||
+artikleid    artikkel+id||S pl p||
+loete    luge+te||V te||
+,    ,+||Z||
+millest    mis+st||P pl el||    mis+st||P sg el||+
+sõpradega    sõber+dega||S pl kom||
+räägite    rääki+te||V te||
+?    ?+||Z||
+Kas    kas+0||D||
+meeldib    meeldi+b||V b||
+tegeleda    tegele+da||V da||
+inimeste    inimene+te||S pl g||
+või    või+0||J||
+asjadega    asi+dega||S pl kom||
+,    ,+||Z||
+kas    kas+0||D||
+sõna    sõna+0||S sg p||
+seada    sead+a||V da||
+või    või+0||J||
+arvudega    arv+dega||S pl kom||
+möllata    mölla+ta||V da||
+?    ?+||Z||
+2.    2.+0||O ?||
+Millised    milline+d||P pl n||
+on    ole+0||V b||    ole+0||V vad||+
+tugevused    tugevune+d||A pl n|| %tugevus+d||S pl n||
+ja    ja+0||J||
+võimed    võime+d||S pl n||
+?    ?+||Z||
+Millised    milline+d||P pl n||
+isiksuseomadused    isiksuse_omadus+d||S pl n||
+ja    ja+0||J||
+iseloomujooned    ise_loomu_joon+d||S pl n||
+toetavad    toeta+vad||V vad||
+tulevikuplaane    tuleviku_plaan+e||S pl p||
+?    ?+||Z||
+Mida    mis+da||P pl p||    mis+da||P sg p||+
+rohkem    rohkem+0||D||
+tegeleda    tegele+da||V da||
+asjadega    asi+dega||S pl kom||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+hästi    hästi+0||D||
+välja    välja+0||D||
+tulevad    tule+vad||V vad||
+,    ,+||Z||
+seda    see+da||P sg p||
+rohkem    rohkem+0||D||
+saab    saa+b||V b||
+positiivset    positiivne+t||A sg p||
+tagasisidet    tagasi_side+t||S sg p||
+,    ,+||Z||
+tunnustust    tunnustus+t||S sg p||
+ning    ning+0||J||
+sisemist    sisemine+t||A sg p||
+motivatsiooni    motivatsioon+0||S sg p||
+oma    oma+0||P sg g||
+karjääris    karjäär+s||S sg in||
+.    .+||Z||
+Oma    oma+0||P sg g||
+tugevuste    tugevus+te||S pl g||
+väljaselgitamiseks    välja_selgitamine+ks||S sg tr||
+saab    saa+b||V b||
+rääkida    rääki+da||V da||
+karjäärispetsialistide    karjääri_spetsialist+de||S pl g||
+,    ,+||Z||
+õpetajate    õpetaja+te||S pl g||
+,    ,+||Z||
+vanemate    vanem+te||S pl g||
+,    ,+||Z||
+trennikaaslaste    trenni_kaaslane+te||S pl g||
+,    ,+||Z||
+treenerite    treener+te||S pl g||
+ja    ja+0||J||
+sõpradega    sõber+dega||S pl kom||
+.    .+||Z||
+3.    3.+0||O ?||
+Kuidas    kuidas+0||D||
+meeldib    meeldi+b||V b||
+õppida    õppi+da||V da||
+?    ?+||Z||
+Kas    kas+0||D||
+pigem    pigem+0||D||
+kogemuse    kogemus+0||S sg g||
+baasil    baas+l||S sg ad||
+ja    ja+0||J||
+lahendades    lahenda+des||V des||
+praktilisi    praktiline+i||A pl p||
+ülesandeid    üles_anne+id||S pl p||
+või    või+0||J||
+abstraktselt    abstraktselt+0||D||
+juureldes    juurdle+des||V des||
+?    ?+||Z||
+Sealt    sealt+0||D||
+edasi    edasi+0||D||
+saab    saa+b||V b||
+uurida    uuri+da||V da||
+kutsekoolide    kutse_kool+de||S pl g||
+või    või+0||J||
+ülikoolide    üli_kool+de||S pl g||
+erialasid    eri_ala+sid||S pl p||
+.    .+||Z||
+4.    4.+0||O ?||
+Tunda    tund+a||V da||
+õppimisvõimalusi    õppimis_võimalus+i||S pl p||
+.    .+||Z||
+Tihti    tihti+0||D||
+kirjeldatakse    kirjelda+takse||V takse||
+ülikooliide    üli_kool_iidid+e||S pl p||
+ja    ja+0||J||
+kutsekoolide    kutse_kool+de||S pl g||
+kodulehtedel    kodu_leht+del||S pl ad||
+,    ,+||Z||
+millist    milline+t||P sg p||
+tööd    töö+d||S sg p||
+teevad    tege+vad||V vad||
+lõpetajad    lõpetaja+d||S pl n||
+.    .+||Z||
+Samuti    samuti+0||D||
+leiab    leid+b||V b||
+erialakirjeldustes    eri_ala_kirjeldus+tes||S pl in||
+ka    ka+0||D||
+õppeainete    õppe_aine+te||S pl g||
+loetelu    loetelu+0||S sg n|| %loetelu+0||S sg g||
+.    .+||Z||
+5.    5.+0||O ?||
+Milline    milline+0||P sg n||
+on    ole+0||V b||+    ole+0||V vad||
+töömaailm    töö_maa_ilm+0||S sg n||
+?    ?+||Z||
+Mida    mis+da||P pl p||+    mis+da||P sg p||
+teevad    tege+vad||V vad||
+vanemad    vanem+d||S pl n||
+,    ,+||Z||
+nende    see+de||P pl g||
+tuttavad    tuttav+d||S pl n||
+,    ,+||Z||
+millised    milline+d||P pl n||
+on    ole+0||V b||    ole+0||V vad||+
+nende    tema+de||P pl g||
+tööülesanded    töö_üles_anne+d||S pl n||
+?    ?+||Z||
+Vaadata    vaata+ta||V da||
+tuleks    tule+ks||V ks||
+ka    ka+0||D||
+erinevate    erinev+te||A pl g||
+ettevõtete    ette_võte+te||S pl g||
+kodulehekülgi    kodu_lehe_külg+i||S pl p||
+ning    ning+0||J||
+tööpakkumisi    töö_pakkumine+i||S pl p||
+portaalidest    portaal+dest||S pl el||
+.    .+||Z||
+6.    6.+0||O ?||
+Kellena    kes+na||P pl es||    kes+na||P sg es||+
+näete    näge+te||V te||
+oma    oma+0||P sg g||
+tulevikku    tulevik+0||S sg p||
+?    ?+||Z||
+Kus    kus+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+soov    soov+0||S sg n||
+5    5+0||N ?||
+aasta    aasta+0||S sg g||
+pärast    pärast+0||K||
+töötada    tööta+da||V da||
+:    :+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+see    see+0||P sg n||
+kontor    kontor+0||S sg n||
+või    või+0||J||
+labor    labor+0||S sg n||
+,    ,+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+see    see+0||P sg n||
+seotud    seotud+0||A||    seotud+0||A sg n||    seotud+d||A pl n||    sidu+tud||V tud||+
+inimeste    inimene+te||S pl g||
+või    või+0||J||
+asjadega    asi+dega||S pl kom||
+,    ,+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+see    see+0||P sg n||
+iseseisev    ise_seisev+0||A sg n||
+või    või+0||J||
+tiimitöö    tiimi_töö+0||S sg n||
+?    ?+||Z||
+Kas    kas+0||D||
+meeldivad    meeldi+vad||V vad||
+ootamatused    ootamatus+d||S pl n||
+või    või+0||J||
+rutiin    rutiin+0||S sg n||
+?    ?+||Z||
+7.    7.+0||O ?||
+Analüüsida    analüüsi+da||V da||
+töökogemusi    töö_kogemus+i||S pl p||
+.    .+||Z||
+Ka    ka+0||D||
+jäätisemüüja    jäätise_müüja+0||S sg g||
+kogemus    kogemus+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+väärtuslik    väärtuslik+0||A sg n||
+:    :+||Z||
+kas    kas+0||D||
+meelepärane    meele_pärane+0||A sg n||
+oli    ole+i||V s||
+selle    see+0||P sg g||
+töö    töö+0||S sg g||
+rahaline    rahaline+0||A sg n||
+külg    külg+0||S sg n||
+või    või+0||J||
+inimestega    inimene+tega||S pl kom||
+suhtlemine    suhtlemine+0||S sg n||
+?    ?+||Z||
+Mida    mis+da||P pl p||    mis+da||P sg p||+
+hindas    hinda+s||V s||
+ülemus    ülemus+0||S sg n||
+?    ?+||Z||
+8.    8.+0||O ?||
+Koguda    kogu+da||V da||
+võimalikult    võimalikult+0||D||
+palju    palju+0||D||
+informatsiooni    informatsioon+0||S sg p||
+,    ,+||Z||
+kuid    kuid+0||J||
+lõplik    lõplik+0||A sg n||
+otsus    otsus+0||S sg n||
+teha    tege+a||V da||
+endast    ise+st||P sg el||
+lähtuvalt    lähtuvalt+0||D||
+.    .+||Z||
+9.    9.+0||O ?||
+Liiga    liiga+0||D||
+palju    palju+0||D||
+ei    ei+0||V neg||
+maksa    maks+0||V o||
+ka    ka+0||D||
+muretseda    muretse+da||V da||
+õige    õige+0||D||
+otsuse    otsus+0||S sg g||
+pärast    pärast+0||K||
+,    ,+||Z||
+sest    sest+0||J||
+tänapäeval    täna_päev+l||S sg ad||
+valivad    vali+vad||V vad||
+inimesed    inimene+d||S pl n||
+erinevatel    erinev+tel||A pl ad||
+eluperioodidel    elu_periood+del||S pl ad||
+mitu    mitu+0||P sg n||
+karjääri    karjäär+0||S sg p||
+.    .+||Z||
+Rohkem    rohkem+0||D||
+infot    info+t||S sg p||
+karjääriplaneerimisest    karjääri_planeerimine+st||S sg el||
+Tudengiveebist    tudengi_veeb+st||S sg el|| %Tudengi_veeb+st||H sg el||
+!    !+||Z||
+Kullaotsija    kulla_otsija+0||S sg n||
+pidas    pida+s||V s||
+Harjumaal    Harju_maa+l||H sg ad||
+narkotalu    narko_talu+0||S sg g|| %narko_talu+0||S sg p||
+Politsei    politsei+0||S sg n||
+vahistas    vahista+s||V s||
+hiljuti    hiljuti+0||D||
+Harjumaal    Harju_maa+l||H sg ad||
+57aastase    57_aastane+0||A sg g||
+talupidaja    talu_pidaja+0||S sg n|| %talu_pidaja+0||S sg g||
+,    ,+||Z||
+keda    kes+da||P pl p||    kes+da||P sg p||+
+kahtlustab    kahtlusta+b||V b||
+ulatuslikus    ulatuslik+s||A sg in||
+narkoäris    narko_äri+s||S sg in||
+fentanüüliga    fentanüül+ga||S sg kom||
+.    .+||Z||
+Varem    varem+0||D||
+karistamata    karista+mata||V mata||
+talumees    talu_mees+0||S sg n||
+ei    ei+0||V neg||
+käinud    käi+nud||V nud||+    käi=nud+0||A||    käi=nud+0||A sg n||    käi=nud+d||A pl n||
+tööl    töö+l||S sg ad||
+ja    ja+0||J||
+elas    ela+s||V s||
+keskkriminaalpolitsei    kesk_kriminaal_politsei+0||S sg g||
+hinnangul    hinnang+l||S sg ad||
+aastaid    aasta+id||S pl p||
+üle    üle+0||K||
+jõu    jõud+0||S sg g||
+.    .+||Z||
+Uurimise    uurimine+0||S sg g||
+käigus    käigus+0||K||
+on    ole+0||V b||+    ole+0||V vad||
+arestitud    aresti+tud||V tud||+    aresti=tud+0||A||    aresti=tud+0||A sg n||    aresti=tud+d||A pl n||
+arvatava    arvatav+0||A sg g||
+kriminaaltuluna    kriminaal_tulu+na||S sg es||
+mehe    mees+0||S sg g||
+vara    vara+0||S sg g|| %vara+0||S sg p||
+55    55+0||N ?||
+000    000+0||N ?||
+euro    euro+0||S sg g||
+väärtuses    väärtus+s||S sg in||
+,    ,+||Z||
+sealhulgas    seal_hulgas+0||D||
+sõiduauto    sõidu_auto+0||S sg n||
+,    ,+||Z||
+paadihaagis    paadi_haagis+0||S sg n||
+,    ,+||Z||
+murutraktor    muru_traktor+0||S sg n||
+ja    ja+0||J||
+käekell    käe_kell+0||S sg n||
+.    .+||Z||
+Advokaat    advokaat+0||S sg n||
+Vitali    Vitali+0||H sg n||
+Denikini    Denikin+0||H sg g||+    Denikini+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+tema    tema+0||P sg g||
+kliendi    klient+0||S sg g||
+vara    vara+0||S sg g|| %vara+0||S sg n||
+soetatud    soeta+tud||V tud||+    soeta=tud+0||A||    soeta=tud+0||A sg n||    soeta=tud+d||A pl n||
+täiesti    täiesti+0||D||
+seaduslikult    seaduslikult+0||D||
+.    .+||Z||
+Mees    mees+0||S sg n||
+elab    ela+b||V b||
+kingitud    kinki+tud||V tud||    kingi=tud+0||A||+    kingi=tud+0||A sg n||    kingi=tud+d||A pl n||
+talus    talu+s||S sg in||
+.    .+||Z||
+Oma    oma+0||P sg g||
+säästud    sääst+d||S pl n||
+kogunud    kogu+nud||V nud||+    kogu=nud+0||A||    kogu=nud+0||A sg n||    kogu=nud+d||A pl n||
+ta    tema+0||P sg n||
+kunagi    kunagi+0||D||
+Jakuutias    Jakuutia+s||H sg in||
+kullakaevajana    kulla_kaeva=ja+na||S sg es||
+töötades    tööta+des||V des||
+.    .+||Z||
+Samuti    samuti+0||D||
+olevat    ole+vat||V vat||
+tal    tema+l||P sg ad||
+kala-    kala+0||S sg g|| %kala+0||S ?||
+ja    ja+0||J||
+jahimehena    jahi_mees+na||S sg es||
+lõviosa    lõvi_osa+0||S sg n||
+toidulauast    toidu_laud+st||S sg el||
+tasuta    tasu+ta||S sg ab||
+kaetud    kae+tud||V tud||    kaetud+0||A||    kaetud+0||A sg n||    kaetud+d||A pl n||    kat+tud||V tud||+
+.    .+||Z||
+Riigiprokurör    riigi_prokurör+0||S sg n||
+Andres    Andres+0||H sg n||
+Ülviste    Ülviste+0||H sg n||
+naerab    naer+b||V b||
+kaitse    kaitse+0||S sg g||
+väited    väide+d||S pl n||
+välja    välja+0||D||
+.    .+||Z||
+Ta    tema+0||P sg n||
+rõhutab    rõhuta+b||V b||
+,    ,+||Z||
+et    et+0||J||
+käimasolev    käimas_olev+0||A sg n||
+juurdlus    juurdlus+0||S sg n||
+kujutab    kujuta+b||V b||
+endast    ise+st||P sg el||
+olulist    oluline+t||A sg p||
+osa    osa+0||S sg p||
+narkovastasest    narko_vastane+st||S sg el|| %narko_vastane+st||A sg el||
+võitlusest    võitlus+st||S sg el||
+.    .+||Z||

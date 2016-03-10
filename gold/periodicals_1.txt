@@ -1,0 +1,1998 @@
+tykk/36/www_vm_ee.tykk:
+<doc id="425054" length="1k-10k" crawl_date="2013-01-10" url="http://www.vm.ee/?q=node/14079" web_domain="www.vm.ee" langdiff="0.34" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Eesti    Eesti+0||H sg g|| %Eesti+0||H sg n||
+suurendab    suurenda+b||V b||
+aukonsulaatide    au_konsulaat+de||S pl g||
+arvu    arv+0||S sg p||
+Soomes    Soome+s||H sg in||
+kaheksani    kaheksa+ni||N sg ter||
+ja    ja+0||J||
+on    ole+0||V b||+    ole+0||V vad||
+valmis    valmis+0||D||
+võtma    võt+ma||V ma||
+Georgia    Georgia+0||H sg g||
+saatkonda    saatkond+0||S adt||
+Soome    Soome+0||H sg g||
+diplomaadi    diplomaat+0||S sg g||
+</p>
+<p heading="0"> 
+30.03.2012    30.03.2012+0||N ?||
+</p>
+<p heading="0"> 
+Nr    Nr+0||Y ?||
+82-E    82-E+0||Y ?||
+</p>
+<p heading="0"> 
+Välisminister    välis_minister+0||S sg n||
+Urmas    Urmas+0||H sg n||
+Paet    Paet+0||H sg n||
+ütles    ütle+s||V s||
+tänasel    tänane+l||A sg ad||
+kohtumisel    kohtumine+l||S sg ad||
+Helsingis    Helsingi+s||H sg in||
+Soome    Soome+0||H sg g||
+välisministri    välis_minister+0||S sg g||
+Erkki    Erkki+0||H sg n||
+Tuomiojaga    Tuomioja+ga||H sg kom||
+,    ,+||Z||
+et    et+0||J||
+Eesti    Eesti+0||H sg g||
+ja    ja+0||J||
+Soome    Soome+0||H sg g||
+ühistegevustega    ühis_tegevus+tega||S pl kom||
+saab    saa+b||V b||
+mõlema    mõlema+0||P sg g||
+riigi    riik+0||S sg g||
+esindatust    esindatus+t||S sg p||
+tõhustada    tõhusta+da||V da||
+ning    ning+0||J||
+kulusid    kulu+sid||S pl p||
+kokku    kokku+0||D||
+hoida    hoid+a||V da||
+.    .+||Z||
+„    „+||Z||
+Hea    hea+0||A sg n||
+näide    näide+0||S sg n||
+sellest    see+st||P sg el||
+on    ole+0||V b||+    ole+0||V vad||
+Eesti    Eesti+0||H sg g||
+ja    ja+0||J||
+Soome    Soome+0||H sg g||
+diplomaatide    diplomaat+de||S pl g||
+vahetusprogramm    vahetus_programm+0||S sg n||
+.    .+||Z||
+Järgmiseks    järgmine+ks||A sg tr||
+ootame    oota+me||V me||
+Soome    Soome+0||H sg g||
+diplomaati    diplomaat+0||S adt|| %diplomaat+0||S sg p||
+tööle    töö+le||S sg all||
+meie    mina+0||P pl g||
+saatkonda    saatkond+0||S adt||
+Georgias    Georgia+s||H sg in||
+,    ,+||Z||
+eelmisel    eelmine+l||A sg ad||
+aastal    aasta+l||S sg ad||
+töötas    tööta+s||V s||
+Eesti    Eesti+0||H sg g||
+diplomaat    diplomaat+0||S sg n||
+Soome    Soome+0||H sg g||
+saatkonnas    saatkond+s||S sg in||
+Sambias    Sambia+s||H sg in||
+,“    ,“+||Z||
+ütles    ütle+s||V s||
+Paet    Paet+0||H sg n||
+.    .+||Z||
+„    „+||Z||
+Samuti    samuti+0||D||
+pakuvad    pakku+vad||V vad||
+häid    hea+id||A pl p||
+võimalusi    võimalus+i||S pl p||
+piirkonna    piirkond+0||S sg g||
+tutvustamiseks    tutvustamine+ks||S sg tr||
+ja    ja+0||J||
+kaubandussuhete    kaubandus_suhe+te||S pl g||
+arendamiseks    arendamine+ks||S sg tr||
+Eesti-Soome    Eesti-Soome+0||H sg g||
+ühisvisiidid    ühis_visiit+d||S pl n||
+koos    koos+0||K||
+äridelegatsioonidega    äri_delegatsioon+dega||S pl kom||
+.    .+||Z||
+Hea    hea+0||A sg n||
+näide    näide+0||S sg n||
+sellest    see+st||P sg el||
+on    ole+0||V b||+    ole+0||V vad||
+hiljutine    hiljutine+0||A sg n||
+ühisvisiit    ühis_visiit+0||S sg n||
+Indoneesiasse    Indoneesia+sse||H sg ill||
+,“    ,“+||Z||
+lisas    lisa+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Paeti    pae=ti+0||D|| %Paet+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+alustavad    alusta+vad||V vad||
+2012.    2012.+0||O ?||
+aastal    aasta+l||S sg ad||
+Soomes    Soome+s||H sg in||
+tööd    töö+d||S sg p||
+ka    ka+0||D||
+kaks    kaks+0||N sg n||
+uut    uus+t||A sg p||
+Eesti    Eesti+0||H sg g||
+aukonsulaati    au_konsulaat+0||S sg p||
+–    -+||Z||
+Rovaniemis    Rovaniemi+s||H sg in||
+ja    ja+0||J||
+Kuopios    Kuopio+s||H sg in||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+suurendab    suurenda+b||V b||
+aukonsulaatide    au_konsulaat+de||S pl g||
+arvu    arv+0||S sg g||
+kaheksani    kaheksa+ni||N sg ter||
+.    .+||Z||
+„    „+||Z||
+Eesti    Eesti+0||H sg g||
+ja    ja+0||J||
+Soome    Soome+0||H sg g||
+kodanike    kodanik+e||S pl g||
+asjaajamist    asja_ajamine+t||S sg p||
+lihtsustab    lihtsusta+b||V b||
+oluliselt    oluliselt+0||D||
+eelmisel    eelmine+l||A sg ad||
+aastal    aasta+l||S sg ad||
+sõlmitud    sõlmi+tud||V tud||    sõlmi=tud+0||A||+    sõlmi=tud+0||A sg n||    sõlmi=tud+d||A pl n||
+õigusabileping    õigus_abi_leping+0||S sg n||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+võimaldab    võimalda+b||V b||
+rahvastikuregistri    rahvastiku_register+0||S sg g||
+dokumentide    dokument+de||S pl g||
+vastastikust    vastastikune+t||A sg p||
+tunnustamist    tunnustamine+t||S sg p||
+ilma    ilma+0||K||
+lisakinnituseta    lisa_kinnitus+ta||S sg ab||
+,“    ,“+||Z||
+lisas    lisa+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Välisminister    välis_minister+0||S sg n||
+Paeti    Paet+0||H sg g||+    Paeti+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+Eesti    Eesti+0||H sg g|| %Eesti+0||H sg n||
+huvitatud    huvita+tud||V tud||+    huvitatud+0||A||    huvitatud+0||A sg n||    huvitatud+d||A pl n||
+Soomega    Soome+ga||H sg kom||
+ka    ka+0||D||
+ühiste    ühine+te||A pl g||
+arengukoostööprojektide    arengu_koos_töö_projekt+de||S pl g||
+elluviimisest    ellu_viimine+st||S sg el||
+,    ,+||Z||
+näiteks    näide+ks||S sg tr||
+Afganistanis    Afganistan+s||H sg in||
+.    .+||Z||
+„    „+||Z||
+Eesti    Eesti+0||H sg n||
+jätkab    jätka+b||V b||
+Afganistani    Afganistan+0||H sg g||
+ülesehitusele    üles_ehitus+le||S sg all||
+kaasaaitamist    kaasa_aitamine+t||S sg p||
+arengukoostöö-    arengu_koos_töö+0||S sg g|| %arengu_koos_töö+0||S ?||
+ja    ja+0||J||
+humanitaarabivahenditega    humanitaar_abi_vahend+tega||S pl kom||
+ning    ning+0||J||
+ühised    ühine+d||A pl n||
+projektid    projekt+d||S pl n||
+Soomega    Soome+ga||H sg kom||
+tõhustaksid    tõhusta+ksid||V ksid||
+seda    see+da||P sg p||
+veelgi    veelgi+0||D||
+,“    ,“+||Z||
+ütles    ütle+s||V s||
+Paet    Paet+0||H sg n||
+.    .+||Z||
+„    „+||Z||
+Võimalikud    võimalik+d||A pl n||
+koostööprojektid    koos_töö_projekt+d||S pl n||
+võiksid    või+ksid||V ksid||
+olla    ole+a||V da||
+seotud    seotud+0||A||    seotud+0||A sg n||    seotud+d||A pl n||    sidu+tud||V tud||+
+naiste    naine+te||S pl g||
+õiguste    õigus+te||S pl g||
+suurendamise    suurendamine+0||S sg g||
+ning    ning+0||J||
+noortele    noor+tele||A pl all|| %noor+tele||S pl all||
+suunatud    suuna+tud||V tud||    suuna=tud+0||A||+    suuna=tud+0||A sg n||    suuna=tud+d||A pl n||
+ettevõtluskoolitustega    ette_võtlus_koolitus+tega||S pl kom||
+,“    ,“+||Z||
+lisas    lisa+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Paeti    pae=ti+0||D|| %Paet+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+saab    saa+b||V b||
+Soomega    Soome+ga||H sg kom||
+tihendada    tihenda+da||V da||
+koostööd    koos_töö+d||S sg p||
+ka    ka+0||D||
+küberkaitsevaldkonnas    küber_kaitse_valdkond+s||S sg in||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Paet    Paet+0||H sg n||
+andis    and+is||V s||
+kohtumisel    kohtumine+l||S sg ad||
+Tuomiojaga    Tuomioja+ga||H sg kom||
+ülevaate    üle_vaade+0||S sg g||
+ka    ka+0||D||
+Rail    Rail+0||H sg n||
+Balticu    Baltic+0||H sg g||
+ehitusega    ehitus+ga||S sg kom||
+seotud    seotud+0||A||+    seotud+0||A sg n||    seotud+d||A pl n||    sidu+tud||V tud||
+arengutest    areng+test||S pl el||
+.    .+||Z||
+„    „+||Z||
+Otsused    otsus+d||S pl n||
+trassi    trass+0||S sg g||
+ja    ja+0||J||
+juhtimisstruktuuride    juhtimis_struktuur+de||S pl g||
+osas    osas+0||K||
+on    ole+0||V b||    ole+0||V vad||+
+tehtud    tehtud+0||A||    tehtud+0||A sg n||    tehtud+d||A pl n||    tege+tud||V tud||+
+,    ,+||Z||
+järgmiseks    järgmine+ks||A sg tr||
+tuleb    tule+b||V b||
+Eestil    Eesti+l||H sg ad||
+,    ,+||Z||
+Lätil    Läti+l||H sg ad||
+ja    ja+0||J||
+Leedul    Leedu+l||H sg ad||
+koordineeritult    koordineeri=tult+0||D||
+alustada    alusta+da||V da||
+teemaplaneeringutega    teema_planeering+tega||S pl kom||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+on    ole+0||V b||    ole+0||V vad||+
+aluseks    alune+ks||S sg tr||    alus+ks||S sg tr||+
+tehnilistele    tehniline+tele||A pl all||
+projektidele    projekt+dele||S pl all||
+,“    ,“+||Z||
+ütles    ütle+s||V s||
+Paet    Paet+0||H sg n||
+.    .+||Z||
+„    „+||Z||
+Intensiivsed    intensiivne+d||A pl n||
+ettevalmistustööd    ette_valmistus_töö+d||S pl n||
+aitaksid    aita+ksid||V ksid||
+võimalikult    võimalikult+0||D||
+tõhusalt    tõhusalt+0||D||
+kasutada    kasuta+da||V da||
+Euroopa    Euroopa+0||H sg g||
+Liidu    Liit+0||H sg g||    Liidu+0||H sg g||    Liidud+0||H sg g|| %liit+0||S sg g|| 
+eelarvevahendeid    eel_arve_vahend+id||S pl p||
+,“    ,“+||Z||
+lisas    lisa+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Välisministrid    välis_minister+d||S pl n||
+Paet    Paet+0||H sg n||
+ja    ja+0||J||
+Tuomioja    Tuomioja+0||H sg n||
+rääkisid    rääki+sid||V sid||
+kohtumisel    kohtumine+l||S sg ad||
+ka    ka+0||D||
+olukorrast    olu_kord+st||S sg el||
+Iraanis    Iraan+s||H sg in||
+ja    ja+0||J||
+Süürias    Süüria+s||H sg in||
+ning    ning+0||J||
+arengutest    areng+test||S pl el||
+Venemaal    Vene_maa+l||H sg ad||
+.    .+||Z||
+</p>
+</doc>
+<p heading="1"> 
+RIIKI    Riik+0||H sg g||    Riiki+0||H sg g|| %riik+0||S sg adt||
+SISENEMISE    sisenemine+0||S sg g||
+TINGIMUSED    tingimus+d||S pl n||
+</p>
+<p heading="0"> 
+Eesti    Eesti+0||H sg g||
+kodanikud    kodanik+d||S pl n||
+võivad    või+vad||V vad||
+Mehhikos    Mehhiko+s||H sg in||
+viibida    viibi+da||V da||
+viisavabalt    viisa_vaba=lt+0||D||
+maksimaalselt    maksimaalselt+0||D||
+180    180+0||N ?||
+päeva    päev+0||S sg p||
+ühe    üks+0||P sg g||
+aasta    aasta+0||S sg g||
+jooksul    jooksul+0||K||
+.    .+||Z||
+Täpsemat    täpsem+t||C sg p||
+infot    info+t||S sg p||
+saab    saa+b||V b||
+siit    siit+0||D||
+.    .+||Z||
+</p>
+<p heading="1"> 
+HEA    hea+0||A sg n||
+TEADA    tead+a||V da||
+</p>
+<p heading="0"> 
+Kuritegevus    kuri_tegevus+0||S sg n||
+Tuleb    tule+b||V b||
+olla    ole+a||V da||
+tavapäraselt    tava_päraselt+0||D||
+ettevaatlik    ette_vaatlik+0||A sg n||
+.    .+||Z||
+Kuritegevus    kuri_tegevus+0||S sg n||
+võib    või+b||V b||
+olla    ole+a||V da||
+vägivaldne    vägi_valdne+0||A sg n||
+,    ,+||Z||
+mistõttu    mis_tõttu+0||D||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+soovitav    soovitav+0||A sg n||
+osutada    osuta+da||V da||
+füüsilist    füüsiline+t||A sg p||
+vastupanu    vastu_panu+0||S sg p||
+.    .+||Z||
+On    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+kaasas    kaasas+0||D||
+kanda    kand+a||V da||
+vaid    vaid+0||D||
+passikoopiat    passi_koopia+t||S sg p||
+ning    ning+0||J||
+hoida    hoid+a||V da||
+sularaha    sula_raha+0||S sg n||
+ja    ja+0||J||
+pangakaardid    panga_kaart+d||S pl n||
+eri    eri+0||A||
+kohtades    koht+des||S pl in||
+.    .+||Z||
+Väärisesemeid    vääris_ese+id||S pl p||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+soovitav    soovitav+0||A sg n||
+kaasas    kaasas+0||D||
+kanda    kand+a||V da||
+.    .+||Z||
+Kõikidest    kõik+dest||P pl el||
+dokumentidest    dokument+dest||S pl el||
+,    ,+||Z||
+krediitkaartidest    krediit_kaart+dest||S pl el||
+ja    ja+0||J||
+lennukipiletitest    lennuki_pilet+test||S pl el||
+on    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+teha    tege+a||V da||
+koopia    koopia+0||S sg g|| %koopia+0||S sg n||
+ning    ning+0||J||
+varguse    vargus+0||S sg g||
+või    või+0||J||
+kaotamise    kaotamine+0||S sg g||
+puhul    puhul+0||K||
+koheselt    koheselt+0||D||
+teavitada    teavita+da||V da||
+politseid    politsei+d||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Öisel    öine+l||A sg ad||
+ajal    aeg+l||S sg ad||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+soovitav    soovitav+0||A sg n||
+liikuda    liiku+da||V da||
+jalgsi    jalgsi+0||D||
+ega    ega+0||J||
+sõiduautoga    sõidu_auto+ga||S sg kom||
+.    .+||Z||
+Ettevaatlik    ette_vaatlik+0||A sg n||
+tuleks    tule+ks||V ks||
+olla    ole+a||V da||
+oma    oma+0||P sg g||
+isikuandmete    isiku_andmed+te||S pl g||
+avaldamisel    avaldamine+l||S sg ad||
+,    ,+||Z||
+kuna    kuna+0||J||
+neid    tema+d||P pl p||
+võidakse    või+dakse||V takse||
+kasutada    kasuta+da||V da||
+ebaseaduslikel    eba_seaduslik+el||A pl ad||
+eesmärkidel    ees_märk+del||S pl ad||
+.    .+||Z||
+Üheks    üks+ks||P sg tr||
+kuritegevusliigiks    kuri_tegevus_liik+ks||S sg tr||
+on    ole+0||V b||    ole+0||V vad||+
+ka    ka+0||D||
+inimröövid    inim_rööv+d||S pl n||
+.    .+||Z||
+Lühiajalise    lühi_ajaline+0||A sg g||
+inimröövi    inim_rööv+0||S sg g||
+käigus    käigus+0||K||
+sunnitakse    sundi+takse||V takse||
+ohvrit    ohver+t||S sg p||
+krediitkaardiga    krediit_kaart+ga||S sg kom||
+võtma    võt+ma||V ma||
+sularaha    sula_raha+0||S sg n|| %sula_raha+0||S sg p||
+enda    ise+0||P sg g||
+vabastamiseks    vabastamine+ks||S sg tr||
+.    .+||Z||
+Pikaajalise    pika_ajaline+0||A sg g||
+inimröövi    inim_rööv+0||S sg g||
+korral    korral+0||K||
+küsitakse    küsi+takse||V takse||
+lunaraha    luna_raha+0||S sg p||
+kohalike    kohalik+e||A pl g||
+tuttavate    tuttav+te||S pl g||
+või    või+0||J||
+sugulaste    sugulane+te||S pl g||
+käest    käest+0||K||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Seadused    seadus+d||S pl n||
+ja    ja+0||J||
+tavad    tava+d||S pl n||
+Inglise    inglise+0||G||
+keele    keel+0||S sg g||
+oskus    oskus+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+vähene    vähene+0||A sg n||
+,    ,+||Z||
+eriti    eriti+0||D||
+väljaspool    väljas_pool+0||K||
+turismipiirkondi    turismi_piirkond+i||S pl p||
+.    .+||Z||
+Passikontrolli    passi_kontroll+0||S adt|| %passi_kontroll+0||S sg p||
+võidakse    või+dakse||V takse||
+teha    tege+a||V da||
+ka    ka+0||D||
+riigisiseselt    riigi_sisese=lt+0||D||
+,    ,+||Z||
+piirialadel    piiri_ala+del||S pl ad||
+ning    ning+0||J||
+pikkadel    pikk+del||A pl ad||
+bussireisidel    bussi_reis+del||S pl ad||
+.    .+||Z||
+Uimastite    uimasti+te||S pl g||
+omamine    omamine+0||S sg n||
+ja    ja+0||J||
+tarbimine    tarbimine+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+rangelt    rangelt+0||D||
+karistatav    karistatav+0||A sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Toll    toll+0||S sg n||
+Liha-    liha+0||S sg g|| %liha+0||S ?||
+ja    ja+0||J||
+piimatoodete    piima_toode+te||S pl g||
+sissevedu    sisse_vedu+0||S sg n||
+Euroopast    Euroopa+st||H sg el||
+on    ole+0||V b||+    ole+0||V vad||
+keelatud    keela+tud||V tud||+    keelatud+0||A||    keelatud+0||A sg n||    keelatud+d||A pl n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Liiklus    liiklus+0||S sg n||
+Liikluskultuur    Liiklus_kultuur+0||H sg n|| %liiklus_kultuur+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+kaootiline    kaootiline+0||A sg n||
+.    .+||Z||
+Liiklusummikud    liiklus_ummik+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+tavalised    tavaline+d||A pl n||
+ning    ning+0||J||
+liikluseeskirjad    liiklus_ees_kiri+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+vaid    vaid+0||D||
+soovitusliku    soovi=tuslik+0||A sg g||
+iseloomuga    ise_loom+ga||S sg kom||
+.    .+||Z||
+Jalakäijatega    jala_käija+tega||S pl kom||
+liikluses    liiklus+s||S sg in||
+ei    ei+0||V neg||
+arvestata    arvesta+ta||V ta||
+ning    ning+0||J||
+kõnniteed    kõnni_tee+d||S sg p|| %kõnni_tee+d||S pl n||
+ei    ei+0||V neg||
+sobi    sobi+0||V o||
+ratastoolile    ratas_tool+le||S sg all||
+või    või+0||J||
+lapsevankrile    lapse_vanker+le||S sg all||
+.    .+||Z||
+</p>
+<p heading="0"> 
+On    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+kasutada    kasuta+da||V da||
+vaid    vaid+0||D||
+hotellidest    hotell+dest||S pl el||
+või    või+0||J||
+taksopeatustest    takso_peatus+test||S pl el||
+tellitud    telli+tud||V tud||    telli=tud+0||A||+    telli=tud+0||A sg n||    telli=tud+d||A pl n||
+„    „+||Z||
+Sitio    Sitio+0||H sg n||
+“    “+||Z||
+taksosid    takso+sid||S pl p||
+.    .+||Z||
+Tänaval    tänav+l||S sg ad||
+ootavate    ootav+te||A pl g||
+taksode    takso+de||S pl g||
+hulgas    hulgas+0||K||
+on    ole+0||V b||+    ole+0||V vad||
+mitmeid    mitu+id||P pl p||
+ebaseaduslikke    eba_seaduslik+e||A pl p||
+taksosid    takso+sid||S pl p||
+ning    ning+0||J||
+nende    tema+de||P pl g||
+kasutamine    kasutamine+0||S sg n||
+võib    või+b||V b||
+olla    ole+a||V da||
+ohtlik    ohtlik+0||A sg n||
+.    .+||Z||
+Metroo    metroo+0||S sg g||
+kasutamine    kasutamine+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+päevasel    päevane+l||A sg ad||
+ajal    aeg+l||S sg ad||
+üldjuhul    üld_juht+l||S sg ad||
+turvaline    turvaline+0||A sg n||
+,    ,+||Z||
+siiski    siiski+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+tipptunnil    tipp_tund+l||S sg ad||
+soovitav    soovitav+0||A sg n||
+olla    ole+a||V da||
+ettevaatlik    ette_vaatlik+0||A sg n||
+taskuvaraste    tasku_varas+te||S pl g||
+suhtes    suhtes+0||K||
+.    .+||Z||
+Suurte    suur+te||A pl g||
+autobusside    auto_buss+de||S pl g||
+kasutamine    kasutamine+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+turvalisem    turvalisem+0||C sg n||
+,    ,+||Z||
+võrreldes    võrdle+des||V des||
+väikeste    väike+te||A pl g||+    väikene+te||A pl g||
+minibussidega    mini_buss+dega||S pl kom||
+.    .+||Z||
+Väljaspool    väljas_pool+0||K||
+linna    linn+0||S sg p||
+on    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+kasutada    kasuta+da||V da||
+vaid    vaid+0||D||
+tasulisi    tasuline+i||A pl p||
+maanteid    maan_tee+id||S pl p||
+(„    („+||Z||
+cuota    cuota+0||S sg n|| %cuota+0||W||
+“)    “)+||Z||
+ning    ning+0||J||
+1.    1.+0||O ?||
+klassi    klass+0||S sg g||
+autobusse    auto_buss+e||S pl p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Mehhiko    Mehhiko+0||H sg g||
+suurim    suurim+0||U sg n||
+lennukompanii    lennu_kompanii+0||S sg n||
+Mexicana    Mexicana+0||H sg n||
+on    ole+0||V b||+    ole+0||V vad||
+peatanud    peata+nud||V nud||+    peata=nud+0||A||    peata=nud+0||A sg n||    peata=nud+d||A pl n||
+määramata    määramata+0||A||
+ajaks    aeg+ks||S sg tr||
+kõik    kõik+0||P pl n||+    kõik+0||P sg n||
+lennud    lend+d||S pl n||
+finantsraskuste    finants_raskus+te||S pl g||
+tõttu    tõttu+0||K||
+.    .+||Z||
+Käesolev    käes_olev+0||A sg n||
+teade    teade+0||S sg n||
+puudutab    puuduta+b||V b||
+ka    ka+0||D||
+Mexicana    Mexicana+0||H sg n||
+Click    Click+0||H sg n||
+ja    ja+0||J||
+Mexicana    Mexicana+0||H sg n||
+Link    Link+0||H sg n||+    Link+0||H sg n||
+lennukompaniide    lennu_kompanii+de||S pl g||
+lende    lend+e||S pl p||
+.    .+||Z||
+Lisainformatsioon    lisa_informatsioon+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+saadaval    saadaval+0||D||
+Mexicana    Mexicana+0||H sg g||
+veebilehel    veebi_leht+l||S sg ad||
+http    http+0||Y ?||
+://    ://+||Z||
+mexicanainforma.com    mexicanainforma.com+0||S sg n|| %mexicanainforma.com+0||Y ?||
+/    /+||Z||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Arstiabi    arsti_abi+0||S sg n||
+On    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+kasutada    kasuta+da||V da||
+vaid    vaid+0||D||
+erahaiglaid    era_haigla+id||S pl p||
+ja    ja+0||J||
+-kliinikuid    kliinik+id||S pl p||
+ning    ning+0||J||
+seetõttu    see_tõttu+0||D||
+reisikindlustuse    reisi_kindlustus+0||S sg g||
+olemasolu    olemas_olu+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+äärmiselt    äärmiselt+0||D||
+vajalik    vajalik+0||A sg n||
+.    .+||Z||
+Haiglad    haigla+d||S pl n||
+ei    ei+0||V neg||
+pruugi    pruuki+0||V o||
+ravida    ravi+da||V da||
+kindlustuse    kindlustus+0||S sg g||
+alusel    alune+l||S sg ad||    alus+l||S sg ad||+
+,    ,+||Z||
+seega    seega+0||D||
+tuleb    tule+b||V b||
+olla    ole+a||V da||
+valmis    valmis+0||D||
+tasuda    tasu+da||V da||
+ravi    ravi+0||S sg g||
+eest    eest+0||K||
+kohapeal    koha_peal+0||D||
+.    .+||Z||
+Enne    enne+0||K||
+reisile    reis+le||S sg all||
+minekut    minek+t||S sg p||
+on    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+kindlasti    kindlasti+0||D||
+konsulteerida    konsulteeri+da||V da||
+reisimeditsiini    reisi_meditsiin+0||S sg g||
+kabinetiga    kabinet+ga||S sg kom||
+,    ,+||Z||
+milliseid    milline+id||P pl p||
+vaktsineerimisi    vaktsineerimine+i||S pl p||
+tuleks    tule+ks||V ks||
+eelnevalt    eelnevalt+0||D||
+teha    tege+a||V da||
+ja    ja+0||J||
+kuidas    kuidas+0||D||
+võimalikke    võimalik+e||A pl p||
+terviseriske    tervise_risk+e||S pl p||
+vältida    välti+da||V da||
+.    .+||Z||
+Riigis    Riigis+0||H sg n|| %riik+s||S sg in||
+esineb    esine+b||V b||
+aeg-ajalt    aeg-ajalt+0||D||
+dengue    dengue+0||S sg g|| %dengue+0||W||
+palavikku    palavik+0||S sg p||
+,    ,+||Z||
+seetõttu    see_tõttu+0||D||
+tuleb    tule+b||V b||
+end    ise+0||P sg p||
+sääskede    sääsk+de||S pl g||
+eest    eest+0||K||
+kaitsta    kaits+ta||V da||
+.    .+||Z||
+Dengue    Dengue+0||H sg g|| %dengue+0||W||
+palavikku    palavik+0||S adt|| %palavik+0||S sg p||
+esineb    esine+b||V b||
+eriti    eriti+0||D||
+Jalisco    Jalisco+0||H sg g||
+,    ,+||Z||
+Yucatani    Yucatan+0||H sg g||+    Yucatani+0||H sg g||
+,    ,+||Z||
+Veracruzi    Veracruz+0||H sg g||+    Veracruzi+0||H sg g||
+,    ,+||Z||
+Guerrero    Guerrero+0||H sg g||
+,    ,+||Z||
+Oaxaca    Oaxaca+0||H sg g||
+ja    ja+0||J||
+Morelosi    Morelos+0||H sg g||+    Morelosi+0||H sg g||
+maakondades    maakond+des||S pl in||
+.    .+||Z||
+Toiduainete    toidu_aine+te||S pl g||
+hügieenile    hügieen+le||S sg all||
+on    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+pöörata    pööra+ta||V da||
+suurt    suur+t||A sg p||
+tähelepanu    tähele_panu+0||S sg p||
+.    .+||Z||
+On    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+tarbida    tarbi+da||V da||
+vaid    vaid+0||D||
+pudelivett    pudeli_vesi+tt||S sg p||
+ning    ning+0||J||
+vältida    välti+da||V da||
+jääkuubikuid    jää_kuubik+id||S pl p||
+.    .+||Z||
+Üldisi    üldine+i||A pl p||
+nõuandeid    nõu_anne+id||S pl p||
+tervena    terve+na||A sg es||
+reisimiseks    reisimine+ks||S sg tr||
+vaktsiin.ee    vaktsiin.ee+0||S sg g|| %vaktsiin.ee+0||Y ?||
+kodulehelt    kodu_leht+lt||S sg abl||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Looduslikud    looduslik+d||A pl n||
+tingimused    tingimus+d||S pl n||
+Troopiliste    troopiline+te||A pl g||
+tormide    torm+de||S pl g||
+periood    periood+0||S sg n||
+kestab    kest+b||V b||
+Mehhikos    Mehhiko+s||H sg in||
+juunist    juuni+st||S sg el||
+novembrini    november+ni||S sg ter||
+nii    nii+0||D||
+Atlandi    Atlandi+0||H sg g||
+kui    kui+0||D||    kui+0||J||+
+ka    ka+0||D||
+Vaikse    vaikne+0||A sg g|| %Vaikne+0||H sg g||
+ookeani    ookean+0||S sg g||
+rannikul    rannik+l||S sg ad||
+ning    ning+0||J||
+võib    või+b||V b||
+tekitada    tekita+da||V da||
+üleujutusi    üle_ujutus+i||S pl p||
+ja    ja+0||J||
+muud    muu+d||P sg p||
+kahju    kahi+0||S sg p||    kahju+0||S sg p||+
+.    .+||Z||
+Värsket    värske+t||A sg p||
+infot    info+t||S sg p||
+võimalikest    võimalik+est||A pl el||
+tormidest    torm+dest||S pl el||
+saab    saa+b||V b||
+USA    USA+0||Y ?||
+orkaanikeskuse    orkaani_keskus+0||S sg g||
+koduleheküljelt    kodu_lehe_külg+lt||S sg abl||
+http    http+0||Y ?||
+://    ://+||Z||
+www.nhc.noaa.gov    www.nhc.noaa.gov+0||Y ?||
+/    /+||Z||
+index.shtml    index.shtml+0||S sg n||
+.    .+||Z||
+Tsükloni    tsüklon+0||S sg g||
+korral    korral+0||K||
+tuleb    tule+b||V b||
+jälgida    jälgi+da||V da||
+kohalikke    kohalik+e||A pl p||
+teateid    teade+id||S pl p||
+ning    ning+0||J||
+järgida    järgi+da||V da||
+antud    and+tud||V tud||    antud+0||A||+    antud+0||A sg n||    antud+d||A pl n||
+juhiseid    juhis+id||S pl p||
+.    .+||Z||
+Mehhikos    Mehhiko+s||H sg in||
+esineb    esine+b||V b||
+sageli    sageli+0||D||
+maavärinaid    maa_värin+id||S pl p||
+ning    ning+0||J||
+hotellides    hotell+des||S pl in||
+on    ole+0||V b||+    ole+0||V vad||
+soovitav    soovitav+0||A sg n||
+tutvuda    tutvu+da||V da||
+turvajuhistega    turva_juhis+tega||S pl kom||
+.    .+||Z||
+Mehhikos    Mehhiko+s||H sg in||
+on    ole+0||V b||    ole+0||V vad||+
+ka    ka+0||D||
+mõned    mõni+d||P pl n||
+aktiivsed    aktiivne+d||A pl n||
+vulkaanid    vulkaan+d||S pl n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Valuuta    valuuta+0||S sg n||
+Mehhikos    Mehhiko+s||H sg in||
+on    ole+0||V b||+    ole+0||V vad||
+võimalik    võimalik+0||A sg n||
+kasutada    kasuta+da||V da||
+rahvusvahelisi    rahvus_vaheline+i||A pl p||
+krediit-    krediit+0||S sg n|| %krediit+0||S ?||
+ja    ja+0||J||
+deebetkaarte    deebet_kaart+e||S pl p||
+ning    ning+0||J||
+pangaautomaate    panga_automaat+e||S pl p||
+on    ole+0||V b||+    ole+0||V vad||
+võimalik    võimalik+0||A sg n||
+kasutada    kasuta+da||V da||
+suuremates    suurem+tes||C pl in||
+linnades    linn+des||S pl in||
+.    .+||Z||
+1    1+0||N ?||
+€    €+0||Y ?||
+=    =+||Z||
+17,0106    17,0106+0||N ?||
+peso    peso+0||S sg n|| %peso+0||W||
+</p>
+</doc>
+<doc id="426891" length="1k-10k" crawl_date="2013-01-10" url="http://www.vm.ee/?q=taxonomy/term/95" web_domain="www.vm.ee" langdiff="0.24" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Kui    kui+0||D||    kui+0||J||+
+strateegilise    strateegiline+0||A sg g||
+kauba    kaup+0||S sg g||
+valdajal    valdaja+l||S sg ad||
+või    või+0||J||
+kaubaga    kaup+ga||S sg kom||
+seotud    seotud+0||A||+    seotud+0||A sg n||    seotud+d||A pl n||    sidu+tud||V tud||
+teenuse    teenus+0||S sg g||
+osutajal    osuta=ja+l||S sg ad||
+on    ole+0||V b||+    ole+0||V vad||
+teave    teave+0||S sg n||
+või    või+0||J||
+kahtlus    kahtlus+0||S sg n||
+,    ,+||Z||
+et    et+0||J||
+kaupa    kaup+0||S sg p||
+või    või+0||J||
+selle    see+0||P sg g||
+osa    osa+0||S sg p||
+kavatsetakse    kavatse+takse||V takse||
+kasutada    kasuta+da||V da||
+sõjalisel    sõjaline+l||A sg ad||
+või    või+0||J||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+tahes    tahes+0||D||
+riigi    riik+0||S sg g||
+julgeolekut    julge_olek+t||S sg p||
+ohustaval    ohustav+l||A sg ad||
+otstarbel    ots_tarve+l||S sg ad||
+,    ,+||Z||
+massihävitusrelva    massi_hävitus_relv+0||S sg g||
+arendamiseks    arendamine+ks||S sg tr||
+,    ,+||Z||
+tootmiseks    tootmine+ks||S sg tr||
+,    ,+||Z||
+töötlemiseks    töötlemine+ks||S sg tr||
+,    ,+||Z||
+kasutamiseks    kasutamine+ks||S sg tr||
+,    ,+||Z||
+hooldamiseks    hooldamine+ks||S sg tr||
+,    ,+||Z||
+ladustamiseks    ladustamine+ks||S sg tr||
+,    ,+||Z||
+avastamiseks    avastamine+ks||S sg tr||
+,    ,+||Z||
+identifitseerimiseks    identifitseerimine+ks||S sg tr||
+või    või+0||J||
+levitamiseks    levitamine+ks||S sg tr||
+või    või+0||J||
+selliste    selline+te||P pl g||
+relvade    relv+de||S pl g||
+kanderakettide    kande_rakett+de||S pl g||
+arendamiseks    arendamine+ks||S sg tr||
+,    ,+||Z||
+tootmiseks    tootmine+ks||S sg tr||
+,    ,+||Z||
+hooldamiseks    hooldamine+ks||S sg tr||
+või    või+0||J||
+ladustamiseks    ladustamine+ks||S sg tr||
+,    ,+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+ta    tema+0||P sg n||
+kohustatud    kohusta+tud||V tud||+    kohusta=tud+0||A||    kohusta=tud+0||A sg n||    kohusta=tud+d||A pl n||
+sellest    see+st||P sg el||
+viivitamata    viivitamata+0||D||
+teavitama    teavita+ma||V ma||
+komisjoni    komisjon+0||S sg g|| %komisjon+0||S sg p||
+,    ,+||Z||
+Kaitsepolitseiametit    kaitse_politsei_amet+t||S sg p||
+või    või+0||J||
+Politsei-    politsei+0||S sg g|| %politsei+0||S ?||
+ja    ja+0||J||
+Piirivalveametit    piiri_valve_amet+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+(    (+||Z||
+A    A+0||Y ?||
+)    )+||Z||
+Otsusta    Otsusta+0||H sg n|| %otsusta+0||V o||
+,    ,+||Z||
+kuivõrd    kui_võrd+0||D||
+leidub    leidu+b||V b||
+tehingus    tehing+s||S sg in||
+indikaatoreid    indikaator+id||S pl p||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+viitavad    viita+vad||V vad||
+tarne    tarne+0||S sg g||
+kahtlasele    kahtlane+le||A sg all||
+taustale    taust+le||S sg all||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Võta    võt+0||V o||
+tehingut    tehing+t||S sg p||
+sõlmides    sõlmi+des||V des||
+arvesse    arve+sse||S sg ill||
+kõik    kõik+0||P pl n||+    kõik+0||P sg n||
+asjaolud    asja_olu+d||S pl n||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+võiksid    või+ksid||V ksid||
+viidata    viita+ta||V da||
+sellele    see+le||P sg all||
+,    ,+||Z||
+et    et+0||J||
+tarne    tarne+0||S sg n||
+võib    või+b||V b||
+olla    ole+a||V da||
+määratud    määra+tud||V tud||+    määratu+d||A pl n||    määratud+0||A||    määratud+0||A sg n||    määratud+d||A pl n||
+sõjaliseks    sõjaline+ks||A sg tr||
+lõppkasutuseks    lõpp_kasutus+ks||S sg tr||
+,    ,+||Z||
+kahtlasele    kahtlane+le||A sg all||
+lõppkasutajale    lõpp_kasutaja+le||S sg all||
+või    või+0||J||
+ebasoovitavasse    eba_soovitav+sse||A sg ill||
+sihtkohta    siht_koht+0||S sg p|| %siht_koht+0||S adt||
+.    .+||Z||
+Niisuguste    nii_sugune+te||P pl g||
+asjaoludena    asja_olu+dena||S pl es||
+tuleb    tule+b||V b||
+käsitleda    käsitle+da||V da||
+tellimusi    tellimus+i||S pl p||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+ei    ei+0||V neg||
+vasta    vasta+0||V o||
+tellija    tellija+0||S sg n|| %tellija+0||S sg g||
+vajadustele    vajadus+tele||S pl all||
+,    ,+||Z||
+paigaldamise    paigaldamine+0||S sg g||
+ja    ja+0||J||
+testimise    testimine+0||S sg g||
+alasest    alane+st||A sg el||
+klienditoest    kliendi_tugi+st||S sg el||
+keeldumine    keeldumine+0||S sg n||
+kuigi    kuigi+0||D||    kuigi+0||J||+
+teenus    teenus+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+müügihinna    müügi_hind+0||S sg g||
+sees    sees+0||K||
+ja    ja+0||J||
+kui    kui+0||D||    kui+0||J||+
+kuulub    kuulu+b||V b||
+tavaliselt    tavaliselt+0||D||
+tootepaketi    toote_pakett+0||S sg g||
+juurde    juurde+0||K||
+,    ,+||Z||
+või    või+0||J||
+tellija    tellija+0||S sg n||
+esitab    esita+b||V b||
+nõudeid    nõue+id||S pl p||
+varustuse    varustus+0||S sg g||
+või    või+0||J||
+seadmete    seade+te||S pl g||
+tehnilistele    tehniline+tele||A pl all||
+konfiguratsioonile    konfiguratsioon+le||S sg all||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+kooskõlas    koos_kõla+s||S sg in||
+väidetava    väidetav+0||A sg g||
+sihtriigi    siht_riik+0||S sg g||
+standarditega    standard+tega||S pl kom||
+(    (+||Z||
+näit    näit+0||S sg n|| %näit+0||Y ?|
+.    .+||Z||
+120    120+0||N ?||
+voldist    volt+st||S sg el|| %voldine+t||A sg p||
+toidet    toide+t||S sg p||
+tarbiv    tarbiv+0||A sg n||
+seade    seade+0||S sg n||
+soovitakse    soovi+takse||V takse||
+tarnida    tarni+da||V da||
+riiki    riik+0||S sg p|| %riik+0||S adt||
+,    ,+||Z||
+kus    kus+0||D||
+standardiks    standart+ks||S sg tr||    standard+ks||S sg tr||+
+on    ole+0||V b||+    ole+0||V vad||
+220    220+0||N ?||
+volti    volt+0||S adt|| %volt+0||S sg p||
+).    ).+||Z||
+Välisministeerium    välis_ministeerium+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+koostanud    koosta+nud||V nud||+    koosta=nud+0||A||    koosta=nud+0||A sg n||    koosta=nud+d||A pl n||
+juhendid    juhend+d||S pl n||
+sarnastest    sarnane+test||A pl el||
+indikaatoritest    indikaator+test||S pl el||
+,    ,+||Z||
+milliste    milline+te||P pl g||
+ilmnemisel    ilmne=mine+l||S sg ad||
+peaks    pida+ks||V ks||
+tõstatuma    tõstatu+ma||V ma||
+küsimus    küsimus+0||S sg n||
+,    ,+||Z||
+kas    kas+0||D||
+tehing    tehing+0||S sg n||
+võib    või+b||V b||
+rikkuda    rikku+da||V da||
+seaduses    seadus+s||S sg in||
+sätestatut    sätesta=tu+t||S sg p||
+?    ?+||Z||
+Juhendid    juhend+d||S pl n||
+ei    ei+0||V neg||
+käsitle    käsitle+0||V o||
+kõiki    kõik+0||P pl p||
+võimalikke    võimalik+e||A pl p||
+ohte    oht+e||S pl p||
+ning    ning+0||J||
+igat    iga+t||P sg p||
+tehingut    tehing+t||S sg p||
+tuleb    tule+b||V b||
+käsitleda    käsitle+da||V da||
+eraldi    eraldi+0||D||
+.    .+||Z||
+</p>
+<p heading="0"> 
+(    (+||Z||
+B    B+0||Y ?||
+)    )+||Z||
+Juhul    juht+l||S sg ad||
+kui    kui+0||D||    kui+0||J||+
+kahtlustad    kahtlusta+d||V d||
+,    ,+||Z||
+küsi    küsi+0||V o||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Juhul    juht+l||S sg ad||
+,    ,+||Z||
+kui    kui+0||D||    kui+0||J||+
+Teie    sina+0||P pl g||
+firmale    firma+le||S sg all||
+on    ole+0||V b||+    ole+0||V vad||
+teatavaks    teatav+ks||A sg tr||
+saanud    saa+nud||V nud||+    saa=nud+0||A||    saa=nud+0||A sg n||    saa=nud+d||A pl n||
+informatsiooni    informatsioon+0||S sg p||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+annab    and+b||V b||
+alust    alune+t||S sg p||    alus+t||S sg p||+
+kahtlusteks    kahtlus+teks||S pl tr||
+on    ole+0||V b||+    ole+0||V vad||
+Sinu    sina+0||P sg g||
+kohustuseks    kohustus+ks||S sg tr||
+selgitada    selgita+da||V da||
+välja    välja+0||D||
+lõppkasutuse    lõpp_kasutus+0||S sg g||
+,    ,+||Z||
+-kasutajaga    kasutaja+ga||S sg kom||
+ning    ning+0||J||
+tarne    tarne+0||S sg g||
+sihtriigiga    siht_riik+ga||S sg kom||
+seonduvad    seonduv+d||A pl n||
+asjaolud    asja_olu+d||S pl n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Eksitavate    eksitav+te||A pl g||
+faktide    fakt+de||S pl g||
+või    või+0||J||
+valeandmete    vale_andmed+te||S pl g||
+esitamine    esitamine+0||S sg n||
+või    või+0||J||
+olulise    oluline+0||A sg g||
+info    info+0||S sg g||
+varjamine    varjamine+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+karistatav    karistatav+0||A sg n||
+vastavalt    vastavalt+0||K||
+karistusseadustiku    karistus_seadustik+0||S sg g||
+paragrahvile    paragrahv+le||S sg all||
+280    280+0||N ?||
+1    1+0||N ?||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Ettevõtte    ette_võte+0||S sg g||
+teenistuja    teenistuja+0||S sg g||
+teadmisi    teadmine+i||S pl p||
+võidakse    või+dakse||V takse||
+hinnata    hinda+ta||V da||
+kui    kui+0||D||    kui+0||J||+
+ettevõtte    ette_võte+0||S sg g||
+teavet    teave+t||S sg p||
+,    ,+||Z||
+mistõttu    mis_tõttu+0||D||
+võib    või+b||V b||
+vastutavaks    vastutav+ks||A sg tr||
+osutuda    osutu+da||V da||
+ettevõte    ette_võte+0||S sg n||
+tervikuna    tervik+na||S sg es||
+.    .+||Z||
+Sellest    see+st||P sg el||
+tulenevalt    tulenevalt+0||D||
+tuleb    tule+b||V b||
+paika    paik+0||S adt||
+panna    pane+a||V da||
+firma    firma+0||S sg g||
+sisekontrollipoliitika    sise_kontrolli_poliitika+0||S sg g|| %sise_kontrolli_poliitika+0||S sg n||
+ja    ja+0||J||
+tõhustada    tõhusta+da||V da||
+infovahetust    info_vahetus+t||S sg p||
+,    ,+||Z||
+kindlustamaks    kindlusta+maks||V maks||
+,    ,+||Z||
+et    et+0||J||
+konkreetsest    konkreetne+st||A sg el||
+tarnest    tarne+st||S sg el||
+lähtuvat    lähtuv+t||A sg p||
+ohuindikaatoritele    ohu_indikaator+tele||S pl all||
+viitav    viita=v+0||A sg n||
+informatsioon    informatsioon+0||S sg n||
+oleks    ole+ks||V ks||
+kättesaadav    kätte_saadav+0||A sg n||
+kõigile    kõik+le||P pl all||
+vastutavatele    vastutav+tele||A pl all||
+ettevõtte    ette_võte+0||S sg g||
+juhtidele    juht+dele||S pl all||
+.    .+||Z||
+Kui    kui+0||D||    kui+0||J||+
+seda    see+da||P sg p||
+ei    ei+0||V neg||
+tehta    tege+ta||V ta||
+,    ,+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+sarnane    sarnane+0||A sg n||
+käitumine    käitumine+0||S sg n||
+käsitletav    käsitle+tav||V tav||
+valikulise    valikuline+0||A sg g||
+infosulu    info_sulg+0||S sg g||
+vormina    vorm+na||S sg es||
+.    .+||Z||
+</p>
+<p heading="0"> 
+--    --+||Z||
+==========    ==========+||Z||
+tykk/36/www_vm_ee.tykk:
+<doc id="585688" length="1k-10k" crawl_date="2013-01-15" url="http://www.vm.ee/?q=node/1662" web_domain="www.vm.ee" langdiff="0.48" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Välisminister    välis_minister+0||S sg n||
+sõidab    sõit+b||V b||
+visiidile    visiit+le||S sg all||
+Prantsusmaale    Prantsus_maa+le||H sg all||
+</p>
+<p heading="0"> 
+16.02.1999    16.02.1999+0||N ?||
+</p>
+<p heading="0"> 
+Kolmapäeva    kolma_päev+0||S adt|| %kolma_päev+0||S sg g||
+,    ,+||Z||
+17.    17.+0||O ?||
+veebruari    veebruar+0||S sg g||
+hommikul    hommik+l||S sg ad||
+sõidab    sõit+b||V b||
+välisminister    välis_minister+0||S sg n||
+Raul    Raul+0||H sg n||
+Mälk    Mälk+0||H sg n||
+visiidile    visiit+le||S sg all||
+Prantsusmaale    Prantsus_maa+le||H sg all||
+.    .+||Z||
+Visiidi    visiit+0||S sg g||
+programmis    programm+s||S sg in||
+on    ole+0||V b||    ole+0||V vad||+
+kohtumised    kohtumine+d||S pl n||
+Prantsuse    prantsuse+0||G||
+valitsusliikmete    valitsus_liige+te||S pl g||
+ja    ja+0||J||
+teiste    teine+te||O pl g||    teine+te||P pl g||+
+ametiisikutega    ameti_isik+tega||S pl kom||
+,    ,+||Z||
+viisavabadusleppe    viisa_vabadus_lepe+0||S sg g||
+sõlmimine    sõlmimine+0||S sg n||
+ja    ja+0||J||
+Eesti    Eesti+0||H sg g||
+välisministri    välis_minister+0||S sg g||
+loeng    loeng+0||S sg n||
+Prantsuse    prantsuse+0||G||
+Välissuhete    välis_suhe+te||S pl g||
+Instituudis    instituut+s||S sg in||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Pärastlõunal    pärast_lõuna+l||S sg ad||
+kohtub    kohtu+b||V b||
+Eesti    Eesti+0||H sg g||
+välisminister    välis_minister+0||S sg n||
+Prantsuse    prantsuse+0||G||
+kaitseminister    kaitse_minister+0||S sg n||
+Alain    Alain+0||H sg n||
+Richard    Richard+0||H sg n||
+'    ’+||Z||
+iga    iga+0||P sg n||
+ja    ja+0||J||
+eurominister    euro_minister+0||S sg n||
+Pierre    Pierre+0||H sg n||
+Moscoviciga    Moscovic+ga||H sg kom||    Moscovici+ga||H sg kom||+
+ning    ning+0||J||
+peab    pida+b||V b||
+Prantsuse    prantsuse+0||G||
+Välissuhete    välis_suhe+te||S pl g||
+Instituudis    instituut+s||S sg in||
+loengu    loeng+0||S sg g||
+teemal    teema+l||S sg ad||
+"    "+||Z||
+Eesti    Eesti+0||H sg g||
+välispoliitika    välis_poliitika+0||S sg g||
+prioriteedid    prioriteet+d||S pl n||
+XXI    XXI+0||O ?||
+sajandil    sajand+l||S sg ad||
+".    ".+||Z||
+</p>
+<p heading="0"> 
+Neljapäeva    nelja_päev+0||S sg g||
+hommikul    hommik+l||S sg ad||
+kohtub    kohtu+b||V b||
+välisminister    välis_minister+0||S sg n||
+Mälk    Mälk+0||H sg n||
+Majandusliku    Majanduslik+0||H sg g|| %majanduslik+0||A sg g||
+Koostöö    koos_töö+0||S sg n|| %koos_töö+0||S sg g||
+ja    ja+0||J||
+Arengu    areng+0||S sg g||
+Organisatsiooni    organisatsioon+0||S sg g||
+(    (+||Z||
+OECD    OECD+0||Y ?||
+)    )+||Z||
+asepeasekretäri    ase_pea_sekretär+0||S sg g||
+Kumiharu    Kumiharu+0||H sg n||
+Shigeharaga    Shigehara+ga||H sg kom||
+ja    ja+0||J||
+Prantsuse    prantsuse+0||G||
+Senati    senat+0||S sg g||
+presidendi    president+0||S sg g||
+Christian    Christian+0||H sg n||
+Poncelet    Poncelet+0||H sg n||
+'    ’+||Z||
+ga    ga+0||Y ?||
+.    .+||Z||
+Samuti    samuti+0||D||
+on    ole+0||V b||    ole+0||V vad||+
+programmis    programm+s||S sg in||
+kohtumised    kohtumine+d||S pl n||
+Prantsuse    prantsuse+0||G||
+Rahvusassamblee    rahvus_assamblee+0||S sg g||
+ja    ja+0||J||
+Pariisi    Pariis+0||H sg g||
+Tööandjate    Töö_andja+te||H pl g||    Töö_andja+te||H pl g|| %töö_andja+te||S pl g||
+Liidu    Liit+0||H sg g||    Liidu+0||H sg g||    Liidud+0||H sg g|| %liit+0||S sg g||
+(    (+||Z||
+MEDEF    Medef+0||H sg n|| %MEDEF+0||Y ?||
+)    )+||Z||
+esindajatega    esindaja+tega||S pl kom||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Neljapäeva    nelja_päev+0||S sg g||
+õhtul    õhtu+l||S sg ad||
+sõidab    sõit+b||V b||
+välisminister    välis_minister+0||S sg n||
+Raul    Raul+0||H sg n||
+Mälk    Mälk+0||H sg n||
+Pariisist    Pariis+st||H sg el||
+Varssavisse    Varssavi+sse||H sg ill||
+,    ,+||Z||
+kus    kus+0||D||
+ta    tema+0||P sg n||
+kohtub    kohtu+b||V b||
+välisminister    välis_minister+0||S sg n||
+Bronislaw    Bronislaw+0||H sg n||
+Geremekiga    Geremek+ga||H sg kom||+    Geremeki+ga||H sg kom||    Geremekk+ga||H sg kom||
+.    .+||Z||
+Minister    minister+0||S sg n||
+saabub    saabu+b||V b||
+tagasi    tagasi+0||D||
+Tallinna    Tallinn+0||H sg g|| %Tallinn+0||H adt||
+reede    reede+0||S sg g||
+õhtul    õhtu+l||S sg ad||
+.    .+||Z||
+</p>
+</doc>
+<doc id="585690" length="1k-10k" crawl_date="2013-01-15" url="http://www.vm.ee/?q=node/1668" web_domain="www.vm.ee" langdiff="0.38" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Välisminister    välis_minister+0||S sg n||
+Raul    Raul+0||H sg n||
+Mälk    Mälk+0||H sg n||
+arutas    aruta+s||V s||
+Euroopa    Euroopa+0||H sg g||
+Komisjoni    Ko_misjon+0||H sg g||    Komisjon+0||H sg g|| %komisjon+0||S sg g||
+voliniku    volinik+0||S sg g||
+van    van+0||Y ?||
+den    den+0||S sg n|| %den+0||Y ?||
+Broekiga    Broek+ga||H sg kom||+    Broeki+ga||H sg kom||
+Eesti    Eesti+0||H sg g||
+eurointegratsiooni    euro_integratsioon+0||S sg g||
+kulgu    kulg+0||S sg p||
+</p>
+<p heading="0"> 
+02.02.1999    02.02.1999+0||N ?||
+</p>
+<p heading="0"> 
+Teisipäeval    teisi_päev+l||S sg ad||
+,    ,+||Z||
+2.    2.+0||O ?||
+veebruaril    veebruar+l||S sg ad||
+andis    and+is||V s||
+Euroopa    Euroopa+0||H sg g||
+Komisjoni    Ko_misjon+0||H sg g||    Komisjon+0||H sg g|| %komisjon+0||S sg g||
+välisasjade    välis_asi+de||S pl g||
+volinik    volinik+0||S sg n||
+Hans    Hans+0||H sg n||
+van    van+0||Y ?||
+den    den+0||S sg n|| %den+0||Y ?||
+Broek    Broek+0||H sg n||
+Brüsselis    Brüssel+s||H sg in||
+välisminister    välis_minister+0||S sg n||
+Raul    Raul+0||H sg n||
+Mälgu    Mälk+0||H sg g||
+auks    au+ks||S sg tr||
+lõuna    lõuna+0||S sg g||
+,    ,+||Z||
+kus    kus+0||D||
+osales    osale+s||V s||
+ka    ka+0||D||
+Euroopa    Euroopa+0||H sg g||
+Komisjoni    Ko_misjon+0||H sg g||    Komisjon+0||H sg g|| %komisjon+0||S sg g||
+liitumisläbirääkimiste    liitumis_läbi_rääkimised+te||S pl g|| %liitumis_läbi_rääkimine+te||S pl g||
+Eesti    Eesti+0||H sg g||
+töökonna    töö_konn+0||S sg g|| %töökond+0||S sg g||
+juht    juht+0||S sg n||
+Nikiforos    Nikiforos+0||H sg n||
+Sivenas    Sivenas+0||H sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Kohtumisel    kohtumine+l||S sg ad||
+keskenduti    keskendu+ti||V ti||
+peamiselt    peamiselt+0||D||
+Euroopa    Euroopa+0||H sg g||
+Liidu    Liit+0||H sg g||    Liidu+0||H sg g||    Liidud+0||H sg g|| %liit+0||S sg g||
+laienemisele    laienemine+le||S sg all||
+ja    ja+0||J||
+Eesti    Eesti+0||H sg g||
+liitumisläbirääkimistele    liitumis_läbi_rääkimised+tele||S pl all|| %liitumis_läbi_rääkimine+tele||S pl all||
+.    .+||Z||
+Hans    Hans+0||H sg n||
+van    van+0||Y ?||
+den    den+0||S sg n|| %den+0||Y ?||
+Broek    Broek+0||H sg n||
+lausus    lausu+s||V s||
+kohtumise    kohtumine+0||S sg g||
+alguses    algus+s||S sg in||
+,    ,+||Z||
+et    et+0||J||
+Eestiga    Eesti+ga||H sg kom||
+on    ole+0||V b||    ole+0||V vad||+
+suhted    suhe+d||S pl n||
+head    hea+d||A pl n||
+ja    ja+0||J||
+probleeme    probleem+e||S pl p||
+vähe    vähe+0||D||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Volinik    Volinik+0||H sg n||    Vo_linik+0||H sg n|| %volinik+0||S sg n||
+van    van+0||Y ?||
+den    den+0||S sg n|| %den+0||Y ?||
+Broeki    Broek+0||H sg g||+    Broeki+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+teeb    tege+b||V b||
+Saksamaa    Saksa_maa+0||H sg g|| %Saksa_maa+0||H sg n||
+Euroopa    Euroopa+0||H sg g||
+Liidu    Liit+0||H sg g||    Liidu+0||H sg g||    Liidud+0||H sg g|| %liit+0||S sg g||
+eesistujamaana    ees_istuja_maa+na||S sg es||
+suuri    suur+i||A pl p||
+jõupingutusi    jõu_pingutus+i||S pl p||
+,    ,+||Z||
+et    et+0||J||
+liikmesriigid    liikmes_riik+d||S pl n||
+märtsis    märts+s||S sg in||
+Agenda    agenda+0||S sg g|| %Agenda+0||H sg n||
+2000    2000+0||N ?||
+heaks    heaks+0||K||
+kiidaksid    kiit+ksid||V ksid||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Rääkides    rääki+des||V des||
+liitumiskõnelustest    liitumis_kõnelus+test||S pl el||
+,    ,+||Z||
+tõdesid    tõde+sid||V sid||
+pooled    pool+d||S pl n||
+,    ,+||Z||
+et    et+0||J||
+sõelumisprotsess    sõelumis_protsess+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+kulgenud    kulge+nud||V nud||+    kulge=nud+0||A||    kulge=nud+0||A sg n||    kulge=nud+d||A pl n||
+edukalt    edukalt+0||D||
+.    .+||Z||
+Nikiforos    Nikiforos+0||H sg n||
+Sivenas    Sivenas+0||H sg n||
+tõstis    tõst+is||V s||
+esile    esile+0||D||
+Eesti    Eesti+0||H sg g||
+ekspertide    ekspert+de||S pl g||
+kõrget    kõrge+t||A sg p||
+taset    tase+t||S sg p||
+ja    ja+0||J||
+head    hea+d||A sg p||
+ettevalmistust    ette_valmistus+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Hans    Hans+0||H sg n||
+van    van+0||Y ?||
+den    den+0||S sg n|| %den+0||Y ?||
+Broek    Broek+0||H sg n||
+toonitas    toonita+s||V s||
+,    ,+||Z||
+et    et+0||J||
+pärast    pärast+0||K||
+sõelumisprotsessi    sõelumis_protsess+0||S sg g||
+lõppu    lõpp+0||S sg p||
+käesoleva    käes_olev+0||A sg g||
+aasta    aasta+0||S sg g||
+juulis    juuli+s||S sg in||
+pöörab    pööra+b||V b||
+Euroopa    Euroopa+0||H sg g||
+Liit    liit+0||S sg n||
+peatähelepanu    pea_tähele_panu+0||S sg g||
+sellele    see+le||P sg all||
+,    ,+||Z||
+kuidas    kuidas+0||D||
+Eesti    Eesti+0||H sg n||
+täidab    täit+b||V b||
+sõelumise    sõelumine+0||S sg g||
+käigus    käigus+0||K||
+võetud    võetud+0||A||+    võetud+0||A sg n||    võetud+d||A pl n||    võt+tud||V tud||
+kohustusi    kohustus+i||S pl p||
+.    .+||Z||
+Seadusandlus    seadus_andlus+0||S sg n||
+peab    pida+b||V b||
+olema    ole+ma||V ma||
+vastu    vastu+0||D||
+võetud    võetud+0||A||    võetud+0||A sg n||    võetud+d||A pl n||    võt+tud||V tud||+
+ja    ja+0||J||
+ellu    elu+0||S adt||
+viidud    vii+dud||V tud||+    vii=dud+0||A||    vii=dud+0||A sg n||    vii=dud+d||A pl n||
+enne    enne+0||K||
+tegelikku    tegelik+0||A sg p||
+liitumist    liitumine+t||S sg p||
+,    ,+||Z||
+toonitas    toonita+s||V s||
+van    van+0||Y ?||
+den    den+0||S sg n|| %den+0||Y ?||
+Broek    Broek+0||H sg n||
+.    .+||Z||
+"    "+||Z||
+Pole    ole+0||V neg o||
+kahtlust    kahtlus+t||S sg p||
+,    ,+||Z||
+et    et+0||J||
+Eesti    Eesti+0||H sg n||
+soovib    soovi+b||V b||
+acquis    acqui+s||S sg in|| %acquis+0||W||
+'    ’+||Z||
+võimalikult    võimalikult+0||D||
+kiiresti    kiiresti+0||D||
+üle    üle+0||D||
+võtta    võt+a||V da||
+ja    ja+0||J||
+rakendada    rakenda+da||V da||
+,"    ,"+||Z||
+ütles    ütle+s||V s||
+eurovolinik    euro_volinik+0||S sg n||
+.    .+||Z||
+"    "+||Z||
+Euroopa    Euroopa+0||H sg g||
+Komisjon    Ko_misjon+0||H sg n||    Komisjon+0||H sg n|| %komisjon+0||S sg n||
+omalt    oma+lt||P sg abl||
+poolt    poolt+0||K||
+püüab    püüd+b||V b||
+Eesti    Eesti+0||H sg g||
+liitumistingimused    liitumis_tingimus+d||S pl n||
+esitada    esita+da||V da||
+konkreetselt    konkreetselt+0||D||
+ja    ja+0||J||
+selgelt    selgelt+0||D||
+,"    ,"+||Z||
+lisas    lisa+s||V s||
+ta    tema+0||P sg n||
+.    .+||Z||
+Samas    samas+0||D||
+märkis    märki+s||V s||
+van    van+0||Y ?||
+den    den+0||S sg n|| %den+0||Y ?||
+Broek    Broek+0||H sg n||
+,    ,+||Z||
+et    et+0||J||
+seaduste    seadus+te||S pl g||
+harmoniseerimise    harmoniseeri=mine+0||S sg g||
+tempo    tempo+0||S sg n||
+ei    ei+0||V neg||
+tohi    tohti+0||V o||
+aeglustuda    aeglustu+da||V da||
+eelseisvate    eel_seisev+te||A pl g||
+Riigikogu    riigi_kogu+0||S sg g|| %Riigi_kogu+0||H sg g||
+valimiste    valimine+te||S pl g||
+tõttu    tõttu+0||K||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Rääkides    rääki+des||V des||
+läbirääkimiste    läbi_rääkimine+te||S pl g||
+sisulisest    sisuline+st||A sg el||
+küljest    külg+st||S sg el||
+,    ,+||Z||
+nentis    nenti+s||V s||
+van    van+0||Y ?||
+den    den+0||S sg n|| %den+0||Y ?||
+Broek    Broek+0||H sg n||
+,    ,+||Z||
+et    et+0||J||
+Eesti    Eesti+0||H sg g||
+soov    soov+0||S sg n||
+säilitada    säilita+da||V da||
+vabakaubanduslepingud    vaba_kaubandus_leping+d||S pl n||
+Balti    balti+0||G||
+riikide    riik+de||S pl g||
+ja    ja+0||J||
+Ukrainaga    Ukraina+ga||H sg kom||
+on    ole+0||V b||+    ole+0||V vad||
+esimene    esimene+0||O sg n||
+tõsisem    tõsisem+0||C sg n||
+läbirääkimiste    läbi_rääkimine+te||S pl g||
+teema    teema+0||S sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Välisminister    välis_minister+0||S sg n||
+Raul    Raul+0||H sg n||
+Mälk    Mälk+0||H sg n||
+andis    and+is||V s||
+ülevaate    üle_vaade+0||S sg g||
+valitsuse    valitsus+0||S sg g||
+tööst    töö+st||S sg el||
+eurointegratsiooni    euro_integratsioon+0||S sg g||
+vallas    vald+s||S sg in||
+.    .+||Z||
+Minister    minister+0||S sg n||
+Mälgu    Mälk+0||H sg g||
+sõnul    sõna+ul||S pl ad||
+võtab    võt+b||V b||
+Eesti    Eesti+0||H sg g||
+valitsus    valitsus+0||S sg n||
+oma    oma+0||P sg g||
+tegevuse    tegevus+0||S sg g||
+kujundamisel    kujundamine+l||S sg ad||
+aluseks    alune+ks||S sg tr||    alus+ks||S sg tr||+
+Euroopa    Euroopa+0||H sg g||
+Liidu    Liit+0||H sg g||    Liidu+0||H sg g||    Liidud+0||H sg g|| %liit+0||S sg g||
+ühiste    ühine+te||A pl g||
+poliitikate    poliitika+te||S pl g||
+põhimõtted    põhi_mõte+d||S pl n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Lühidalt    lühidalt+0||D||
+peatuti    peatu+ti||V ti||
+ka    ka+0||D||
+Eesti    Eesti+0||H sg g||
+vähemusrahvuste    vähemus_rahvus+te||S pl g||
+integreerimisega    integreerimine+ga||S sg kom||
+seonduval    seonduv+l||A sg ad||
+.    .+||Z||
+Euroopa    Euroopa+0||H sg g||
+Komisjoni    Ko_misjon+0||H sg g||    Komisjon+0||H sg g|| %komisjon+0||S sg g||
+esindajad    esindaja+d||S pl n||
+avaldasid    avalda+sid||V sid||
+rahulolu    rahul_olu+0||S sg n|| %rahul_olu+0||S sg p||
+eesti    eesti+0||G||
+keele    keel+0||S sg g||
+õpetamise    õpetamine+0||S sg g||
+programmide    programm+de||S pl g||
+elluviimise    ellu_viimine+0||S sg g||
+üle    üle+0||K||
+,    ,+||Z||
+samal    sama+l||P sg ad||
+ajal    aeg+l||S sg ad||
+tõdedes    tõde+des||S pl in|| %tõde+des||V des||
+,    ,+||Z||
+et    et+0||J||
+integratsioon    integratsioon+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+aeganõudev    aega_nõudev+0||A sg n||
+protsess    protsess+0||S sg n||
+.    .+||Z||
+</p>
+</doc>
+<doc id="585703" length="1k-10k" crawl_date="2013-01-15" url="http://www.vm.ee/?q=node/1673" web_domain="www.vm.ee" langdiff="0.41" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Šveits    Šveits+0||H sg n||
+kompenseerib    kompenseeri+b||V b||
+Teise    teine+0||O sg g||+    teine+0||P sg g||
+maailmasõja    maa_ilma_sõda+0||S sg g||
+eelsed    eelne+d||A pl n||
+pangaarved    panga_arve+d||S pl n||
+</p>
+<gap/>
+<p heading="0"> 
+Šveitsi    Šveits+0||H sg g||
+välisministeerium    välis_ministeerium+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+palunud    palu+nud||V nud||+    palu=nud+0||A||    palu=nud+0||A sg n||    palu=nud+d||A pl n||
+Eesti    Eesti+0||H sg g||
+välisministeeriumilt    välis_ministeerium+lt||S sg abl||
+abi    abi+0||S sg g||
+isikute    isik+te||S pl g||
+või    või+0||J||
+nende    see+de||P pl g||
+pärijate    pärija+te||S pl g||
+leidmisel    leidmine+l||S sg ad||
+,    ,+||Z||
+kelle    kes+0||P pl g||+    kes+0||P sg g||
+nimel    nimel+0||K||
+olevaid    olev+id||A pl p||
+arveid    arve+id||S pl p||
+Šveitsi    Šveits+0||H sg g||
+pankades    pank+des||S pl in||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+alates    alates+0||K||
+1945.    1945.+0||O ?||
+aasta    aasta+0||S sg g||
+9.    9.+0||O ?||
+maist    maa+ist||S pl el||    mai+st||S sg el||+
+kasutatud    kasuta+tud||V tud||+    kasutatud+0||A||    kasutatud+0||A sg n||    kasutatud+d||A pl n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Šveitsi    Šveits+0||H sg g||
+võimud    võim+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+valmis    valmis+0||A||
+arvete    arve+te||S pl g||
+kunagistele    kunagine+tele||A pl all||
+omanikele    omanik+ele||S pl all||
+või    või+0||J||
+nende    see+de||P pl g||
+õigusjärgsetele    õigus_järgne+tele||A pl all||
+pärijatele    pärija+tele||S pl all||
+arvel    arve+l||S sg ad||
+olnud    ol=nud+0||A||+    ol=nud+0||A sg n||    ol=nud+d||A pl n||    ole+nud||V nud||
+raha    raha+0||S sg p||
+kompenseerima    kompenseeri+ma||V ma||
+.    .+||Z||
+Sel    see+l||P sg ad||
+eesmärgil    ees_märk+l||S sg ad||
+on    ole+0||V b||+    ole+0||V vad||
+Šveits    Šveits+0||H sg n||
+avalikustanud    avalikusta+nud||V nud||+    avalikusta=nud+0||A||    avalikusta=nud+0||A sg n||    avalikusta=nud+d||A pl n||
+nimekirja    nime_kiri+0||S sg g||
+arveomanikest    arve_omanik+est||S pl el||
+,    ,+||Z||
+kelle    kes+0||P pl g||+    kes+0||P sg g||
+elukoht    elu_koht+0||S sg n||
+ja    ja+0||J||
+kodakondsus    kodakondsus+0||S sg n||
+on    ole+0||V b||    ole+0||V vad||+
+teadmata    tead=mata+0||A||
+või    või+0||J||
+kelle    kes+0||P pl g||+    kes+0||P sg g||
+viimane    viimane+0||A sg n||
+alaline    alaline+0||A sg n||
+elukoht    elu_koht+0||S sg n||
+1939.    1939.+0||O ?||
+aasta    aasta+0||S sg g||
+seisuga    seis+ga||S sg kom||
+oli    ole+i||V s||
+mõnes    mõni+s||P sg in||
+Kesk-    kesk+||S ?||
+või    või+0||J||
+Ida-Euroopa    Ida-Eu_roobas+0||H sg g||    Ida-Euroopa+0||H sg g||+
+riigis    riik+s||S sg in||
+.    .+||Z||
+Šveitsi    Šveits+0||H sg g||
+võimude    võim+de||S pl g||
+andmeil    andmed+il||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+selles    see+s||P sg in||
+nimekirjas    nime_kiri+s||S sg in||
+viis    viis+0||N sg n||
+isikut    isik+t||S sg p||
+,    ,+||Z||
+kelle    kes+0||P pl g||+    kes+0||P sg g||
+viimane    viimane+0||A sg n||
+teadaolev    teada_olev+0||A sg n||
+elukoht    elu_koht+0||S sg n||
+oli    ole+i||V s||
+Eesti    Eesti+0||H sg g||
+territooriumil    territoorium+l||S sg ad||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Kompenseerimise    kompenseerimine+0||S sg g||
+taotlemiseks    taotlemine+ks||S sg tr||
+tuleb    tule+b||V b||
+isikul    isik+l||S sg ad||
+või    või+0||J||
+tema    tema+0||P sg g||
+õigusjärgsetel    õigus_järgne+tel||A pl ad||
+pärijatel    pärija+tel||S pl ad||
+1999.    1999.+0||O ?||
+aasta    aasta+0||S sg g||
+30.    30.+0||O ?||
+septembriks    september+ks||S sg tr||
+saata    saat+a||V da||
+täidetud    täit+tud||V tud||    täide=tud+0||A||+    täide=tud+0||A sg n||    täide=tud+d||A pl n||
+taotlusvorm    taotlus_vorm+0||S sg n||
+Šveitsi    Šveits+0||H sg g||
+välisministeeriumi    välis_ministeerium+0||S sg g|| %välis_ministeerium+0||S adt||
+või    või+0||J||
+mõnesse    mõni+sse||P sg ill||
+Šveitsi    Šveits+0||H sg g||
+välisesindusse    välis_esindus+se||S adt||
+.    .+||Z||
+Vormi    vorm+0||S sg g||
+saamiseks    saamine+ks||S sg tr||
+võib    või+b||V b||
+pöörduda    pöördu+da||V da||
+kas    kas+0||D||
+Šveitsi    Šveits+0||H sg g||
+välisministeeriumi    välis_ministeerium+0||S sg g|| %välis_ministeerium+0||S adt||
+,    ,+||Z||
+Šveitsi    Šveits+0||H sg g||
+suursaatkonda    suur_saatkond+0||S sg p|| %suur_saatkond+0||S adt||
+Helsingis    Helsingi+s||H sg in||
+või    või+0||J||
+Šveitsi    Šveits+0||H sg g||
+aukonsuli    au_konsul+0||S sg g||
+poole    poole+0||K||
+Eestis    Eesti+s||H sg in||
+järgmistel    järgmine+tel||A pl ad||
+aadressidel    aadress+del||S pl ad||
+:    :+||Z||
+</p>
+</doc>
+<doc id="585707" length="1k-10k" crawl_date="2013-01-15" url="http://www.vm.ee/?q=node/1675" web_domain="www.vm.ee" langdiff="0.38" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Kreeka    Kreeka+0||H sg g|| %Kreeka+0||H sg n||
+peab    pida+b||V b||
+vajalikuks    vajalik+ks||A sg tr||
+majandussidemete    majandus_side+te||S pl g||
+tihendamist    tihendamine+t||S sg p||
+Eestiga    Eesti+ga||H sg kom||
+ja    ja+0||J||
+toetab    toeta+b||V b||
+jätkuvalt    jätkuvalt+0||D||
+Eesti    Eesti+0||H sg g||
+europüüdlusi    euro_püüdlus+i||S pl p||
+</p>
+<p heading="0"> 
+21.01.1999    21.01.1999+0||N ?||
+</p>
+<p heading="0"> 
+Neljapäeval    nelja_päev+l||S sg ad||
+,    ,+||Z||
+21.    21.+0||O ?||
+jaanuaril    jaanuar+l||S sg ad||
+kohtus    kohtu+s||V s||
+Eesti    Eesti+0||H sg g||
+delegatsioon    delegatsioon+0||S sg n||
+Ateenas    Ateena+s||H sg in||
+Kreeka    Kreeka+0||H sg g||
+esindajatega    esindaja+tega||S pl kom||
+,    ,+||Z||
+et    et+0||J||
+arutada    aruta+da||V da||
+kahepoolse    kahe_poolne+0||A sg g||
+majanduskoostöö    majandus_koos_töö+0||S sg g||
+arendamise    arendamine+0||S sg g||
+võimalusi    võimalus+i||S pl p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Kohtumise    kohtumine+0||S sg g||
+lõppedes    lõppe+des||V des||
+kirjutasid    kirjuta+sid||V sid||
+Eesti    Eesti+0||H sg g||
+välisministeeriumi    välis_ministeerium+0||S sg g||
+välismajanduspoliitika    välis_majandus_poliitika+0||S sg g||
+osakonna    osakond+0||S sg g||
+peadirektor    pea_direktor+0||S sg n||
+Tiit    Tiit+0||H sg n||
+Naber    Naber+0||H sg n||
+ja    ja+0||J||
+Kreeka    Kreeka+0||H sg g||
+rahvusliku    rahvuslik+0||A sg g||
+majanduse    majandus+0||S sg g||
+ministeeriumi    ministeerium+0||S sg g||
+välismajandus-    välis_majandus+0||S sg n|| %välis_majandus+0||S ?||
+ja    ja+0||J||
+kaubandussuhete    kaubandus_suhe+te||S pl g||
+osakonna    osakond+0||S sg g||
+peadirektor    pea_direktor+0||S sg n||
+Theodoros    Theodoros+0||H sg n||
+Vlassopoulos    Vlassopoulos+0||H sg n||
+alla    alla+0||D||
+ühismemorandumile    ühis_memorandum+le||S sg all||
+.    .+||Z||
+Selles    see+s||P sg in||
+väljendab    väljenda+b||V b||
+Kreeka    Kreeka+0||H sg g||
+pool    pool+0||K|| %pool+0||S sg n||
+soovi    soov+0||S sg p||
+jätkata    jätka+ta||V da||
+kahe    kaks+0||N sg g||
+maa    maa+0||S sg g||
+vahel    vahel+0||K||
+juba    juba+0||D||
+eksisteerivat    eksisteeriv+t||A sg p||
+harmoonilist    harmooniline+t||A sg p||
+koostööd    koos_töö+d||S sg p||
+ning    ning+0||J||
+arendada    arenda+da||V da||
+kõigiti    kõigiti+0||D||
+edasi    edasi+0||D||
+kahepoolseid    kahe_poolne+id||A pl p||
+kontakte    kontakt+e||S pl p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Samuti    samuti+0||D||
+kinnitab    kinnita+b||V b||
+Kreeka    Kreeka+0||H sg g||
+pool    pool+0||K|| %pool+0||S sg n||
+memorandumis    memorandum+s||S sg in||
+oma    oma+0||P sg g||
+jätkuvat    jätku+vat||V vat|| %jätkuv+t||A sg p||
+toetust    toetus+t||S sg p||
+Eesti    Eesti+0||H sg g||
+ühinemisele    ühinemine+le||S sg all||
+Euroopa    Euroopa+0||H sg g||
+Liiduga    Liit+ga||H sg kom||    Liidu+ga||H sg kom||    Liidud+ga||H sg kom|| %liit+ga||S sg kom||
+.    .+||Z||
+Kreeka    Kreeka+0||H sg n||
+on    ole+0||V b||+    ole+0||V vad||
+valmis    valmis+0||A||
+jagama    jaga+ma||V ma||
+Eestiga    Eesti+ga||H sg kom||
+kogemusi    kogemus+i||S pl p||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+on    ole+0||V b||    ole+0||V vad||+
+omandatud    omanda+tud||V tud||+    omandatud+0||A||    omandatud+0||A sg n||    omandatud+d||A pl n||
+integreerumisprotsessis    integreerumis_protsess+s||S sg in||
+Euroopa    Euroopa+0||H sg g||
+Liiduga    Liit+ga||H sg kom||    Liidu+ga||H sg kom||    Liidud+ga||H sg kom|| %liit+ga||S sg kom||
+ning    ning+0||J||
+samuti    samuti+0||D||
+liidu    liit+0||S sg g||
+liikmesriigina    liikmes_riik+na||S sg es||
+,    ,+||Z||
+samuti    samuti+0||D||
+pakkuma    pakku+ma||V ma||
+Eesti    Eesti+0||H sg g||
+riigiametnikele    riigi_ametnik+ele||S pl all||
+sellealaseid    selle_alane+id||A pl p||
+koolitusvõimalusi    koolitus_võimalus+i||S pl p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Mõlemad    mõlema+d||P pl n||
+pooled    pool+d||S pl n||
+toonitavad    toonita+vad||V vad||
+,    ,+||Z||
+et    et+0||J||
+ehkki    ehkki+0||J||
+viimastel    viimane+tel||A pl ad||
+aastatel    aasta+tel||S pl ad||
+on    ole+0||V b||    ole+0||V vad||+
+Eesti    Eesti+0||H sg g||
+ja    ja+0||J||
+Kreeka    Kreeka+0||H sg g||
+vahelised    vaheline+d||A pl n||
+ärikontaktid    äri_kontakt+d||S pl n||
+oluliselt    oluliselt+0||D||
+tihedamaks    tihedam+ks||C sg tr||
+muutunud    muutu+nud||V nud||+    muutu=nud+0||A||    muutu=nud+0||A sg n||    muutu=nud+d||A pl n||
+,    ,+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+selles    see+s||P sg in||
+vallas    vald+s||S sg in||
+veel    veel+0||D||
+palju    palju+0||D||
+arenguruumi    arengu_ruum+0||S sg p||
+.    .+||Z||
+Potentsiaalsete    Potentsiaalne+te||H pl g|| %potentsiaalne+te||A pl g||
+koostöövaldkondadena    koos_töö_valdkond+dena||S pl es||
+märgitakse    märki+takse||V takse||
+memorandumis    memorandum+s||S sg in||
+ära    ära+0||D||
+laevandust    laevandus+t||S sg p||
+ja    ja+0||J||
+laevaehitust    laeva_ehitus+t||S sg p||
+,    ,+||Z||
+väike-    väike+0||A sg n|| %väike+0||A ?||
+ja    ja+0||J||
+kesksuurusega    kesk_suurus+ga||S sg kom||
+ettevõtlust    ette_võtlus+t||S sg p||
+,    ,+||Z||
+turismi    turism+0||S sg g|| %turism+0||S sg p||
+,    ,+||Z||
+transporti    transport+0||S sg p||
+,    ,+||Z||
+toiduainete-    toidu_aine+te||S pl g|| %toidu_aine+te||S ?||
+ja    ja+0||J||
+mööblitööstust    mööbli_tööstus+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Reedel    reede+l||S sg ad||
+on    ole+0||V b||    ole+0||V vad||+
+Eesti    Eesti+0||H sg g||
+delegatsiooni    delegatsioon+0||S sg g||
+programmis    programm+s||S sg in||
+kohtumised    kohtumine+d||S pl n||
+Kreeka    Kreeka+0||H sg g||
+Ekspordi    eksport+0||S sg g||
+arengu    areng+0||S sg g||
+agentuuri    agentuur+0||S sg g||
+ja    ja+0||J||
+Pireuse    Pireus+0||H sg g||
+Tööstus-    tööstus+0||S sg n|| %tööstus+0||S ?||
+ja    ja+0||J||
+kaubanduskoja    kaubandus_koda+0||S sg g||
+esindajatega    esindaja+tega||S pl kom||
+.    .+||Z||
+</p>
+</doc>
+<doc id="585752" length="1k-10k" crawl_date="2013-01-15" url="http://www.vm.ee/?q=node/1657" web_domain="www.vm.ee" langdiff="0.33" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Välisminister    välis_minister+0||S sg n||
+Raul    Raul+0||H sg n||
+Mälk    Mälk+0||H sg n||
+lõpetas    lõpeta+s||V s||
+visiidi    visiit+0||S sg g||
+Prantsusmaale    Prantsus_maa+le||H sg all||
+</p>
+</doc>

@@ -1,0 +1,1429 @@
+tykk/56/www_liiklus_ee.tykk:
+
+<doc id="111280" length="1k-10k" crawl_date="2013-01-14" url="http://www.liiklus.ee/ee-Liiklus-catalog-viewObject-5-1939-17-860" web_domain="www.liiklus.ee" langdiff="0.40" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Viimased    viimane+d||A pl n||
+uudised    uudis+d||S pl n||
+</p>
+<gap/>
+<p heading="1"> 
+Eesti    Eesti+0||H sg g||
+elanikest    elanik+est||S pl el||
+kasutab    kasuta+b||V b||
+õhutransporti    õhu_transport+0||S adt|| %õhu_transport+0||S sg p||
+18    18+0||N ?||
+protsenti    protsent+0||S sg p||
+</p>
+<p heading="0"> 
+Õhutranspordi    õhu_transport+0||S sg g||
+vallas    vald+s||S sg in||
+reisijate    reisija+te||S pl g||
+õigusi    õigus+i||S pl p||
+käsitleva    käsitlev+0||A sg g||
+Eurobaromeetri    euro_baromeeter+0||S sg g|| %Euro_baromeeter+0||H sg g||
+suvise    suvine+0||A sg g||
+uuringu    uuring+0||S sg g||
+järgi    järgi+0||K||
+oli    ole+i||V s||
+viimase    viimane+0||A sg g||
+12    12+0||N ?||
+kuu    kuu+0||S sg g||
+jooksul    jooksul+0||K||
+õhutransporti    õhu_transport+0||S adt|| %õhu_transport+0||S sg p||
+kasutanud    kasuta+nud||V nud||+    kasuta=nud+0||A||    kasuta=nud+0||A sg n||    kasuta=nud+d||A pl n||
+18    18+0||N ?||
+protsenti    protsent+0||S sg p||
+Eesti    Eesti+0||H sg g||
+elanikest    elanik+est||S pl el||
+,    ,+||Z||
+Euroopa    Euroopa+0||H sg g||
+Liidu    Liit+0||H sg g||    Liidu+0||H sg g||    Liidud+0||H sg g|| %liit+0||S sg g||
+(    (+||Z||
+EL    EL+0||Y ?||
+)    )+||Z||
+keskmine    keskmine+0||A sg n||
+oli    ole+i||V s||
+24    24+0||N ?||
+protsenti    protsent+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Kõige    kõige+0||D||
+enam    enam+0||D||
+lendavad    lenda+vad||V vad||
+lennukiga    lennuk+ga||S sg kom||
+iirlased    iirlane+d||S pl n||
+ja    ja+0||J||
+rootslased    rootslane+d||S pl n||
+,    ,+||Z||
+vastavalt    vastavalt+0||K||
+58    58+0||N ?||
+ja    ja+0||J||
+53    53+0||N ?||
+protsenti    protsent+0||S sg p||
+.    .+||Z||
+Kõige    kõige+0||D||
+vähem    vähem+0||D||
+ungarlased    ungarlane+d||S pl n||
+ja    ja+0||J||
+bulgaarlased    bulgaarlane+d||S pl n||
+,    ,+||Z||
+vastavalt    vastavalt+0||K||
+kolm    kolm+0||N sg n||
+ja    ja+0||J||
+viis    viis+0||N sg n||
+protsenti    protsent+0||S sg p||
+.    .+||Z||
+Viimase    viimane+0||A sg g||
+12    12+0||N ?||
+kuu    kuu+0||S sg g||
+jooksul    jooksul+0||K||
+oli    ole+i||V s||
+õhutransporti    õhu_transport+0||S adt|| %õhu_transport+0||S sg p||
+kasutanud    kasuta+nud||V nud||+    kasuta=nud+0||A||    kasuta=nud+0||A sg n||    kasuta=nud+d||A pl n||
+15    15+0||N ?||
+protsenti    protsent+0||S sg p||
+lätlastest    lätlane+test||S pl el||
+,    ,+||Z||
+13    13+0||N ?||
+protsenti    protsent+0||S sg p||
+leedukatest    leedukas+test||A pl el||
+ning    ning+0||J||
+41    41+0||N ?||
+protsenti    protsent+0||S sg p||
+soomlastest    soomlane+test||S pl el||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Kohalikku    kohalik+0||A sg p||
+transporti    transport+0||S sg p||
+kasutas    kasuta+s||V s||
+viimase    viimane+0||A sg g||
+12    12+0||N ?||
+kuu    kuu+0||S sg g||
+jooksul    jooksul+0||K||
+61    61+0||N ?||
+,    ,+||Z||
+rongiliiklust    rongi_liiklus+t||S sg p||
+20    20+0||N ?||
+,    ,+||Z||
+rahvusvahelist    rahvus_vaheline+t||A sg p||
+bussiliiklust    bussi_liiklus+t||S sg p||
+14    14+0||N ?||
+ja    ja+0||J||
+laevaliiklust    laeva_liiklus+t||S sg p||
+24    24+0||N ?||
+protsenti    protsent+0||S sg p||
+Eesti    Eesti+0||H sg g||
+elanikest    elanik+est||S pl el||
+.    .+||Z||
+EL-i    EL+i||Y sg g||
+keskmised    keskmine+d||A pl n||
+näitajad    näitaja+d||S pl n||
+olid    ole+id||V sid||
+vastavalt    vastavalt+0||K||
+59    59+0||N ?||
+,    ,+||Z||
+30    30+0||N ?||
+,    ,+||Z||
+viis    viis+0||N sg n||
+ja    ja+0||J||
+kaheksa    kaheksa+0||N sg n||
+protsenti    protsent+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+41    41+0||N ?||
+protsenti    protsent+0||S sg p||
+eestlastest    eestlane+test||S pl el||
+väidavad    väit+vad||V vad||
+,    ,+||Z||
+et    et+0||J||
+on    ole+0||V b||    ole+0||V vad||+
+teadlikud    teadlik+d||A pl n||
+oma    oma+0||P sg g||
+õigustest    õigus+test||S pl el||
+ja    ja+0||J||
+kohustustest    kohustus+test||S pl el||
+,    ,+||Z||
+mille    mis+0||P pl g||+    mis+0||P sg g||
+aluseks    alune+ks||S sg tr||    alus+ks||S sg tr||+
+on    ole+0||V b||+    ole+0||V vad||
+lennupileti    lennu_pilet+0||S sg g||
+ostmisel    ostmine+l||S sg ad||
+tekkiv    tekkiv+0||A sg n||
+leping    leping+0||S sg n||
+.    .+||Z||
+Võrreldes    võrdle+des||V des||
+2005.    2005.+0||O ?||
+aastal    aasta+l||S sg ad||
+tehtud    tehtud+0||A||+    tehtud+0||A sg n||    tehtud+d||A pl n||    tege+tud||V tud||
+sama    sama+0||P sg g||
+uuringuga    uuring+ga||S sg kom||
+on    ole+0||V b||+    ole+0||V vad||
+eestlaste    eestlane+te||S pl g||
+teadlikkus    teadlikkus+0||S sg n||
+kerkinud    kerki+nud||V nud||+    kerki=nud+0||A||    kerki=nud+0||A sg n||    kerki=nud+d||A pl n||
+kaheksa    kaheksa+0||N sg g||
+protsendipunkti    protsendi_punkt+0||S sg g||
+võrra    võrra+0||K||
+.    .+||Z||
+Sama    sama+0||P sg n||
+kasv    kasv+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+Rootsil    Rootsi+l||H sg ad||
+,    ,+||Z||
+pisut    pisut+0||D||
+enam    enam+0||D||
+Küprosel    Küpros+l||H sg ad||
+ja    ja+0||J||
+Hispaanial    Hispaania+l||H sg ad||
+.    .+||Z||
+EL-i    EL+i||Y sg g||
+keskmine    keskmine+0||A sg n||
+näitaja    näitaja+0||S sg n||
+teadlikkuse    teadlikkus+0||S sg g||
+vallas    vald+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+34    34+0||N ?||
+protsenti    protsent+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+51    51+0||N ?||
+protsenti    protsent+0||S sg p||
+lennutransporti    lennu_transport+0||S sg p||
+kasutanud    kasuta+nud||V nud||    kasuta=nud+0||A||+    kasuta=nud+0||A sg n||    kasuta=nud+d||A pl n||
+EL-i    EL+i||Y sg g||
+elanikest    elanik+est||S pl el||
+väidavad    väit+vad||V vad||
+,    ,+||Z||
+et    et+0||J||
+on    ole+0||V b||    ole+0||V vad||+
+lennukompaniide    lennu_kompanii+de||S pl g||
+vahendusel    vahendus+l||S sg ad||
+teadlikud    teadlik+d||A pl n||
+oma    oma+0||P sg g||
+õigustest    õigus+test||S pl el||
+.    .+||Z||
+Aastal    aasta+l||S sg ad||
+2005    2005+0||N ?||
+oli    ole+i||V s||
+see    see+0||P sg n||
+näitaja    näitaja+0||S sg n||
+45    45+0||N ?||
+protsenti    protsent+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+52    52+0||N ?||
+protsenti    protsent+0||S sg p||
+lennutransporti    lennu_transport+0||S adt|| %lennu_transport+0||S sg p||
+kasutanud    kasuta+nud||V nud||    kasuta=nud+0||A||+    kasuta=nud+0||A sg n||    kasuta=nud+d||A pl n||
+küsitletutest    küsitletu+test||S pl el||
+on    ole+0||V b||    ole+0||V vad||+
+rahul    rahul+0||D||
+lennukompaniide    lennu_kompanii+de||S pl g||
+tegevusega    tegevus+ga||S sg kom||
+ootamatute    ootamatu+te||A pl g||
+tõrgete    tõrge+te||S pl g||
+puhul    puhul+0||K||
+.    .+||Z||
+See    see+0||P sg n||
+näitaja    näitaja+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+võrreldes    võrdle+des||V des||
+2005.    2005.+0||O ?||
+aastaga    aasta+ga||S sg kom||
+langenud    lange+nud||V nud||+    langenud+0||A||    langenud+0||A sg n||    langenud+d||A pl n||
+ühe    ühe+0||S sg n|| %üks+0||N sg g||
+protsendipunkti    protsendi_punkt+0||S sg g||
+võrra    võrra+0||K||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Eurobaromeeter    euro_baromeeter+0||S sg n|| %Euro_baromeeter+0||H sg n||
+viis    vii+s||V s||
+küsitluse    küsitlus+0||S sg g||
+läbi    läbi+0||K||
+selle    see+0||P sg g||
+aasta    aasta+0||S sg g||
+mais    maa+is||S pl in||    mai+s||S sg in||+
+ja    ja+0||J||
+juunis    juuni+s||S sg in||
+ning    ning+0||J||
+avalikustas    avalikusta+s||V s||
+tulemused    tulemus+d||S pl n||
+detsembris    detsember+s||S sg in||
+.    .+||Z||
+Eestis    Eesti+s||H sg in||
+tegi    tege+i||V s||
+inimestega    inimene+tega||S pl kom||
+intervjuusid    intervjuu+sid||S pl p||
+Emor    Emor+0||H sg n||
+.    .+||Z||
+Kogu    kogu+0||A||
+uuring    uuring+0||S sg n||
+sisaldab    sisalda+b||V b||
+26.756    26.756+0||N ?||
+intervjuul    intervjuu+l||S sg ad||
+põhinevaid    põhinev+id||A pl p||
+andmeid    andmed+id||S pl p||
+.    .+||Z||
+</p>
+</doc>
+<doc id="111293" length="1k-10k" crawl_date="2013-01-14" url="http://www.liiklus.ee/ee-liikluspolitsei_uudesed-catalog-view-5-2-710" web_domain="www.liiklus.ee" langdiff="0.42" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Mullu    mullu+0||D||
+liiklusõnnetustes    liiklus_õnnetus+tes||S pl in||
+hukkunute    hukkunu+te||S pl g||
+arv    arv+0||S sg n||
+tõusis    tõus+is||V s||
+101-ni    101+ni||N sg ter||
+Politsei-    politsei+0||S sg g|| %politsei+0||S ?||
+ja    ja+0||J||
+piirivalveameti    piiri_valve_amet+0||S sg g||
+andmetel    andmed+tel||S pl ad||
+hukkus    hukku+s||V s||
+mullu    mullu+0||D||
+liiklusõnnetustes    liiklus_õnnetus+tes||S pl in||
+101    101+0||N ?||
+inimest    inimene+t||S sg p||
+,    ,+||Z||
+mida    mis+da||P pl p||    mis+da||P sg p||+
+on    ole+0||V b||+    ole+0||V vad||
+22    22+0||N ?||
+võrra    võrra+0||K||
+rohkem    rohkem+0||D||
+kui    kui+0||D||    kui+0||J||+
+aasta    aasta+0||S sg g|| %aasta+0||S sg n||
+varem    varem+0||D||
+.    .+||Z||
+Esmaspäevaste    Esmas_päevane+te||H pl g||    Esmaspäe_vaste+0||H sg g|| %esmas_päevane+te||A pl g||
+esialgsete    esi_algne+te||A pl g||
+andmete    andmed+te||S pl g||
+järgi    järgi+0||K||
+oli    ole+i||V s||
+2011.    2011.+0||O ?||
+aastal    aasta+l||S sg ad||
+liiklusõnnetustes    liiklus_õnnetus+tes||S pl in||
+hukkunuid    hukkunu+id||S pl p||
+100    100+0||N ?||
+,    ,+||Z||
+kuid    kuid+0||J||
+teisipäeval    teisi_päev+l||S sg ad||
+suri    sure+i||V s||
+haiglas    haigla+s||S sg in||
+detsembri    detsember+0||S sg g||
+keskel    keskel+0||K||
+Narvas    Narva+s||H sg in||
+liiklusõnnetuses    liiklus_õnnetus+s||S sg in||
+vigastada    vigasta+da||V da||
+saanud    saa+nud||V nud||+    saa=nud+0||A||    saa=nud+0||A sg n||    saa=nud+d||A pl n||
+eakas    eakas+s||A sg in|| %eakas+0||A sg n||
+naine    naine+0||S sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+04.01.2012    04.01.2012+0||N ?||
+</p>
+<p heading="0"> 
+Kroonide    kroon+de||S pl g||
+eest    eest+0||K||
+ostetud    ost+tud||V tud||    oste=tud+0||A||+    oste=tud+0||A sg n||    oste=tud+d||A pl n||
+sõidutalongid    sõidu_talong+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+kehtetud    kehtetu+d||A pl n||
+Tallinna    Tallinn+0||H sg g||
+Transpordiamet    transpordi_amet+0||S sg n||
+tuletab    tuleta+b||V b||
+meelde    meel+de||S adt||
+,    ,+||Z||
+et    et+0||J||
+eelmüügist    eel_müük+st||S sg el||
+kroonide    kroon+de||S pl g||
+eest    eest+0||K||
+soetatud    soeta+tud||V tud||    soeta=tud+0||A||+    soeta=tud+0||A sg n||    soeta=tud+d||A pl n||
+sõidutalongid    sõidu_talong+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+alates    alates+0||K||
+2012.    2012.+0||O ?||
+aasta    aasta+0||S sg g||
+1.    1.+0||O ?||
+jaanuarist    jaanuar+st||S sg el||
+kehtetud    kehtetu+d||A pl n||
+.    .+||Z||
+Sõidupiletite    sõidu_pilet+te||S pl g||
+hinnad    hind+d||S pl n||
+alates    alates+0||K||
+1.    1.+0||O ?||
+juulist    juuli+st||S sg el||
+2011    2011+0||N ?||
+on    ole+0||V b||    ole+0||V vad||+
+:    :+||Z||
+sõidutalong    sõidu_talong+0||S sg n||
+eelmüügist    eel_müük+st||S sg el||
+1    1+0||N ?||
+euro    euro+0||S sg g|| %euro+0||S sg n||
+,    ,+||Z||
+ühissõidukist    ühis_sõiduk+st||S sg el||
+1,60    1,60+0||N ?||
+eurot    euro+t||S sg p||
+ja    ja+0||J||
+10    10+0||N ?||
+talongi    talong+0||S sg p||
+eelmüügist    eel_müük+st||S sg el||
+8    8+0||N ?||
+eurot    euro+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+04.01.2012    04.01.2012+0||N ?||
+</p>
+<p heading="0"> 
+Foorikaamerad    foori_kaamera+d||S pl n||
+hakkavad    hakka+vad||V vad||
+liiklusrikkujaid    liiklus_rikkuja+id||S pl p||
+tuvastama    tuvasta+ma||V ma||
+Tallinna    Tallinn+0||H sg g||
+taksopargi    takso_park+0||S sg g||
+ristmikule    ristmik+le||S sg all||
+paigaldatakse    paigalda+takse||V takse||
+foorikaamerad    foori_kaamera+d||S pl n||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+hakkavad    hakka+vad||V vad||
+salvestama    salvesta+ma||V ma||
+kihutajaid    kihutaja+id||S pl p||
+,    ,+||Z||
+punase    punane+0||A sg g||
+tule    tuli+0||S sg g||
+all    all+0||K||
+ristmikule    ristmik+le||S sg all||
+sõitjaid    sõitja+id||S pl p||
+ning    ning+0||J||
+ühistranspordirajal    ühis_transpordi_rada+l||S sg ad||+    ühis_transpordi_raja+l||S sg ad||
+liikuvaid    liikuv+id||A pl p||
+autosid    auto+sid||S pl p||
+.    .+||Z||
+Tallinna    Tallinn+0||H sg g||
+transpordiameti    transpordi_amet+0||S sg g||
+projektijuht    projekti_juht+0||S sg n||
+Tiit    Tiit+0||H sg n||
+Laiksoo    Laik_soo+0||H sg n||+    Laiksoo+0||H sg n||
+ütles    ütle+s||V s||
+Postimehele    Posti_mees+le||H sg all||+    Postimehe+le||H sg all||
+,    ,+||Z||
+et    et+0||J||
+foorikaamerate    foori_kaamera+te||S pl g||
+riigihankele    riigi_hange+le||S sg all||
+laekus    laeku+s||V s||
+vaid    vaid+0||D||
+üks    üks+0||P sg n|| %üks+0||N sg n||
+pakkumine    pakkumine+0||S sg n||
+ja    ja+0||J||
+selle    see+0||P sg g||
+tegi    tege+i||V s||
+Alarmtec    Alarmtec+0||H sg n||
+</p>
+<gap/>
+<p heading="0"> 
+Liiklusõnnetus    liiklus_õnnetus+0||S sg n||
+Tallinn-Rapla-Türi    Tallinn-Rapla-Türi+0||H sg g||+    Tallinn-Rapla-Tür+0||H sg g||    Tallinn-Rapla-Türi+0||H sg g||
+maanteel    maan_tee+l||S sg ad||
+Esmaspäeva    esmas_päev+0||S sg g||
+õhtul    õhtu+l||S sg ad||
+sai    saa+i||V s||
+Harjumaal    Harju_maa+l||H sg ad||
+liiklusõnnetuses    liiklus_õnnetus+s||S sg in||
+viga    viga+0||S sg n|| %viga+0||S sg p||
+kaks    kaks+0||N sg n||
+inimest    inimene+t||S sg p||
+,    ,+||Z||
+õnnetuse    õnnetus+0||S sg g||
+tõttu    tõttu+0||K||
+on    ole+0||V b||+    ole+0||V vad||
+häiritud    häiri+tud||V tud||+    häiri=tud+0||A||    häiri=tud+0||A sg n||    häiri=tud+d||A pl n||
+liiklus    liiklus+0||S sg n||
+Viljandi    Viljandi+0||H sg g||
+maanteel.Esmaspäeva    maanteel._esmas_päev+0||S sg g||
+õhtul    õhtu+l||S sg ad||
+põrkasid    põrka+sid||V sid||
+Kurtna    Kurtna+0||H sg g||
+lähistel    lähistel+0||K||
+Viljandi    Viljandi+0||H sg g||
+maantee    maan_tee+0||S sg n|| %maan_tee+0||S sg g||
+18.    18.+0||O ?||
+kilomeetril    kilo_meeter+l||S sg ad||
+kokku    kokku+0||D||
+sõiduauto    sõidu_auto+0||S sg n||
+ja    ja+0||J||
+veok    veok+0||S sg n||
+.    .+||Z||
+Õnnetuses    õnnetus+s||S sg in||
+said    saa+id||V sid||
+vigastada    vigasta+da||V da||
+kaks    kaks+0||N sg n||
+inimest    inimene+t||S sg p||
+,    ,+||Z||
+kes    kes+0||P pl n||+    kes+0||P sg n||
+viidi    vii+di||V ti||
+haiglasse    haigla+sse||S sg ill||
+.    .+||Z||
+</p>
+<p heading="0"> 
+02.01.2012    02.01.2012+0||N ?||
+</p>
+<p heading="0"> 
+Avarii    Avarii+0||H sg g||    Avarii+0||H sg g|| %avarii+0||S sg n||
+Valga    Valga+0||H sg g||
+maakonnas    maakond+s||S sg in||
+häirib    häiri+b||V b||
+liiklust    liiklus+t||S sg p||
+(    (+||Z||
+uuendus    uuendus+0||S sg n||
+)    )+||Z||
+Valga    Valga+0||H sg g||
+maakonnas    maakond+s||S sg in||
+Jõhvi-Tartu-Valga    Jõhvi-Tartu-Valga+0||H sg g||+    Jõhvi-Tartu-Valga+0||H sg g||
+maantee    maan_tee+0||S sg g||
+186.    186.+0||O ?||
+kilomeetril    kilo_meeter+l||S sg ad||
+(    (+||Z||
+s.o    s.o+0||Y ?||
+.    .+||Z||
+Puka    Puka+0||H sg g||
+ristmikust    ristmik+st||S sg el||
+Valga    Valga+0||H sg g||
+poole    poole+0||K||
+)    )+||Z||
+on    ole+0||V b||+    ole+0||V vad||
+toimunud    toimu+nud||V nud||+    toimunud+0||A||    toimunud+0||A sg n||    toimunud+d||A pl n||
+avarii    avarii+0||S sg n||
+.    .+||Z||
+Liiklusõnnetus    liiklus_õnnetus+0||S sg n||
+juhtus    juhtu+s||V s||
+Tartu-Valga    Tartu-Valga+0||H sg g||+    Tartu-Valga+0||H sg g||
+maanteel    maan_tee+l||S sg ad||
+,    ,+||Z||
+Puka    Puka+0||H sg g||
+vallas    vald+s||S sg in||
+,    ,+||Z||
+Kuigatsi    Kuigats+0||H sg g||    Kuigatsi+0||H sg g||+
+ristmikul    ristmik+l||S sg ad||
+,    ,+||Z||
+kus    kus+0||D||
+omavahel    oma_vahel+0||D||
+põrkasid    põrka+sid||V sid||
+kokku    kokku+0||D||
+sõiduauto    sõidu_auto+0||S sg n||
+ja    ja+0||J||
+kaubik    kaubik+0||S sg n||
+.    .+||Z||
+Sõiduautos    sõidu_auto+s||S sg in||
+olnud    ol=nud+0||A||+    ol=nud+0||A sg n||    ol=nud+d||A pl n||    ole+nud||V nud||
+mees    mees+0||S sg n||
+ja    ja+0||J||
+naine    naine+0||S sg n||
+jäid    jää+id||V sid||
+masinasse    masin+sse||S sg ill||
+kinni    kinni+0||D||
+ning    ning+0||J||
+päästjatel    päästja+tel||S pl ad||
+tuli    tule+i||V s||
+nad    tema+d||P pl n||
+sõidukist    sõiduk+st||S sg el||
+välja    välja+0||D||
+lõigata    lõika+ta||V da||
+.    .+||Z||
+</p>
+<p heading="0"> 
+02.01.2012    02.01.2012+0||N ?||
+</p>
+<p heading="0"> 
+Politsei    politsei+0||S sg n||
+:    :+||Z||
+Ettevaatust    ette_vaatus+t||S sg p||
+,    ,+||Z||
+teed    tee+d||S sg p|| %tee+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+väga    väga+0||D||
+libedad    libe+d||A pl n||
+!    !+||Z||
+Politsei    politsei+0||S sg n||
+juhib    juhti+b||V b||
+liiklejate    liikleja+te||S pl g||
+tähelepanu    tähele_panu+0||S sg p||
+sellele    see+le||P sg all||
+,    ,+||Z||
+et    et+0||J||
+kõik    kõik+0||P pl n||+    kõik+0||P sg n||
+Tallinna    Tallinn+0||H sg g|| %Tallinn+0||H sg p||
+ümbritsevad    ümbritse+vad||V vad||
+põhimaanteed    põhi_maan_tee+d||S pl n||
+on    ole+0||V b||    ole+0||V vad||+
+viimastel    viimane+tel||A pl ad||
+tundidel    tund+del||S pl ad||
+lumesaju    lume_sadu+0||S sg g||
+tagajärjel    taga_järg+l||S sg ad||
+muutunud    muutu+nud||V nud||+    muutu=nud+0||A||    muutu=nud+0||A sg n||    muutu=nud+d||A pl n||
+väga    väga+0||D||
+libedaks    libe+ks||A sg tr||
+.    .+||Z||
+Hetkeseisuga    hetke_seis+ga||S sg kom||
+ei    ei+0||V neg||
+ole    ole+0||V o||
+libeduse    libedus+0||S sg g||
+tõttu    tõttu+0||K||
+liiklusõnnetusi    liiklus_õnnetus+i||S pl p||
+juhtunud    juhtu+nud||V nud||+    juhtunud+0||A||    juhtunud+0||A sg n||    juhtunud+d||A pl n||
+,    ,+||Z||
+kuid    kuid+0||J||
+sellegi    see+0gi||P sg g||
+poolest    poolest+0||K||
+tuleks    tule+ks||V ks||
+olla    ole+a||V da||
+äärmiselt    äärmiselt+0||D||
+tähelepanelik    tähele_panelik+0||A sg n||
+ja    ja+0||J||
+ettevaatlik    ette_vaatlik+0||A sg n||
+,    ,+||Z||
+samuti    samuti+0||D||
+valida    vali+da||V da||
+keerulistele    keeruline+tele||A pl all||
+teeoludele    tee_olu+dele||S pl all||
+vastav    vastav+0||A sg n||
+sõidukiirus    sõidu_kiirus+0||S sg n||
+.    .+||Z||
+</p>
+</doc>
+<doc id="111343" length="0-1k" crawl_date="2013-01-14" url="http://www.liiklus.ee/ee-Liiklus-catalog-viewObject-5-1621-17-960" web_domain="www.liiklus.ee" langdiff="0.47" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Viimased    viimane+d||A pl n||
+uudised    uudis+d||S pl n||
+</p>
+<gap/>
+<p heading="1"> 
+Riik    riik+0||S sg n||
+valmistub    valmistu+b||V b||
+Pärnu    Pärnu+0||H sg g||
+Papiniidu    Papi_niit+0||H sg g|| %Papi_niidu+0||H sg g||
+pikenduse    pikendus+0||S sg g||
+ehituseks    ehitus+ks||S sg tr||
+</p>
+<p heading="0"> 
+Riik    riik+0||S sg n||
+valmistab    valmista+b||V b||
+ette    ette+0||D||
+hanget    hange+t||S sg p||
+Tallinnast    Tallinn+st||H sg el||
+Euroopasse    Euroopa+sse||H sg ill||
+viiva    vii=v+0||A sg g||
+Via    Via+||H ?||
+Baltica    Baltica+0||H sg n|| %Baltica+0||H sg g||
+täiesti    täiesti+0||D||
+uue    uus+0||A sg g||
+lõigu    lõik+0||S sg g||
+ehitamiseks    ehitamine+ks||S sg tr||
+Pärnusse    Pärnu+sse||H sg ill||
+Papiniidu    Papi_niit+0||H sg g|| %Papi_niidu+0||H sg g||
+silla    sild+0||S sg g||
+ja    ja+0||J||
+Riia    Riia+0||H sg g||
+maantee    maan_tee+0||S sg g||
+vahele    vahele+0||K||
+.    .+||Z||
+Maanteeameti    maan_tee_amet+0||S sg g||
+hanke    hange+0||S sg g||
+eelteate    eel_teade+0||S sg g||
+kohaselt    kohaselt+0||K||
+on    ole+0||V b||+    ole+0||V vad||
+Pärnu    Pärnu+0||H sg g||
+ümbersõidu    ümber_sõit+0||S sg g||
+2,13    2,13+0||N ?||
+kilomeetri    kilo_meeter+0||S sg g||
+pikkune    pikkune+0||A sg n||
+täiesti    täiesti+0||D||
+uus    uus+0||A sg n||
+teelõik    tee_lõik+0||S sg n||
+kavandatud    kavanda+tud||V tud||+    kavandatud+0||A||    kavandatud+0||A sg n||    kavandatud+d||A pl n||
+ühe    üks+0||P sg g|| %üks+0||N sg g||
+sõidurajaga    sõidu_rada+ga||S sg kom||+    sõidu_raja+ga||S sg kom||
+kummaski    kumbki+ski||P sg in||
+suunas    suund+s||S sg in||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Seejuures    see_juures+0||D||
+rekonstrueeritakse    re_konstrueeri+takse||V takse||
+280    280+0||N ?||
+meetrit    meeter+t||S sg p||
+Papiniidu    Papi_niit+0||H sg g|| %Papi_niidu+0||H sg g||
+tänavat    tänav+t||S sg p||
+,    ,+||Z||
+ligi    ligi+0||D||
+kilomeeter    kilo_meeter+0||S sg n||
+Riia    Riia+0||H sg g||
+maanteed    maan_tee+d||S sg p||
+ja    ja+0||J||
+255    255+0||N ?||
+meetrit    meeter+t||S sg p||
+Paide    Paide+0||H sg g||
+maanteed    maan_tee+d||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Papiniidu    Papi_niit+0||H sg g|| %Papi_niidu+0||H sg g||
+pikenduse    pikendus+0||S sg g||
+ja    ja+0||J||
+Papiiniidu    Papii_niit+0||H sg g|| %Papi_niidu+0||H sg g||
+tänava    tänav+0||S sg g||
+ristmik    ristmik+0||S sg n||
+,    ,+||Z||
+nagu    nagu+0||D||    nagu+0||J||+
+ka    ka+0||D||
+rajatava    rajatav+0||A sg g||
+pikenduse    pikendus+0||S sg g||
+ja    ja+0||J||
+Riia    Riia+0||H sg g||
+maantee    maan_tee+0||S sg g||
+ning    ning+0||J||
+Riia    Riia+0||H sg g||
+maantee    maan_tee+0||S sg g||
+ja    ja+0||J||
+Paide    Paide+0||H sg g||
+maantee    maan_tee+0||S sg g||
+samatasandilised    sama_tasandi=line+d||A pl n||
+ristmikud    ristmik+d||S pl n||
+saavad    saa+vad||V vad||
+foorid    foor+d||S pl n||
+.    .+||Z||
+</p>
+tykk/61/www_terviseamet_ee.tykk:
+<doc id="187574" length="0-1k" crawl_date="2013-01-11" url="http://www.terviseamet.ee/info/uudised/arhiiv/browse/25.html" web_domain="www.terviseamet.ee" langdiff="0.45" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Terviseamet    tervise_amet+0||S sg n||
+tuletab    tuleta+b||V b||
+meelde    meel+de||S adt||
+,    ,+||Z||
+et    et+0||J||
+seoses    seoses+0||K||
+lähenevate    lähenev+te||A pl g||
+pühadega    püha+dega||S pl kom||
+tuleks    tule+ks||V ks||
+rohkem    rohkem+0||D||
+tähelepanu    tähele_panu+0||S sg p||
+pöörata    pööra+ta||V da||
+munast    muna+st||S sg el||
+valmistatud    valmista+tud||V tud||    valmista=tud+0||A||+    valmista=tud+0||A sg n||    valmista=tud+d||A pl n||
+toitude    toit+de||S pl g||
+ohutusele    ohutus+le||S sg all||
+.    .+||Z||
+Viimastel    viimane+tel||A pl ad||
+nädalatel    nädal+tel||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+meedias    meedia+s||S sg in||
+olnud    ol=nud+0||A||    ol=nud+0||A sg n||    ol=nud+d||A pl n||    ole+nud||V nud||+
+teemaks    teema+ks||S sg tr||
+kaks    kaks+0||N sg n||
+suuremat    suurem+t||C sg p||
+salmonelloosipuhangut    salmonelloosi_puhang+t||S sg p||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+mõlemad    mõlema+d||P pl n||
+olid    ole+id||V sid||
+...    ...+||Z||
+Loe    luge+0||V o||
+edasi    edasi+0||D||
+</p>
+<gap/>
+<p heading="0"> 
+2011.    2011.+0||O ?||
+a    a+0||Y ?||
+I    I+0||Y ?|| %I+0||O ?||
+kvartali    kvartal+0||S sg g||
+jooksul    jooksul+0||K||
+on    ole+0||V b||+    ole+0||V vad||
+Terviseameti    tervise_amet+0||S sg g||
+andmetel    andmed+tel||S pl ad||
+neljakordistunud    nelja_kordistu+nud||V nud||+    nelja_kordistu=nud+0||A||    nelja_kordistu=nud+0||A sg n||    nelja_kordistu=nud+d||A pl n||
+haigestumine    haigestumine+0||S sg n||
+rotaviirusenteriiti    rotaviirusenteriit+0||S adt|| %rota_viirus_enteriit+0||S adt||
+võrreldes    võrdle+des||V des||
+2010    2010+0||N ?||
+aasta    aasta+0||S sg g||
+sama    sama+0||P sg g||
+ajaga    aeg+ga||S sg kom||
+.    .+||Z||
+2011.    2011.+0||O ?||
+a    a+0||Y ?||
+kolme    kolm+0||N sg g||
+kuuga    kuu+ga||S sg kom||
+registreeriti    registreeri+ti||V ti||
+1363    1363+0||N ?||
+rotaviirusenteriidi    rotaviirusenteriid+0||S sg g||    rotaviirusenteriit+0||S sg g|| %rota_viirus_enteriit+0||S sg g||
+haigusjuhtu    haigus_juht+0||S adt|| %haigus_juht+0||S sg p||
+(    (+||Z||
+101,7    101,7+0||N ?||
+haigusjuhtu    haigus_juht+0||S sg p||
+...    ...+||Z||
+Loe    luge+0||V o||
+edasi    edasi+0||D||
+</p>
+</doc>
+<doc id="187671" length="1k-10k" crawl_date="2013-01-11" url="http://www.terviseamet.ee/info/uudised/u/artikkel/murgistusriskid-peol-alkohol-ja-narkootilised-ained.html" web_domain="www.terviseamet.ee" langdiff="0.27" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Mürgistusinfoliinile    mürgistus_info_liin+le||S sg all||
+helistaja    helistaja+0||S sg n||
+peaks    pida+ks||V ks||
+alkoholimürgistuse    alkoholi_mürgistus+0||S sg g||
+kahtluse    kahtlus+0||S sg g||
+korral    korral+0||K||
+esmalt    esmalt+0||D||
+välja    välja+0||D||
+selgitama    selgi+tama||V tama||    selgita+ma||V ma||+
+,    ,+||Z||
+mida    mis+da||P pl p||    mis+da||P sg p||+
+joodi    jood+0||S sg p|| %joo+di||V ti||
+.    .+||Z||
+Eelkõige    eel_kõige+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+nõustamiseks    nõusta=mine+ks||S sg tr||
+vajalik    vajalik+0||A sg n||
+teada    tead+a||V da||
+,    ,+||Z||
+kas    kas+0||D||
+joodud    joo+dud||V tud||    joodud+0||A||+    joodud+0||A sg n||    joodud+d||A pl n||
+alkohol    alkohol+0||S sg n||
+osteti    ost+ti||V ti||
+poest    pood+st||S sg el||
+,    ,+||Z||
+baarist    baar+st||S sg el||
+või    või+0||J||
+toodi    too+di||V ti||
+kuskilt    kuskilt+0||D||
+mujalt    mujalt+0||D||
+ning    ning+0||J||
+võimalusel    võimalus+l||S sg ad||
+ka    ka+0||D||
+nooruki    nooruk+0||S sg g||
+poolt    poolt+0||K||
+tarbitud    tarbi+tud||V tud||    tarbi=tud+0||A||+    tarbi=tud+0||A sg n||    tarbi=tud+d||A pl n||
+alkoholi    alkohol+0||S sg g||
+kogus    kogus+0||S sg n||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Samuti    samuti+0||D||
+tuleks    tule+ks||V ks||
+välja    välja+0||D||
+selgitada    selgita+da||V da||
+,    ,+||Z||
+kas    kas+0||D||
+nooruk    nooruk+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+peale    peale+0||K||
+alkoholi    alkohol+0||S sg g||
+veel    veel+0||D||
+midagi    miski+dagi||P sg p||
+proovinud    proovi+nud||V nud||+    proovi=nud+0||A||    proovi=nud+0||A sg n||    proovi=nud+d||A pl n||
+:    :+||Z||
+mõnda    mõni+da||P sg p||
+tubakatoodet    tubaka_toode+t||S sg p||
+,    ,+||Z||
+tabletti    tablett+0||S sg p||
+,    ,+||Z||
+plaastrit    plaaster+t||S sg p||
+,    ,+||Z||
+pulbrit    pulber+t||S sg p||
+või    või+0||J||
+tilku    tilk+u||S pl p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Sellise    selline+0||P sg g||
+info    info+0||S sg g||
+ja    ja+0||J||
+helistaja    helistaja+0||S sg g||
+poolt    poolt+0||K||
+antud    and+tud||V tud||    antud+0||A||+    antud+0||A sg n||    antud+d||A pl n||
+olukorra    olu_kord+0||S sg g||
+kirjelduse    kirjeldus+0||S sg g||
+põhjal    põhjal+0||K||
+saab    saa+b||V b||
+16662    16662+0||N ?||
+infoliini    info_liin+0||S sg p|| %info_liin+0||S sg g||
+õde    õde+0||S sg p|| %õde+0||S sg n||
+hinnata    hinda+ta||V da||
+,    ,+||Z||
+kas    kas+0||D||
+isiku    isik+0||S sg g||
+seisukorda    seisu_kord+0||S sg p||
+on    ole+0||V b||+    ole+0||V vad||
+võimalik    võimalik+0||A sg n||
+parandada    paranda+da||V da||
+kodus    kodu+s||S sg in||
+või    või+0||J||
+tuleb    tule+b||V b||
+pöörduda    pöördu+da||V da||
+haiglasse    haigla+sse||S sg ill||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Peale    peale+0||K||
+alkoholi    alkohol+0||S sg g||
+ületarbimisega    üle_tarbimine+ga||S sg kom||
+seotud    seotud+0||A||+    seotud+0||A sg n||    seotud+d||A pl n||    sidu+tud||V tud||
+kõnede    kõne+de||S pl g||
+saab    saa+b||V b||
+infoliin    info_liin+0||S sg n||
+kõnesid    kõne+sid||S pl p||
+,    ,+||Z||
+kus    kus+0||D||
+kahtlustatakse    kahtlusta+takse||V takse||
+,    ,+||Z||
+et    et+0||J||
+peokohas    peo_koht+s||S sg in||
+on    ole+0||V b||+    ole+0||V vad||
+kokteili    kokteil+0||S sg p|| %kokteil+0||S sg g||
+,    ,+||Z||
+mahla    mahl+0||S sg p|| %mahl+0||S sg g||
+vm    vm+0||Y ?||
+joogi    jook+0||S sg g||+    joogi+0||S sg g||
+sisse    sisse+0||K||
+lisatud    lisa+tud||V tud||+    lisa=tud+0||A||    lisa=tud+0||A sg n||    lisa=tud+d||A pl n||
+narkootilise    narkootiline+0||A sg g||
+toimega    toim+ga||S sg kom||    toime+ga||S sg kom||+
+aineid    aine+id||S pl p||
+või    või+0||J||
+on    ole+0||V b||+    ole+0||V vad||
+tekkinud    tekki+nud||V nud||+    tekki=nud+0||A||    tekki=nud+0||A sg n||    tekki=nud+d||A pl n||
+ootamatuid    ootamatu+id||A pl p||
+tervisehäireid    tervise_häire+id||S pl p||
+peale    peale+0||K||
+narkootikumide    narkootikum+de||S pl g||
+tarvitamist    tarvitamine+t||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+Noortel    noor+tel||S pl ad||
+tuleb    tule+b||V b||
+arvestada    arvesta+da||V da||
+,    ,+||Z||
+et    et+0||J||
+diileri    diiler+0||S sg g||
+käest    käest+0||K||
+ostetud    ost+tud||V tud||    oste=tud+0||A||+    oste=tud+0||A sg n||    oste=tud+d||A pl n||
+või    või+0||J||
+sõbra    sõber+0||S sg g||
+käest    käest+0||K||
+saadud    saa+dud||V tud||    saadud+0||A||+    saadud+0||A sg n||    saadud+d||A pl n||
+narkootilised    narkootiline+d||A pl n||
+ained    aine+d||S pl n||
+ei    ei+0||V neg||
+pruugi    pruuki+0||V o||
+alati    alati+0||D||
+sisaldada    sisalda+da||V da||
+soovitut    soovitu+t||S sg p||
+–    -+||Z||
+sageli    sageli+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+tegemist    tegemine+t||S sg p||
+n.ö    n.ö+0||Y ?||
+ebapuhaste    eba_puhas+te||A pl g||
+toodetega    toode+tega||S pl kom||
+,    ,+||Z||
+mille    mis+0||P pl g||+    mis+0||P sg g||
+tarbimine    tarbimine+0||S sg n||
+võib    või+b||V b||
+osutuda    osutu+da||V da||
+väga    väga+0||D||
+ohtlikuks    ohtlik+ks||A sg tr||
+.    .+||Z||
+Tavaliselt    tavaliselt+0||D||
+kaotab    kaota+b||V b||
+nooruk    nooruk+0||S sg n||
+narkootikumiga    narkootikum+ga||S sg kom||
+segatud    sega+tud||V tud||    sega=tud+0||A||+    sega=tud+0||A sg n||    sega=tud+d||A pl n||
+joogist    jook+st||S sg el||+    joogi+st||S sg el||
+teadvuse    teadvus+0||S sg g||
+või    või+0||J||
+tekib    tekki+b||V b||
+mäluhäire    mälu_häire+0||S sg g|| %mälu_häire+0||S sg n||
+ning    ning+0||J||
+ärgates    ärka+tes||V des||
+ei    ei+0||V neg||
+mäletata    mäleta+ta||V ta||
+möödunud    möödu+nud||V nud||    möödunud+0||A||+    möödunud+0||A sg n||    möödunud+d||A pl n||
+sündmustest    sündmus+test||S pl el||
+midagi    miski+dagi||P sg p||
+.    .+||Z||
+Halvemal    halvem+l||C sg ad||
+juhul    juht+l||S sg ad||
+on    ole+0||V b||    ole+0||V vad||+
+kaotatud    kaota+tud||V tud||+    kaotatud+0||A||    kaotatud+0||A sg n||    kaotatud+d||A pl n||
+ka    ka+0||D||
+isiklikud    isiklik+d||A pl n||
+esemed    ese+d||S pl n||
+või    või+0||J||
+on    ole+0||V b||+    ole+0||V vad||
+toimepandud    toime_pan=dud+0||A||    toime_pan=dud+0||A sg n||    toime_pan=dud+d||A pl n|| %toime_pane+dud||V tud||
+isikuvastaseid    isiku_vastane+id||A pl p||
+kuritegusid    kuri_tegu+sid||S pl p||
+.    .+||Z||
+Seega    seega+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+mõistlik    mõistlik+0||A sg n||
+meeles    meel+s||S sg in||
+pidada    pida+da||V da||
+et    et+0||J||
+,    ,+||Z||
+isegi    isegi+0||D||
+kui    kui+0||D||    kui+0||J||+
+joogitops    joogi_tops+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+ainult    ainult+0||D||
+korraks    korraks+0||D||
+järelevalveta    järele_valve+ta||S sg ab||
+jäetud    jäe=tud+0||A||    jäe=tud+0||A sg n||    jäe=tud+d||A pl n||    jät+tud||V tud||+
+ei    ei+0||V neg||
+tohiks    tohti+ks||V ks||
+sealt    sealt+0||D||
+enam    enam+0||D||
+juua    joo+a||V da||
+!    !+||Z||
+</p>
+<p heading="0"> 
+Kuna    kuna+0||J||
+igasugune    iga_sugune+0||P sg n||
+ülemäärane    üle_määrane+0||A sg n||
+mõnuainete    mõnu_aine+te||S pl g||
+tarbimine    tarbimine+0||S sg n||
+kutsub    kutsu+b||V b||
+pahatihti    paha_tihti+0||D||
+esile    esile+0||D||
+oksendamist    oksendamine+t||S sg p||
+ning    ning+0||J||
+kõrireflekside    kõri_refleks+de||S pl g||
+lõdvenemist    lõdvene=mine+t||S sg p||
+,    ,+||Z||
+tuleb    tule+b||V b||
+uimane    uimane+0||A sg n||
+või    või+0||J||
+teadvuseta    teadvus+ta||S sg ab||
+nooruk    nooruk+0||S sg n||
+panna    pane+a||V da||
+kindlasti    kindlasti+0||D||
+magama    maga+ma||V ma||
+küljele    külg+le||S sg all||
+,    ,+||Z||
+sest    sest+0||J||
+selili    selili+0||D||
+on    ole+0||V b||+    ole+0||V vad||
+oht    oht+0||S sg n||
+okse    okse+0||S sg g||
+hingamisteedesse    hingamis_tee+desse||S pl ill||
+sattumise    sattumine+0||S sg g||
+tõttu    tõttu+0||K||
+lämbuda    lämbu+da||V da||
+.    .+||Z||
+Kui    kui+0||D||    kui+0||J||+
+noorukit    nooruk+t||S sg p||
+ei    ei+0||V neg||
+suudeta    suut+ta||V ta||
+äratada    ärata+da||V da||
+,    ,+||Z||
+tuleks    tule+ks||V ks||
+kindlasti    kindlasti+0||D||
+kutsuda    kutsu+da||V da||
+kiirabi    kiir_abi+0||S sg p|| %kiir_abi+0||S sg n||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Infoliinil    info_liin+l||S sg ad||
+16662    16662+0||N ?||
+töötavad    tööta+vad||V vad||
+pikaajalise    pika_ajaline+0||A sg g||
+erakorralise    era_korraline+0||A sg g||
+meditsiini    meditsiin+0||S sg g||
+kogemusega    kogemus+ga||S sg kom||
+õed    õde+d||S pl n||
+ja    ja+0||J||
+arstid    arst+d||S pl n||
+,    ,+||Z||
+kes    kes+0||P pl n||+    kes+0||P sg n||
+oskavad    oska+vad||V vad||
+juhtunud    juhtu+nud||V nud||    juhtunud+0||A||+    juhtunud+0||A sg n||    juhtunud+d||A pl n||
+mürgistusele    mürgistus+le||S sg all||
+leida    leid+a||V da||
+kiiresti    kiiresti+0||D||
+kõige    kõige+0||D||
+sobivama    sobivam+0||C sg g||
+tegutsemisskeemi    tegutsemis_skeem+0||S sg g||
+.    .+||Z||
+</p>
+</doc>
+<doc id="188392" length="1k-10k" crawl_date="2013-01-11" url="http://www.terviseamet.ee/kemikaaliohutus/uudised/arhiiv/browse/2.html" web_domain="www.terviseamet.ee" langdiff="0.44" texttype="periodicals"> 
+<gap/>
+<p heading="1"> 
+Arhiiv    arhiiv+0||S sg n||
+</p>
+<gap/>
+<p heading="0"> 
+Euroopa    Euroopa+0||H sg g||
+Parlamendi    parlament+0||S sg g||
+ja    ja+0||J||
+nõukogu    nõu_kogu+0||S sg g||
+määruse    määrus+0||S sg g||
+(    (+||Z||
+EÜ    EÜ+0||Y ?||
+)    )+||Z||
+nr    nr+0||Y ?||
+689/2008    689/2008+0||N ?||
+(    (+||Z||
+ohtlike    ohtlik+e||A pl g||
+kemikaalide    kemikaal+de||S pl g||
+ekspordi    eksport+0||S sg g||
+ja    ja+0||J||
+impordi    import+0||S sg g||
+kohta    kohta+0||K||
+)    )+||Z||
+artikkel    artikkel+0||S sg n||
+9    9+0||N ?||
+kohaselt    kohaselt+0||K||
+peavad    pida+vad||V vad||
+määruse    määrus+0||S sg g||
+I    I+0||O ?||
+lisas    lisa+s||S sg in||
+loetletud    loetle+tud||V tud||    loetletud+0||A||+    loetletud+0||A sg n||    loetletud+d||A pl n||
+ainete    aine+te||S pl g||
+või    või+0||J||
+neid    see+d||P pl p||
+aineid    aine+id||S pl p||
+teatud    tead+tud||V tud||    teatud+0||A||+    teatud+0||A sg n||    teatud+d||A pl n||
+koguses    kogus+s||S sg in||
+sisaldavate    sisaldav+te||A pl g||
+segude    segu+de||S pl g||
+või    või+0||J||
+toodete    toode+te||S pl g||
+...    ...+||Z||
+Loe    luge+0||V o||
+edasi    edasi+0||D||
+</p>
+<gap/>
+<p heading="0"> 
+REACH-määrus    REACH-määrus+0||S sg n||
+ei    ei+0||V neg||
+sätesta    sätesta+0||V o||
+EC    EC+0||Y ?||
+numbrite    number+te||S pl g||
+(    (+||Z||
+EINECS    Einecs+0||H sg n|| %EINECS+0||Y ?||
+[    [+||Z||
+1    1+0||N ?||
+],    ,+||Z||
+ELINCS    Elincs+0||H sg n|| %ELINCS+0||Y ?||
+[    [+||Z||
+2    2+0||N ?||
+],    ,+||Z||
+NLP    NLP+0||Y ?||
+[    [+||Z||
+3    3+0||N ?||
+])    )+||Z||
+andmist    andmine+t||S sg p||
+ja    ja+0||J||
+põhimõte    põhi_mõte+0||S sg n||
+on    ole+0||V b||+    ole+0||V vad||
+,    ,+||Z||
+et    et+0||J||
+REACH-määruse    REACH-määrus+0||S sg g||
+jõustumisega    jõustumine+ga||S sg kom||
+lõppes    lõppe+s||V s||
+EC    EC+0||Y ?||
+numbrite    number+te||S pl g||
+andmise    andmine+0||S sg g||
+seaduslik    seaduslik+0||A sg n||
+alus    alus+0||S sg n||
+EC    EC+0||Y ?||
+loetellu    loetelu+0||S adt||
+kandmiseks    kandmine+ks||S sg tr||
+.    .+||Z||
+Nende    see+de||P pl g||
+ainete    aine+te||S pl g||
+puhul    puhul+0||K||
+,    ,+||Z||
+mis    mis+0||P pl n||+    mis+0||P sg n||
+ei    ei+0||V neg||
+olnud    ol=nud+0||A||    ol=nud+0||A sg n||    ol=nud+d||A pl n||    ole+nud||V nud||+
+EC    EC+0||Y ?||
+...    ...+||Z||
+Loe    luge+0||V o||
+edasi    edasi+0||D||
+</p>
+</doc>
+<doc id="188428" length="1k-10k" crawl_date="2013-01-11" url="http://www.terviseamet.ee/kemikaaliohutus/ohtlike-kemikaalide-eksportimport/eksporditavatele-kemikaalidele-lisatav-teave.html" web_domain="www.terviseamet.ee" langdiff="0.43" texttype="unknown"> 
+<gap/>
+<p heading="1"> 
+Eksporditavatele    ekspordi=tav+tele||A pl all||
+kemikaalidele    kemikaal+dele||S pl all||
+lisatav    lisa=tav+0||A sg n||
+teave    teave+0||S sg n||
+</p>
+<p heading="0"> 
+Kõikide    kõik+de||P pl g||
+ekspordiks    eksport+ks||S sg tr||
+ettenähtud    ette_nähtud+0||A||+    ette_nähtud+0||A sg n||    ette_nähtud+d||A pl n||
+kemikaalide    kemikaal+de||S pl g||
+suhtes    suhtes+0||K||
+kohaldatakse    kohalda+takse||V takse||
+Euroopa    Euroopa+0||H sg g||
+parlamendi    parlament+0||S sg g||
+ja    ja+0||J||
+nõukogu    nõu_kogu+0||S sg g||
+määruse    määrus+0||S sg g||
+(    (+||Z||
+EÜ    EÜ+0||Y ?||
+)    )+||Z||
+nr    nr+0||Y ?||
+1272/2008    1272/2008+0||N ?||
+,    ,+||Z||
+direktiivi    direktiiv+0||S sg p|| %direktiiv+0||S sg g||
+67/548    67/548+0||N ?||
+/    /+||Z||
+EMÜ    EMÜ+0||Y ?||
+,    ,+||Z||
+direktiivi    direktiiv+0||S sg g||
+1999/45    1999/45+0||N ?||
+/    /+||Z||
+EÜ    EÜ+0||Y ?||
+,    ,+||Z||
+määruse    määrus+0||S sg g||
+(    (+||Z||
+EÜ    EÜ+0||Y ?||
+)    )+||Z||
+nr    nr+0||Y ?||
+1107/2009    1107/2009+0||N ?||
+,    ,+||Z||
+ja    ja+0||J||
+direktiivi    direktiiv+0||S sg g||
+98/8    98/8+0||N ?||
+/    /+||Z||
+EÜ    EÜ+0||Y ?||
+või    või+0||J||
+muude    muu+de||P pl g||
+asjakohaste    asja_kohane+te||A pl g||
+ühenduse    ühendus+0||S sg g||
+õigusaktidega    õigus_akt+dega||S pl kom||
+või    või+0||J||
+nende    see+de||P pl g||
+alusel    alune+l||S sg ad||    alus+l||S sg ad||+
+kehtestatud    kehtesta+tud||V tud||    kehtesta=tud+0||A||+    kehtesta=tud+0||A sg n||    kehtesta=tud+d||A pl n||
+pakendamis-    pakendamis+||S ?||
+ja    ja+0||J||
+märgistamisnõudeid    märgista=mis_nõue+id||S pl p||
+nii    nii+0||D||
+,    ,+||Z||
+et    et+0||J||
+ei    ei+0||V neg||
+piirata    piira+ta||V da||
+importiva    importi=v+0||A sg g||
+konventsiooniosalise    konventsiooni_osaline+0||A sg g||
+või    või+0||J||
+muu    muu+0||P sg g||
+riigi    riik+0||S sg g||
+erinõuete    eri_nõue+te||S pl g||
+kohaldamist    kohalda=mine+t||S sg p||
+,    ,+||Z||
+kui    kui+0||D||    kui+0||J||+
+need    see+d||P pl n||
+arvestavad    arvesta+vad||V vad||
+asjakohaseid    asja_kohane+id||A pl p||
+rahvusvahelisi    rahvus_vaheline+i||A pl p||
+norme    norm+e||S pl p||
+.    .+||Z||
+Kemikaalide    kemikaal+de||S pl g||
+aegumis-    aegumis+||S ?||
+ja    ja+0||J||
+tootmiskuupäevad    tootmis_kuu_päev+d||S pl n||
+märgitakse    märki+takse||V takse||
+etiketile    etikett+le||S sg all||
+,    ,+||Z||
+kui    kui+0||D||    kui+0||J||+
+see    see+0||P sg n||
+on    ole+0||V b||+    ole+0||V vad||
+asjakohane    asja_kohane+0||A sg n||
+ning    ning+0||J||
+vajadusel    vajadus+l||S sg ad||
+esitatakse    esita+takse||V takse||
+aegumiskuupäevad    aegumis_kuu_päev+d||S pl n||
+eri    eri+0||A||
+kliimavöötmete    kliima_vööde+te||S pl g||
+jaoks    jaoks+0||K||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Kui    kui+0||D||    kui+0||J||+
+võimalik    võimalik+0||A sg n||
+,    ,+||Z||
+esitatakse    esita+takse||V takse||
+teave    teave+0||S sg n||
+kemikaali    kemikaal+0||S sg g||
+märgistusel    märgistus+l||S sg ad||
+ja    ja+0||J||
+ohutuskaardil    ohutus_kaart+l||S sg ad||
+sihtriigi    siht_riik+0||S sg g||
+või    või+0||J||
+ettenähtud    ette_nähtud+0||A||+    ette_nähtud+0||A sg n||    ette_nähtud+d||A pl n||
+kasutuspiirkonna    kasutus_piirkond+0||S sg g||
+ametlikes    ametlik+es||A pl in||
+keeltes    keel+tes||S pl in||
+või    või+0||J||
+ühes    üks+s||P sg in|| %üks+s||N sg in||
+või    või+0||J||
+mitmes    mitu+s||P sg in||
+peamises    peamine+s||A sg in||
+keeles    keel+s||S sg in||
+.    .+||Z||
+</p>
+</doc>
+<doc id="188625" length="1k-10k" crawl_date="2013-01-11" url="http://www.terviseamet.ee/info/uudised/u/artikkel/ulemiste-hingamisteede-viirusnakkused-ja-gripp-2-nadalal.html" web_domain="www.terviseamet.ee" langdiff="0.35" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Nädala    nädal+0||S sg g||
+jooksul    jooksul+0||K||
+tehti    tege+ti||V ti||
+Terviseameti    tervise_amet+0||S sg g||
+nakkushaiguste    nakkus_haigus+te||S pl g||
+laboris    labor+s||S sg in||
+57    57+0||N ?||
+proovi    proov+0||S sg g|| %proov+0||S sg p||
+uuele    uus+le||A sg all||
+gripile    gripp+le||S sg all||
+,    ,+||Z||
+neist    tema+st||P pl el||
+24    24+0||N ?||
+olid    ole+id||V sid||
+posiitivsed    posiitivse+d||S pl n||
+.    .+||Z||
+Hooaja    hoo_aeg+0||S sg g||
+algusest    algus+st||S sg el||
+on    ole+0||V b||+    ole+0||V vad||
+uuritud    uuri+tud||V tud||+    uuri=tud+0||A||    uuri=tud+0||A sg n||    uuri=tud+d||A pl n||
+1959    1959+0||N ?||
+proovi    proov+0||S sg g|| %proov+0||S sg p||
+uue    uus+0||A sg g||
+gripi    gripp+0||S sg g||
+tekitaja    tekitaja+0||S sg g||
+suhtes    suhtes+0||K||
+,    ,+||Z||
+neist    see+st||P pl el||
+said    saa+id||V sid||
+positiivse    positiivne+0||A sg g||
+kinnituse    kinnitus+0||S sg g||
+821    821+0||N ?||
+proovi    proov+0||S sg g|| %proov+0||S sg p||
+.    .+||Z||
+</p>
+<p heading="0"> 
+2.    2.+0||O ?||
+nädalal    nädal+l||S sg ad||
+lisandus    lisandu+s||V s||
+kaks    kaks+0||N sg n||
+uut    uus+t||A sg p||
+gripi    gripp+0||S sg g||
+surmajuhtu    surma_juht+0||S sg p||
+.    .+||Z||
+Lahangul    lahang+l||S sg ad||
+tuvastati    tuvasta+ti||V ti||
+gripiviirus    gripi_viirus+0||S sg n||
+54    54+0||N ?||
+ja    ja+0||J||
+77-aastasel    77_aastane+l||A sg ad||
+naisel    naine+l||S sg ad||
+,    ,+||Z||
+nad    tema+d||P pl n||
+mõlemad    mõlema+d||P pl n||
+põdesid    põde+sid||V sid||
+lisaks    lisa+ks||S sg tr||
+erinevaid    erinev+id||A pl p||
+kroonilisi    krooniline+i||A pl p||
+haigusi    haigus+i||S pl p||
+.    .+||Z||
+</p>
+<gap/>
+<p heading="0"> 
+Haigestumine    Haigestumine+0||H sg n|| %haigestumine+0||S sg n||
+Euroopas    Euroopa+s||H sg in||
+</p>
+<p heading="0"> 
+Euroopa    Euroopa+0||H sg g||
+gripiseirevõrgustiku    gripi_seire_võrgustik+0||S sg g||
+andmetel    andmed+tel||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+haigestumuse    haigestumus+0||S sg g||
+intensiivsus    intensiivsus+0||S sg n||
+kõrge    kõrge+0||A sg g|| %kõrge+0||A sg n||
+Poolas    Poola+s||H sg in||
+.    .+||Z||
+Seitsmes    seitsmes+0||O sg n|| %seitse+s||N sg in||
+riigis    riik+s||S sg in||
+-    -+||Z||
+Bulgaarias    Bulgaaria+s||H sg in||
+,    ,+||Z||
+Eestis    Eesti+s||H sg in||
+,    ,+||Z||
+Kreekas    Kreeka+s||H sg in||
+,    ,+||Z||
+Prantsusmaal    Prantsus_maa+l||H sg ad||
+,    ,+||Z||
+Maltas    Malta+s||H sg in||
+,    ,+||Z||
+Rumeenias    Rumeenia+s||H sg in||
+ja    ja+0||J||
+Šotimaal    Šoti_maa+l||H sg ad||
+hinnatakse    hinda+takse||V takse||
+haigestumise    haigestumine+0||S sg g||
+intensiivsust    intensiivsus+t||S sg p||
+keskmiseks    keskmine+ks||A sg tr||
+ja    ja+0||J||
+ülejäänud    üle_jäänud+0||A||+    üle_jäänud+0||A sg n||    üle_jäänud+d||A pl n||
+riikides    riik+des||S pl in||
+19    19+0||N ?||
+madalaks    madal+ks||A sg tr||
+.    .+||Z||
+</p>
+</doc>
+<doc id="188908" length="1k-10k" crawl_date="2013-01-11" url="http://www.terviseamet.ee/info/uudised/u/artikkel/eestis-on-sagenenud-rotaviirusenteriiti-haigestumine.html" web_domain="www.terviseamet.ee" langdiff="0.40" texttype="periodicals"> 
+<gap/>
+<p heading="0"> 
+Kogutud    kogu+tud||V tud||    kogu=tud+0||A||+    kogu=tud+0||A sg n||    kogu=tud+d||A pl n||
+andmed    andmed+d||S pl n||
+näitavad    näita+vad||V vad||
+,    ,+||Z||
+et    et+0||J||
+viimastel    viimane+tel||A pl ad||
+aastatel    aasta+tel||S pl ad||
+on    ole+0||V b||+    ole+0||V vad||
+täheldatud    tähelda+tud||V tud||+    tähelda=tud+0||A||    tähelda=tud+0||A sg n||    tähelda=tud+d||A pl n||
+rotaviirusenteriidi    rotaviirusenteriid+0||S sg g||    rotaviirusenteriit+0||S sg g|| %rota_viirus_enteriid+0||S adt||
+haigestumise    haigestumine+0||S sg g||
+püsivat    püsiv+t||A sg p||
+tõusu    tõus+0||S sg p||
+,    ,+||Z||
+mis    mis+0||P pl n||    mis+0||P sg n||+
+viitab    viita+b||V b||
+haigustekitaja    haigus_tekitaja+0||S sg g||
+jätkuvale    jätkuv+le||A sg all||
+ringlusele    ringlus+le||S sg all||
+elanike    elanik+e||S pl g||
+seas    seas+0||K||
+.    .+||Z||
+</p>
+</doc>
