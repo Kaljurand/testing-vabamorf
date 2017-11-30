@@ -3,11 +3,7 @@
 
 """
 Evaluates the accuracy of the EstNLTK morphological disambiguator.
-"""
 
-from __future__ import division, print_function
-
-"""
 Usage:
 
 ./eval-disambiguate.py --output-types=csv,excel --verbosity=2 gold/*.txt
@@ -33,12 +29,11 @@ TODO:
 """
 
 import argparse
-from estnltk import Text
-from estnltk.teicorpus import parse_tei_corpus
 import re
 import random
 import sys
 import pandas as pd
+from estnltk import Text
 
 DEFAULT_VERBOSITY = 0
 DEFAULT_OUTPUT_TYPES = set(['csv'])
@@ -172,7 +167,7 @@ def get_text(fn):
     }
     with open(fn, "r") as f:
         for raw_line in f:
-            line = raw_line.decode('utf8').strip()
+            line = raw_line.strip()
             try:
                 word_text, root, postag, form, ambiguity = parse_line(line)
             except ValueError as e:
